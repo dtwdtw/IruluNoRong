@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingRight="10dp"
+    android:paddingBottom="15dp"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/send_message_txt_time"
+        style="@style/chat_text_date_style"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/setting_text_size"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="15dp"
+        android:text="2015-12-12" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:gravity="right"
+        android:orientation="horizontal" >
+
+        <ProgressBar
+                android:id="@+id/item_message_sender_pb_state"
+                android:layout_width="25dp"
+                android:layout_height="25dp"
+                android:layout_gravity="center_vertical"
+                android:layout_marginRight="8dp"
+                android:visibility="gone"
+                android:indeterminateDrawable="@drawable/loading_circle" />
+        
+        <TextView
+            android:id="@+id/send_message_txt"
+            style="@style/wrap_content"
+            android:layout_marginTop="25dp"
+            android:layout_marginRight="10dp"
+            android:clickable="true"
+            android:textColor="@android:color/white"
+            android:layout_marginLeft="50dp"
+            android:textSize="@dimen/setting_text_size"
+            android:background="@drawable/notify_xinxitiao_yonghu"
+            android:text="gblkgbs\nujgblkwabg\nlksbdmgf\nagb" />
+
+        <com.wf.irulu.common.view.RoundImageView
+            android:id="@+id/send_message_headimg"
+            style="@style/chat_message_head"
+            android:background="@drawable/shape_circle_pic"
+            android:src="@mipmap/default_icon_user" />
+    </LinearLayout>
+
+</LinearLayout>

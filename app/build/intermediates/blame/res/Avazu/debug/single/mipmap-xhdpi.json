@@ -1,0 +1,1346 @@
+[
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/item_under_arrow.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/item_under_arrow.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/notify_irulu_support.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/notify_irulu_support.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/details_xingxing_normal.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/details_xingxing_normal.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/details_xingxing_selected.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/details_xingxing_selected.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/message_support_pic_icon_press.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/message_support_pic_icon_press.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/back_to_top_icon.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/back_to_top_icon.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/icon_shoppingcart.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/icon_shoppingcart.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/loading_100.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/loading_100.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/biaoqian.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/biaoqian.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/message_support_pic_icon_normal.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/message_support_pic_icon_normal.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/messages_no_news_icon.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/messages_no_news_icon.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/notify_irulu_support.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/notify_irulu_support.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/selected_xian.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/selected_xian.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/delete_sign_in_icon.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/delete_sign_in_icon.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/notify_image_xiaotu.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/notify_image_xiaotu.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/cart_reduce_button_press.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/cart_reduce_button_press.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/setting.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/setting.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/nav_cl_icon_press.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/nav_cl_icon_press.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/icon_maestro.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/icon_maestro.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/icon_tishi.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/icon_tishi.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/loading_10.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/loading_10.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/loading_60.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/loading_60.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/page_indicator_normal.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/page_indicator_normal.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/icon_tishi.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/icon_tishi.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/item_on_arrow.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/item_on_arrow.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/details_more_icon_selected.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/details_more_icon_selected.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/dialog_params_bg.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/dialog_params_bg.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/nav_gwc_icon_yuan.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/nav_gwc_icon_yuan.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/item_on_arrow.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/item_on_arrow.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/accessories.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/accessories.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/choose_address_kong.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/choose_address_kong.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/cart_increase_button_normal.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/cart_increase_button_normal.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/sidebar_icon_shop_by_category.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/sidebar_icon_shop_by_category.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/leftnemu_selected.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/leftnemu_selected.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/cl_menu.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/cl_menu.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/tracking_deyails_round_select.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/tracking_deyails_round_select.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/bg_picutre_show.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/bg_picutre_show.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/search_arrow_bottom.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/search_arrow_bottom.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/sidebar_icon_invite_friends.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/sidebar_icon_invite_friends.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/nav_search_icon_press.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/nav_search_icon_press.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/login_extend.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/login_extend.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/profile_username_delete.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/profile_username_delete.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/sidebar_icon_my_coupon.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/sidebar_icon_my_coupon.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/details_xingxing_normal_small.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/details_xingxing_normal_small.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/loading_70.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/loading_70.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/search_arrow_03.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/search_arrow_03.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/loading_00.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/loading_00.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/wish_list_delete_icon_press.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/wish_list_delete_icon_press.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/message_unread.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/message_unread.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/icon_side.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/icon_side.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/details_xingxing_selected_big.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/details_xingxing_selected_big.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/cancleupdate.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/cancleupdate.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/search_nav_search_icon.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/search_nav_search_icon.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/guide_03.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/guide_03.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/details_xingxing_selected_small.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/details_xingxing_selected_small.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/setting.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/setting.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/sidebar_icon_wish_list.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/sidebar_icon_wish_list.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/loading_00.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/loading_00.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/icon_search_pressed.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/icon_search_pressed.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/upload_photo.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/upload_photo.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/icon_side_press.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/icon_side_press.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/about_irulu_logo.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/about_irulu_logo.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/login_logo_facebook.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/login_logo_facebook.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/loading_60.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/loading_60.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/cart_delete_icon_normal.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/cart_delete_icon_normal.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/loading_10.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/loading_10.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/icon_shoppingcart.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/icon_shoppingcart.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/notify_discount_messages.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/notify_discount_messages.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/nav_delete_press.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/nav_delete_press.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/tracking_deyails_round_normal.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/tracking_deyails_round_normal.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/cart_delete.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/cart_delete.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/page_indicator_normal.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/page_indicator_normal.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/wish_list_delete_icon_press.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/wish_list_delete_icon_press.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/leftnemu_normal.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/leftnemu_normal.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/page_indicator_selected.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/page_indicator_selected.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/del_icon.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/del_icon.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/messages_no_news_icon.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/messages_no_news_icon.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/sidebar_icon_messages.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/sidebar_icon_messages.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/search_arrow_bottom_selected.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/search_arrow_bottom_selected.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/wishlist_icon_select.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/wishlist_icon_select.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/delete_sign_in_icon.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/delete_sign_in_icon.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/nav_cl_icon_press.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/nav_cl_icon_press.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/guide_01_icon.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/guide_01_icon.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/nav_back_icon_normal.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/nav_back_icon_normal.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/nav_search_icon_normal.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/nav_search_icon_normal.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/nav_back_icon_press.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/nav_back_icon_press.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/wish_list_delete_icon_normal.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/wish_list_delete_icon_normal.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/login_button_normal.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/login_button_normal.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/guide_02.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/guide_02.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/no_data_show.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/no_data_show.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/customersupport.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/customersupport.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/delete_icon_normal2x.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/delete_icon_normal2x.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/details_share_icon_selected.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/details_share_icon_selected.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/sidebar_icon_shopping_cart.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/sidebar_icon_shopping_cart.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/loading_80.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/loading_80.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/common_nav_cart_messgae.9.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/common_nav_cart_messgae.9.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/email_icon.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/email_icon.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/payment_xiexian.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/payment_xiexian.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/details_xingxing_normal.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/details_xingxing_normal.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/yema_normal.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/yema_normal.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/default_ptr_rotate.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/default_ptr_rotate.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/leftnemu_selected.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/leftnemu_selected.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/guide_01.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/guide_01.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/default_icon_user.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/default_icon_user.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/details_more_icon_normal.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/details_more_icon_normal.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/sidebar_icon_my_orders.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/sidebar_icon_my_orders.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/message_support_pic_icon_press.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/message_support_pic_icon_press.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/guide_03.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/guide_03.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/message_unread.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/message_unread.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/point_checked.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/point_checked.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/wish_list_kong.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/wish_list_kong.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/bg_message_unread.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/bg_message_unread.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/ic_back_last.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/ic_back_last.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/delete_icon_press2x.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/delete_icon_press2x.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/ic_back_last.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/ic_back_last.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/wishlist.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/wishlist.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/details_xingxing_normal_big.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/details_xingxing_normal_big.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/cart_increase_button_press.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/cart_increase_button_press.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/search_arrow_bottom.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/search_arrow_bottom.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/icon_visa.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/icon_visa.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/accessories.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/accessories.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/arrow_right_icon.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/arrow_right_icon.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/arrow_right_icon.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/arrow_right_icon.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/pay_success_to_pay_icon.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/pay_success_to_pay_icon.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/icon_logo_irulu.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/icon_logo_irulu.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/cart_delete_icon_press.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/cart_delete_icon_press.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/details_xingxing_selected_small.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/details_xingxing_selected_small.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/guide_02_icon.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/guide_02_icon.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/nav_gwc_icon_press.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/nav_gwc_icon_press.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/cart_reduce_button_normal.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/cart_reduce_button_normal.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/nav_search_icon_normal.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/nav_search_icon_normal.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/loading_70.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/loading_70.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/point.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/point.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/sidebar_icon_my_orders.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/sidebar_icon_my_orders.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/item_delete.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/item_delete.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/search_arrow_02.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/search_arrow_02.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/icon_mastercard.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/icon_mastercard.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/login_name_icon.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/login_name_icon.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/sign_in_logo.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/sign_in_logo.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/nav_gwc_icon_yuan.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/nav_gwc_icon_yuan.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/cart_reduce_button_normal.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/cart_reduce_button_normal.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/login_close.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/login_close.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/page_indicator_selected.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/page_indicator_selected.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/icon_paypal.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/icon_paypal.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/indicator_arrow.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/indicator_arrow.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/cart_increase_button_normal.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/cart_increase_button_normal.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/icon_visa.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/icon_visa.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/wish_list_kong.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/wish_list_kong.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/cart_add.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/cart_add.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/order_kong.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/order_kong.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/guide_03_icon.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/guide_03_icon.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/nav_gwc_icon_press.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/nav_gwc_icon_press.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/nav_gwc_icon_normal.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/nav_gwc_icon_normal.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/reviews_head_im.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/reviews_head_im.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/login_twitter_headimage.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/login_twitter_headimage.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/sidebar_icon_my_coupon.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/sidebar_icon_my_coupon.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/default_ptr_flip.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/default_ptr_flip.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/headpic.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/headpic.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/guide_04.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/guide_04.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/nav_delete_normal.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/nav_delete_normal.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/about_irulu_logo.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/about_irulu_logo.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/round_button_selected.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/round_button_selected.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/notify_image_xiaotu.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/notify_image_xiaotu.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/reviews_edit.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/reviews_edit.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/loading_80.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/loading_80.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/notify_discount_messages.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/notify_discount_messages.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/details_xingxing_normal_small.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/details_xingxing_normal_small.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/icon_american.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/icon_american.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/nav_delete_press.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/nav_delete_press.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/search_nav_search_icon.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/search_nav_search_icon.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/ic_back_last_pressed.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/ic_back_last_pressed.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/search_delete.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/search_delete.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/customer_us_email_icon.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/customer_us_email_icon.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/common_cancel_icon_press.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/common_cancel_icon_press.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/search_kong.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/search_kong.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/password_icon.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/password_icon.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/selected_xian.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/selected_xian.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/choose_address_kong.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/choose_address_kong.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/wish_list_delete_icon_normal.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/wish_list_delete_icon_normal.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/pay_pending_to_pay_icon.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/pay_pending_to_pay_icon.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/sidebar_icon_shopping_cart.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/sidebar_icon_shopping_cart.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/default_icon_user.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/default_icon_user.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/sidebar_icon_setting.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/sidebar_icon_setting.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/common_nav_cart_messgae.9.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/common_nav_cart_messgae.9.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/delete_icon_press2x.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/delete_icon_press2x.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/guide_04_icon.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/guide_04_icon.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/search_arrow_bottom_selected.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/search_arrow_bottom_selected.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/bg_page_bottom.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/bg_page_bottom.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/login_button_normal.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/login_button_normal.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/sidebar_icon_messages.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/sidebar_icon_messages.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/login_facebook_headimage.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/login_facebook_headimage.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/nav_delete_normal.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/nav_delete_normal.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/loading_90.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/loading_90.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/leftnemu_background.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/leftnemu_background.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/sidebar_icon_setting.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/sidebar_icon_setting.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/icon_search_normal.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/icon_search_normal.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/guide_04_icon.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/guide_04_icon.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/sns_circle_loading_white.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/sns_circle_loading_white.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/login_facebook_headimage.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/login_facebook_headimage.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/icon_search_pressed.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/icon_search_pressed.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/cart_increase_button_press.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/cart_increase_button_press.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/massage.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/massage.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/sidebar_icon_customer_support.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/sidebar_icon_customer_support.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/default_ptr_flip.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/default_ptr_flip.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/loading_90.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/loading_90.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/login_extend.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/login_extend.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/loading_40.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/loading_40.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/search_arrow_01.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/search_arrow_01.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/search_arrow_02.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/search_arrow_02.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/details_share_icon_selected.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/details_share_icon_selected.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/login_close.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/login_close.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/sns_circle_loading_white.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/sns_circle_loading_white.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/icon_arrow.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/icon_arrow.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/icon_shoppingcart_press.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/icon_shoppingcart_press.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/yema_selected.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/yema_selected.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/yema_normal.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/yema_normal.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/login_button_press.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/login_button_press.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/login_twitter_headimage.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/login_twitter_headimage.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/biaoqian.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/biaoqian.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/guide_02.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/guide_02.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/round_button_normal.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/round_button_normal.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/no_data_show.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/no_data_show.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/guide_04.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/guide_04.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/order_kong.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/order_kong.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/shoppingcart.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/shoppingcart.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/icon_shoppingcart_press.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/icon_shoppingcart_press.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/yema_selected.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/yema_selected.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/details_wish_icon_selected.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/details_wish_icon_selected.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/leftnemu_normal.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/leftnemu_normal.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/bg_picutre_show.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/bg_picutre_show.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/back_to_top_icon.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/back_to_top_icon.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/guide_02_icon.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/guide_02_icon.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/nav_gwc_icon_normal.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/nav_gwc_icon_normal.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/pay_success_to_pay_icon.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/pay_success_to_pay_icon.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/wishlist_icon_normal.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/wishlist_icon_normal.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/round_button_selected.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/round_button_selected.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/cart_add.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/cart_add.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/nav_back_icon_press.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/nav_back_icon_press.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/cart_gwc.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/cart_gwc.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/bg_message_unread.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/bg_message_unread.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/search_arrow_03.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/search_arrow_03.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/details_wish_icon_normal.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/details_wish_icon_normal.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/icon_arrow.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/icon_arrow.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/round_button_normal.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/round_button_normal.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/customer_us_email_icon.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/customer_us_email_icon.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/myorder.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/myorder.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/notify_order_message.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/notify_order_message.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/headpic.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/headpic.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/loading_100.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/loading_100.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/reviews_edit.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/reviews_edit.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/icon_paypal.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/icon_paypal.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/default_ptr_rotate.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/default_ptr_rotate.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/bg_page_bottom.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/bg_page_bottom.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/details_wish_icon_selected.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/details_wish_icon_selected.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/cancleupdate.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/cancleupdate.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/sidebar_icon_invite_friends.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/sidebar_icon_invite_friends.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/customersupport.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/customersupport.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/item_delete.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/item_delete.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/leftnemu_background.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/leftnemu_background.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/loading_50.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/loading_50.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/search_kong.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/search_kong.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/loading_00000x.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/loading_00000x.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/notify_order_message.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/notify_order_message.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/loading_50.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/loading_50.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/payment_xiexian.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/payment_xiexian.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/loading_20.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/loading_20.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/details_more_icon_normal.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/details_more_icon_normal.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/icon_search_normal.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/icon_search_normal.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/details_xingxing_selected.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/details_xingxing_selected.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/ic_back_last_pressed.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/ic_back_last_pressed.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/delete_icon_normal2x.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/delete_icon_normal2x.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/sign_in_logo.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/sign_in_logo.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/point.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/point.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/wishlist_icon_select.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/wishlist_icon_select.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/guide_01_icon.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/guide_01_icon.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/icon_side.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/icon_side.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/dialog_params_bg.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/dialog_params_bg.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/common_cancel_icon_press.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/common_cancel_icon_press.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/pay_pending_to_pay_icon.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/pay_pending_to_pay_icon.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/details_xingxing_normal_big.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/details_xingxing_normal_big.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/password_icon.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/password_icon.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/email_icon.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/email_icon.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/icon_american.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/icon_american.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/point_checked.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/point_checked.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/icon_side_press.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/icon_side_press.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/cart_delete_icon_press.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/cart_delete_icon_press.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/nav_back_icon_normal.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/nav_back_icon_normal.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/icon_maestro.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/icon_maestro.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/login_logo_facebook.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/login_logo_facebook.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/massage.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/massage.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/message_support_pic_icon_normal.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/message_support_pic_icon_normal.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/details_more_icon_selected.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/details_more_icon_selected.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/login_button_press.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/login_button_press.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/sidebar_icon_customer_support.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/sidebar_icon_customer_support.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/indicator_arrow.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/indicator_arrow.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/details_share_icon_normal.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/details_share_icon_normal.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/cl_menu.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/cl_menu.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/cart_gwc.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/cart_gwc.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/details_wish_icon_normal.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/details_wish_icon_normal.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/item_under_arrow.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/item_under_arrow.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/icon_logo_irulu.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/icon_logo_irulu.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/nav_search_icon_press.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/nav_search_icon_press.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/nav_cl_icon_normal.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/nav_cl_icon_normal.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/wishlist_icon_normal.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/wishlist_icon_normal.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/login_name_icon.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/login_name_icon.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/loading_30.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/loading_30.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/tracking_deyails_round_select.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/tracking_deyails_round_select.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/search_delete.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/search_delete.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/wishlist.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/wishlist.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/nav_cl_icon_normal.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/nav_cl_icon_normal.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/del_icon.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/del_icon.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/icon_mastercard.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/icon_mastercard.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/sidebar_icon_wish_list.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/sidebar_icon_wish_list.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/loading_30.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/loading_30.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/sidebar_icon_shop_by_category.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/sidebar_icon_shop_by_category.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/details_share_icon_normal.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/details_share_icon_normal.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/tracking_deyails_round_normal.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/tracking_deyails_round_normal.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/search_arrow_01.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/search_arrow_01.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/myorder.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/myorder.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/profile_username_delete.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/profile_username_delete.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/guide_01.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/guide_01.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/cart_delete.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/cart_delete.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/login_logo_twitter.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/login_logo_twitter.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/login_logo_twitter.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/login_logo_twitter.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/loading_00000x.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/loading_00000x.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/cart_reduce_button_press.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/cart_reduce_button_press.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/reviews_head_im.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/reviews_head_im.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/loading_40.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/loading_40.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/shoppingcart.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/shoppingcart.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/loading_20.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/loading_20.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/details_xingxing_selected_big.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/mipmap-xhdpi/details_xingxing_selected_big.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/guide_03_icon.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/guide_03_icon.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/upload_photo.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/upload_photo.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/mipmap-xhdpi/cart_delete_icon_normal.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/mipmap-xhdpi/cart_delete_icon_normal.png"
+    }
+]

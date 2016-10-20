@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+    <include layout="@layout/common_simple_title"/>
+
+    <com.wf.irulu.common.view.swipemenulistview.SwipeMenuListView
+        android:id="@+id/message_list"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:divider="@null"/>
+
+    <include
+        android:id="@+id/message_empty_layout"
+        android:visibility="gone"
+        layout="@layout/view_message_empty"/>
+</LinearLayout>

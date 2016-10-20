@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/select_size_color"
+        android:textColor="@color/black"
+        android:textSize="@dimen/second_title_size"
+        android:id="@+id/paramsdetail_tv_name"
+        android:layout_marginTop="@dimen/product_margin_box_01"
+  />
+
+
+    <com.wf.irulu.common.view.FlowLayout
+        android:id="@+id/paramsdetail_fl_list"
+        android:layout_marginTop="@dimen/product_margin_box_01"
+        android:layout_marginRight="@dimen/product_margin_box_01"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>

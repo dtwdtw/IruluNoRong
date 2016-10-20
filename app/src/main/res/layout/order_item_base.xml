@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@color/white">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="@dimen/product_margin_box_03"
+        android:paddingBottom="@dimen/product_margin_box_03"
+        android:background="@drawable/bottom_top_box_split">
+
+        <TextView
+            android:id="@+id/order_tv_date"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="16sp"
+            android:layout_centerVertical="true"
+            android:textColor="@color/product_old_price"
+            android:layout_marginLeft="@dimen/product_margin_box_01"
+            android:text="Dec 12,2015"/>
+
+        <TextView
+            android:id="@+id/order_tv_status"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="@dimen/product_margin_box_01"
+            android:textSize="@dimen/third_title_size"
+            android:textColor="@color/amount_blue"
+            android:text="Paid"/>
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <com.wf.irulu.common.view.NoScrollListView
+            android:id="@+id/order_nslv_products"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="@dimen/product_margin_box_02"
+            android:layout_marginRight="@dimen/product_margin_box_02"
+            android:divider="@color/divider_gray"
+            android:dividerHeight="1px"
+            android:background="@color/white" />
+
+    </LinearLayout>
+
+    <View
+        style="@style/HorizontalLine"
+        android:layout_marginLeft="@dimen/product_margin_box_02"
+        android:layout_marginRight="@dimen/product_margin_box_02"/>
+
+    <RelativeLayout
+        android:id="@+id/total_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bottom_box_gray">
+
+        <TextView
+            android:id="@+id/order_tv_count"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/order_title"
+            android:layout_marginTop="@dimen/product_margin_box_02"
+            android:layout_marginBottom="@dimen/product_margin_box_02"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/product_margin_box_01"
+            android:textColor="@color/product_old_price"
+            android:text="13 items"/>
+
+        <TextView
+            android:id="@+id/order_tv_total"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:textSize="@dimen/third_title_size"
+            android:layout_marginTop="@dimen/product_margin_box_02"
+            android:layout_marginBottom="@dimen/product_margin_box_02"
+            android:layout_marginRight="@dimen/product_margin_box_01"
+            android:textColor="@color/product_old_price"
+            android:text="$333.45"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toLeftOf="@id/order_tv_total"
+            android:textSize="14sp"
+            android:textColor="@color/title_text_color"
+            android:layout_centerVertical="true"
+            android:text="@string/total"
+            android:layout_marginRight="5dp"/>
+
+    </RelativeLayout>
+
+</LinearLayout>

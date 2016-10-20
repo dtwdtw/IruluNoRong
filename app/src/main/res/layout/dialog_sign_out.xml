@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/change_password_height"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="5dp"
+        android:gravity="center_vertical"
+        android:text="Sign Out"
+        android:textColor="#2d2d2d"
+        android:textSize="@dimen/dialog_title_text_size" />
+
+    <View
+        style="@style/HorizontalLine8"
+        android:layout_marginTop="5dp" />
+
+    <TextView
+        android:id="@+id/dialog_sign_out_tv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="10dp"
+        android:textSize="@dimen/setting_text_size"
+        android:text="You are signed in as Mingle."
+        android:textColor="#666666" />
+
+    <View
+        style="@style/HorizontalLine8"
+        android:layout_marginTop="50dp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/dialog_sign_out_cancle_btn"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/change_password_height"
+            android:layout_weight="1"
+            android:background="@null"
+            android:gravity="center"
+            android:text="Cancel"
+            android:textSize="@dimen/setting_text_size"
+            android:textAllCaps="false"
+            android:textColor="#4fa6ff" />
+
+        <View
+            android:layout_width="1px"
+            android:layout_height="match_parent"
+            android:background="#B8B8B8" />
+
+        <Button
+            android:id="@+id/dialog_sign_out_sure_btn"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/change_password_height"
+            android:layout_weight="1"
+            android:background="@null"
+            android:gravity="center"
+            android:textSize="@dimen/setting_text_size"
+            android:text="Sign Out"
+            android:textAllCaps="false"
+            android:textColor="#4fa6ff" />
+    </LinearLayout>
+
+</LinearLayout>

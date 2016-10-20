@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="20dp"
+        android:text="Change User Name"
+        android:textColor="#2D2D2D"
+        android:textSize="@dimen/dialog_title_text_size" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="25dp">
+
+        <EditText
+            android:id="@+id/change_name_et"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/icon_edittext"
+            android:ellipsize="start"
+            android:maxLength="40"
+            android:paddingLeft="10dp"
+            android:paddingRight="32dp"
+            android:singleLine="true"
+            android:textSize="@dimen/about_iru_text_size"
+            android:textColor="#666666" />
+
+        <ImageView
+            android:id="@+id/change_name_iv"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_alignRight="@id/change_name_et"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="10dp"
+            android:src="@mipmap/profile_username_delete" />
+    </RelativeLayout>
+
+    <View
+        style="@style/HorizontalLine8"
+        android:layout_marginTop="30dp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/change_name_cancel_btn"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/change_password_height"
+            android:layout_weight="1"
+            android:background="@null"
+            android:gravity="center"
+            android:text="Cancel"
+            android:textSize="@dimen/setting_text_size"
+            android:textAllCaps="false"
+            android:textColor="#6db5f9" />
+
+        <View
+            android:layout_width="1px"
+            android:layout_height="match_parent"
+            android:background="#B8B8B8" />
+
+        <Button
+            android:id="@+id/change_name_done_btn"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/change_password_height"
+            android:layout_weight="1"
+            android:background="@null"
+            android:gravity="center"
+            android:text="Done"
+            android:textSize="@dimen/setting_text_size"
+            android:textAllCaps="false"
+            android:textColor="#6db5f9" />
+    </LinearLayout>
+
+</LinearLayout>

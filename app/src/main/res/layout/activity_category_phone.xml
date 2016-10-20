@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ptr="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <include layout="@layout/common_multiple_title" />
+
+    <RadioGroup
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/white"
+        android:orientation="horizontal">
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="0.3" />
+
+        <RadioButton
+            android:id="@+id/category_phone_best_mactch_rb"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1.2"
+            android:background="@color/transparent"
+            android:button="@null"
+            android:gravity="center"
+            android:text="Best Match"
+            android:textSize="@dimen/setting_text_size"
+            android:textColor="@color/category_text_color_selector" />
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="0.2" />
+
+        <RadioButton
+            android:id="@+id/category_phone_price_rb"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@color/transparent"
+            android:button="@null"
+            android:drawablePadding="-10dp"
+            android:gravity="center"
+            android:text="Price"
+            android:textSize="@dimen/setting_text_size"
+            android:textColor="@color/category_text_color_selector" />
+        <ImageView
+            android:id="@+id/category_phone_price_pic_iv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:clickable="true"
+            android:background="@drawable/search_arrow_032x"/>
+
+
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="0.3" />
+
+        <RadioButton
+            android:id="@+id/category_phone_most_popular_rb"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1.5"
+            android:background="@color/transparent"
+            android:button="@null"
+           android:drawablePadding="2dp"
+            android:drawableRight="@drawable/category_phone_popular_bg_selector"
+            android:gravity="center"
+            android:text="Most Popular"
+            android:textSize="@dimen/setting_text_size"
+            android:textColor="@color/category_text_color_selector" />
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:layout_weight="0.3" />
+
+    </RadioGroup>
+
+    <com.wf.irulu.common.view.pulltorefresh.PullToRefreshListView
+        android:id="@+id/category_phone_lv"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        ptr:ptrAnimationStyle="flip"
+        ptr:ptrDrawable="@drawable/animation"
+        android:layout_marginTop="10dp"
+       android:divider="@null" />
+</LinearLayout>

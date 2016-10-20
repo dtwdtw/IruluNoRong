@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.wf.irulu.common.view.KeyboardLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                                         xmlns:app="http://schemas.android.com/apk/res-auto"
+                                         android:id="@+id/main_keyboard_layout"
+                                         android:layout_width="match_parent"
+                                         android:layout_height="match_parent">
+
+    <include
+        android:id="@+id/shopping_edit_title"
+        layout="@layout/common_simple_title"/>
+
+    <FrameLayout
+        android:id="@+id/bottom_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true">
+
+        <RelativeLayout
+            android:id="@+id/input_confirm_layout"
+            android:layout_width="fill_parent"
+            android:layout_height="40dp"
+            android:background="#F2F2F2"
+            android:gravity="center_vertical"
+            android:visibility="gone">
+
+            <TextView
+                android:id="@+id/keyboard_cancel"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_marginLeft="10dp"
+                android:text="Cancel"/>
+
+            <TextView
+                android:id="@+id/keyboard_ok"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="10dp"
+                android:text="OK"
+                android:textColor="#489CFF"/>
+        </RelativeLayout>
+
+        <LinearLayout
+            android:id="@+id/shopping_calculate_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/white"
+            android:orientation="vertical"
+            android:visibility="gone">
+
+            <View style="@style/HorizontalLineGray"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_vertical"
+                android:orientation="horizontal">
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:gravity="center">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:gravity="center"
+                    android:text="@string/total"
+                    android:textColor="@color/product_old_price"
+                    android:textSize="@dimen/about_iru_text_size"/>
+
+
+                <TextView
+                    android:id="@+id/shopping_total"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:gravity="center"
+                    android:text="$ 0.00"
+                    android:textAllCaps="false"
+                    android:textColor="@color/price_text_yellow"
+                    android:textSize="@dimen/cart_price_text_size"/>
+                </LinearLayout>
+
+                <com.wf.irulu.common.view.ClickButton
+                    android:id="@+id/checkout"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:onClick="checkout"
+                    android:text="Check Out"
+                    android:textAllCaps="false"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/cart_price_text_size"
+                    app:clickedDrawable="@color/bt_blue_clicked_01"
+                    app:normalDrawable="@color/bt_blue_normal01"/>
+            </LinearLayout>
+
+
+        </LinearLayout>
+    </FrameLayout>
+
+    <com.wf.irulu.common.view.swipemenulistview.SwipeMenuListView
+        android:id="@+id/shoppingcart_edit_lv"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@id/bottom_layout"
+        android:layout_below="@id/shopping_edit_title"
+        android:clickable="true"
+        android:divider="@color/gray"
+        android:dividerHeight="10dp"
+        android:headerDividersEnabled="false"/>
+
+
+    <include
+        android:id="@+id/cart_empty_layout"
+        layout="@layout/view_cart_empty"
+        android:visibility="gone"/>
+
+</com.wf.irulu.common.view.KeyboardLayout>

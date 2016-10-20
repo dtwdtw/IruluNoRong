@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/gray"
+    android:focusable="true"
+    android:focusableInTouchMode="true"
+    android:orientation="vertical" >
+
+    <include
+        layout="@layout/common_simple_title"/>
+
+    <com.wf.irulu.common.view.pulltorefresh.PullToRefreshListView
+        xmlns:ptr="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/message_list_view"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1.0"
+        android:clickable="false"
+        android:fastScrollEnabled="false"
+        android:transcriptMode="normal"
+        ptr:ptrAnimationStyle="flip"
+        ptr:ptrDrawable="@mipmap/default_ptr_flip"/>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:background="@color/white" >
+
+        <ImageView
+            android:id="@+id/message_iv_camera"
+            android:layout_width="36dp"
+            android:layout_height="36dp"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="4dp"
+            android:src="@drawable/message_pic_selector" />
+
+        <EditText
+            android:id="@+id/message_et_content"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="45dp"
+            android:layout_marginRight="55dp"
+            android:background="@drawable/notify_shurukuang" />
+
+        <Button
+            android:id="@+id/message_btn_send"
+            android:layout_width="45dp"
+            android:layout_height="36dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="4dp"
+            android:textAllCaps="false"
+            android:textColor="#4FA6FF"
+            android:background="@drawable/notify_button"
+            android:text="send" />
+    </RelativeLayout>
+
+</LinearLayout>

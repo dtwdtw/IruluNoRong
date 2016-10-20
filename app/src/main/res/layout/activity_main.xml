@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app1="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical">
+
+    <!--Title的布局-->
+    <include layout="@layout/title_main_layout"/>
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="1px"
+        android:background="@color/light_gray"/>
+
+    <!-- 主页内容 -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <com.wf.irulu.common.view.astuetz.PagerSlidingTabStrip
+            android:id="@+id/main_tabs"
+            xmlns:app="http://schemas.android.com/apk/res/com.wf.irulu"
+            android:layout_width="match_parent"
+            android:layout_height="38dp"
+            android:background="@color/white"
+            android:textSize="@dimen/home_sliding_tab_text_size"
+            app:pstsDividerColor="@android:color/transparent"
+            app:pstsIndicatorColor="@color/tab_text_selected"
+            app:pstsIndicatorHeight="@dimen/home_psts_indicator_height"
+            app:pstsShouldExpand="true"
+            app:pstsTabBackground="@android:color/transparent"
+            app:pstsTabPaddingLeftRight="@dimen/home_psts_tab_padding_left_right"
+            app:pstsTextAllCaps="false"
+            app:pstsUnderlineColor="@android:color/transparent"
+            app:pstsUnderlineHeight="@dimen/home_psts_underline_height"/>
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <com.wf.irulu.common.view.HorizontalViewPager
+                android:id="@+id/main_pager"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"/>
+
+            <!-- 无网络状态 -->
+            <include layout="@layout/item_no_network_conn"/>
+        </FrameLayout>
+    </LinearLayout>
+
+</LinearLayout>

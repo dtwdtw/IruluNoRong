@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <include
+        android:id="@+id/feedback_layout"
+        layout="@layout/common_simple_title" />
+
+    <View
+        android:id="@+id/horizontal_line"
+        android:layout_below="@id/feedback_layout"
+        style="@style/HorizontalLineGray5dp"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/horizontal_line"
+        android:background="@color/white"
+        android:orientation="vertical"
+        android:paddingBottom="50dp"
+        android:paddingTop="50dp">
+
+        <EditText
+            android:id="@+id/feedback_et"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:background="@drawable/icon_edittext"
+            android:gravity="top"
+            android:hint="@string/feedback_hint"
+            android:lines="10"
+            android:padding="10dp"
+            android:textColor="#666666"
+            android:textColorHint="#bbbbbb"
+            android:textSize="@dimen/setting_right_text_size" />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/feedback_btn"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/change_password_height"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="50dp"
+        android:layout_marginLeft="@dimen/btn_right_left"
+        android:layout_marginRight="@dimen/btn_right_left"
+        android:background="@drawable/button_02_selector"
+        android:text="@string/send"
+        android:textSize="@dimen/setting_text_size"
+        android:textAllCaps="false"
+        android:textColor="@color/white" />
+</RelativeLayout>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+    android:orientation="vertical">
+
+    <include layout="@layout/order_item_base" />
+
+    <LinearLayout
+        android:id="@+id/btn_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal">
+        
+        <Button
+            android:id="@+id/delete_order"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/product_margin_box_01"
+            android:layout_marginRight="@dimen/product_margin_box_03"
+            android:layout_marginTop="@dimen/product_margin_box_03"
+            android:layout_marginBottom="@dimen/product_margin_box_03"
+            android:paddingTop="@dimen/product_margin_box_03"
+            android:paddingBottom="@dimen/product_margin_box_03"
+            android:layout_weight="1"
+            android:background="@drawable/button_01_selector"
+            android:textColor="@color/amount_blue"
+            android:textAllCaps="false"
+            android:minHeight="0dp"
+            android:textSize="@dimen/order_title"
+            android:text="@string/delete_order"/>
+
+        <Button
+            android:id="@+id/write_review"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:minHeight="0dp"
+            android:layout_marginLeft="@dimen/product_margin_box_03"
+            android:layout_marginRight="@dimen/product_margin_box_01"
+            android:layout_marginTop="@dimen/product_margin_box_03"
+            android:layout_marginBottom="@dimen/product_margin_box_03"
+            android:paddingTop="@dimen/product_margin_box_03"
+            android:paddingBottom="@dimen/product_margin_box_03"
+            android:layout_weight="1"
+            android:background="@drawable/button_01_selector"
+            android:textColor="@color/amount_blue"
+            android:textAllCaps="false"
+            android:textSize="@dimen/order_title"
+            android:text="@string/write_a_review"/>
+        
+    </LinearLayout>
+    <View
+        style="@style/splite_block_gray"/>
+
+</LinearLayout>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/white"
+                android:padding="@dimen/product_margin_box_01">
+
+    <ImageView
+        android:id="@+id/wish_iv_image"
+        android:layout_width="@dimen/classify_product_image"
+        android:layout_height="@dimen/classify_product_image"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:src="@mipmap/notify_image_xiaotu"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/no_internet_bgcolor"
+        android:text="@string/removed"
+        android:id="@+id/wish_tv_removed"
+        android:layout_alignBottom="@id/wish_iv_image"
+        android:gravity="center"
+        android:visibility="gone"
+        android:layout_alignLeft="@id/wish_iv_image"
+        android:layout_alignRight="@id/wish_iv_image"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/product_margin_box_01"
+        android:layout_marginTop="@dimen/product_margin_box_02"
+        android:layout_toRightOf="@id/wish_iv_image"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/wish_tv_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ellipsize="end"
+            android:lines="2"
+            android:textColor="@color/product_name"
+            android:textSize="@dimen/third_title_size"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp"
+            android:orientation="horizontal">
+
+            <RatingBar
+                android:id="@+id/wish_rb_rate"
+                style="@style/smallbar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:isIndicator="true"
+                android:numStars="5"
+                android:rating="5"/>
+
+            <TextView
+                android:layout_marginLeft="@dimen/product_margin_box_03"
+                android:id="@+id/wish_tv_total"
+                android:textSize="@dimen/tip_text_size"
+                android:textColor="@color/product_old_price"
+                android:lines="1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+
+        </LinearLayout>
+
+        <TextView
+            android:lines="1"
+            android:id="@+id/wish_tv_price"
+            android:textColor="@color/title_text_color"
+            android:textSize="@dimen/first_title_size"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+    </LinearLayout>
+
+</RelativeLayout>

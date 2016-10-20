@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@+id/cart_empty_layout"
+                xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/message_empty_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:textColor="@color/wish_empty_title"
+        android:textSize="@dimen/second_title_size"
+        android:text="Your shopping cart is empty"/>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_above="@id/message_empty_text"
+        android:layout_marginBottom="@dimen/wish_empty_margin"
+        android:src="@mipmap/cart_gwc"/>
+
+
+    <!--<Button
+        android:id="@+id/cart_empty_btn"
+        android:layout_width="@dimen/button_width"
+        android:layout_height="@dimen/button_size"
+        android:layout_alignParentBottom="true"
+        android:layout_centerInParent="true"
+        android:background="@drawable/button_01_selector"
+        android:textColor="@color/blue_line_image"
+        android:textSize="@dimen/second_title_size"
+        android:textAllCaps="false"
+        android:text="@string/go_shopping"
+        android:layout_marginBottom="@dimen/wish_empty_margin_shopping"
+        android:layout_marginLeft="@dimen/wish_empty_margin"
+        android:layout_marginRight="@dimen/wish_empty_margin"/>-->
+
+    <Button
+        android:id="@+id/cart_empty_btn"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:textColor="@color/blue_line_image"
+        android:textSize="@dimen/second_title_size"
+        android:text="@string/go_shopping"
+        android:background="@drawable/button_01_selector"
+        android:minHeight="0dp"
+        android:textAllCaps="false"
+        android:padding="@dimen/review_reply_padding"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="110px"
+        android:layout_marginRight="110px"
+        android:layout_marginBottom="@dimen/wish_empty_margin_shopping"/>
+
+</RelativeLayout>

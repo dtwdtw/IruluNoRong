@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"--><!--android:orientation="horizontal"--><!--android:weightSum="2"--><!--android:gravity="center"--><!--android:layout_width="match_parent"--><!--android:layout_height="match_parent">-->
+
+<!--<ProgressBar--><!--android:layout_weight="1"--><!--android:layout_gravity="center"--><!--android:indeterminate="false"--><!--android:layout_width="wrap_content"--><!--android:layout_height="wrap_content"--><!--style="@android:style/Widget.ProgressBar.Large.Inverse"--><!--android:indeterminateDrawable="@anim/loading_for_waitting"/>-->
+
+<!--&lt;!&ndash;<ImageView&ndash;&gt;--><!--&lt;!&ndash;android:layout_width="wrap_content"&ndash;&gt;--><!--&lt;!&ndash;android:layout_height="wrap_content"&ndash;&gt;--><!--&lt;!&ndash;android:layout_centerInParent="true"&ndash;&gt;--><!--&lt;!&ndash;android:background="@anim/loading_for_waitting"/>&ndash;&gt;-->
+
+
+<!--</LinearLayout>-->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!--<ProgressBar-->
+        <!--style="@android:style/Widget.ProgressBar.Large.Inverse"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_centerInParent="true"-->
+        <!--android:indeterminate="false"-->
+        <!--android:indeterminateDrawable="@anim/loading_for_waitting" />-->
+
+    <ImageView
+        android:id="@+id/loading_iv_anim"
+        android:background="@drawable/loading_for_waitting"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"/>
+
+
+</RelativeLayout>

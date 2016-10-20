@@ -1,0 +1,181 @@
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+<item android:drawable="@mipmap/loading_00" android:duration="100"/>
+<item android:drawable="@mipmap/loading_10" android:duration="100"/>
+<item android:drawable="@mipmap/loading_20" android:duration="100"/>
+<item android:drawable="@mipmap/loading_30" android:duration="100"/>
+<item android:drawable="@mipmap/loading_40" android:duration="100"/>
+<item android:drawable="@mipmap/loading_50" android:duration="100"/>
+<item android:drawable="@mipmap/loading_60" android:duration="100"/>
+<item android:drawable="@mipmap/loading_70" android:duration="100"/>
+<item android:drawable="@mipmap/loading_80" android:duration="100"/>
+<item android:drawable="@mipmap/loading_90" android:duration="100"/>
+<item android:drawable="@mipmap/loading_100" android:duration="100"/>
+<item android:drawable="@mipmap/loading_90" android:duration="100"/>
+<item android:drawable="@mipmap/loading_80" android:duration="100"/>
+<item android:drawable="@mipmap/loading_70" android:duration="100"/>
+<item android:drawable="@mipmap/loading_60" android:duration="100"/>
+<item android:drawable="@mipmap/loading_50" android:duration="100"/>
+<item android:drawable="@mipmap/loading_40" android:duration="100"/>
+<item android:drawable="@mipmap/loading_30" android:duration="100"/>
+<item android:drawable="@mipmap/loading_20" android:duration="100"/>
+<item android:drawable="@mipmap/loading_10" android:duration="100"/>
+
+</animation-list>
+
+
+<!--<animation-list xmlns:android="http://schemas.android.com/apk/res/android"-->
+    <!--android:variablePadding="true"-->
+    <!-->-->
+
+    <!--<item android:duration="100">-->
+        <!--<clip-->
+            <!--android:clipOrientation="horizontal"-->
+            <!--android:drawable="@mipmap/loading_00"-->
+            <!--android:gravity="center" >-->
+        <!--</clip>-->
+    <!--</item>-->
+    <!--<item android:duration="100">-->
+        <!--<clip-->
+            <!--android:clipOrientation="horizontal"-->
+            <!--android:drawable="@mipmap/loading_10"-->
+            <!--android:gravity="center" >-->
+        <!--</clip>-->
+    <!--</item>-->
+
+    <!--<item android:duration="100">-->
+        <!--<clip-->
+            <!--android:clipOrientation="horizontal"-->
+            <!--android:drawable="@mipmap/loading_20"-->
+            <!--android:gravity="center" >-->
+        <!--</clip>-->
+    <!--</item>-->
+    <!--<item android:duration="100">-->
+        <!--<clip-->
+            <!--android:clipOrientation="horizontal"-->
+            <!--android:drawable="@mipmap/loading_30"-->
+            <!--android:gravity="center" >-->
+        <!--</clip>-->
+    <!--</item>-->
+
+    <!--<item android:duration="100">-->
+        <!--<clip-->
+            <!--android:clipOrientation="horizontal"-->
+            <!--android:drawable="@mipmap/loading_40"-->
+            <!--android:gravity="center" >-->
+        <!--</clip>-->
+    <!--</item>-->
+    <!--<item android:duration="100">-->
+        <!--<clip-->
+            <!--android:clipOrientation="horizontal"-->
+            <!--android:drawable="@mipmap/loading_50"-->
+            <!--android:gravity="center" >-->
+        <!--</clip>-->
+    <!--</item>-->
+
+    <!--<item android:duration="100">-->
+        <!--<clip-->
+            <!--android:clipOrientation="horizontal"-->
+            <!--android:drawable="@mipmap/loading_60"-->
+            <!--android:gravity="center" >-->
+        <!--</clip>-->
+    <!--</item>-->
+    <!--<item android:duration="100">-->
+        <!--<clip-->
+            <!--android:clipOrientation="horizontal"-->
+            <!--android:drawable="@mipmap/loading_70"-->
+            <!--android:gravity="center" >-->
+        <!--</clip>-->
+    <!--</item>-->
+
+    <!--<item android:duration="100">-->
+        <!--<clip-->
+            <!--android:clipOrientation="horizontal"-->
+            <!--android:drawable="@mipmap/loading_80"-->
+            <!--android:gravity="center" >-->
+        <!--</clip>-->
+    <!--</item>-->
+    <!--<item android:duration="100">-->
+        <!--<clip-->
+            <!--android:clipOrientation="horizontal"-->
+            <!--android:drawable="@mipmap/loading_90"-->
+            <!--android:gravity="center" >-->
+        <!--</clip>-->
+    <!--</item>-->
+
+    <!--<item android:duration="100">-->
+        <!--<clip-->
+            <!--android:clipOrientation="horizontal"-->
+            <!--android:drawable="@mipmap/loading_100"-->
+            <!--android:gravity="center" >-->
+        <!--</clip>-->
+    <!--</item>-->
+    <!--<item android:duration="100">-->
+        <!--<clip-->
+            <!--android:clipOrientation="horizontal"-->
+            <!--android:drawable="@mipmap/loading_90"-->
+            <!--android:gravity="center" >-->
+        <!--</clip>-->
+    <!--</item>-->
+
+    <!--<item android:duration="100">-->
+        <!--<clip-->
+            <!--android:clipOrientation="horizontal"-->
+            <!--android:drawable="@mipmap/loading_80"-->
+            <!--android:gravity="center" >-->
+        <!--</clip>-->
+    <!--</item>-->
+    <!--<item android:duration="100">-->
+        <!--<clip-->
+            <!--android:clipOrientation="horizontal"-->
+            <!--android:drawable="@mipmap/loading_70"-->
+            <!--android:gravity="center" >-->
+        <!--</clip>-->
+    <!--</item>-->
+
+    <!--<item android:duration="100">-->
+        <!--<clip-->
+            <!--android:clipOrientation="horizontal"-->
+            <!--android:drawable="@mipmap/loading_60"-->
+            <!--android:gravity="center" >-->
+        <!--</clip>-->
+    <!--</item>-->
+    <!--<item android:duration="100">-->
+        <!--<clip-->
+            <!--android:clipOrientation="horizontal"-->
+            <!--android:drawable="@mipmap/loading_50"-->
+            <!--android:gravity="center" >-->
+        <!--</clip>-->
+    <!--</item>-->
+
+    <!--<item android:duration="100">-->
+        <!--<clip-->
+            <!--android:clipOrientation="horizontal"-->
+            <!--android:drawable="@mipmap/loading_40"-->
+            <!--android:gravity="center" >-->
+        <!--</clip>-->
+    <!--</item>-->
+    <!--<item android:duration="100">-->
+        <!--<clip-->
+            <!--android:clipOrientation="horizontal"-->
+            <!--android:drawable="@mipmap/loading_30"-->
+            <!--android:gravity="center" >-->
+        <!--</clip>-->
+    <!--</item>-->
+
+    <!--<item android:duration="100">-->
+        <!--<clip-->
+            <!--android:clipOrientation="horizontal"-->
+            <!--android:drawable="@mipmap/loading_20"-->
+            <!--android:gravity="center" >-->
+        <!--</clip>-->
+    <!--</item>-->
+    <!--<item android:duration="100">-->
+        <!--<clip-->
+            <!--android:clipOrientation="horizontal"-->
+            <!--android:drawable="@mipmap/loading_10"-->
+            <!--android:gravity="center" >-->
+        <!--</clip>-->
+    <!--</item>-->
+
+<!--</animation-list>-->

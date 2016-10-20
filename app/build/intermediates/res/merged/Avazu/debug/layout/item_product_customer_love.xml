@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content">
+
+    <ImageView
+        android:layout_width="@dimen/product_image_love"
+        android:layout_height="@dimen/product_image_love"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/love_iv_image"
+        android:padding="1dp"
+        android:scaleType="centerCrop"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/love_tv_price"
+        android:textColor="@color/product_old_price"
+        android:textSize="@dimen/second_title_size"
+        android:layout_marginTop="@dimen/product_margin_box_03"
+        android:layout_below="@id/love_iv_image"
+        android:layout_centerHorizontal="true"/>
+
+</RelativeLayout>

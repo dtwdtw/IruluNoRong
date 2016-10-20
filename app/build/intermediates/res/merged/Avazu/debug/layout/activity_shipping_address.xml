@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <include
+        android:id="@+id/shipping_title_layout"
+        layout="@layout/common_simple_title"></include>
+
+    <View
+        android:id="@+id/horizontal_line"
+        style="@style/HorizontalLineGray5dp"
+        android:layout_below="@id/shipping_title_layout" />
+
+    <RelativeLayout
+        android:id="@+id/shipping_address_add_rl"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/change_password_height"
+        android:layout_below="@id/horizontal_line"
+        android:background="@android:color/white"
+        android:clickable="true">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:text="Add a New Address"
+            android:textColor="#2d2d2d"
+            android:textSize="@dimen/about_iru_text_size" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="10dp"
+            android:src="@mipmap/icon_arrow" />
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/shipping_address_tv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:text="There isn&apos;t any shipping address yet."
+        android:textColor="@color/wish_empty_title"
+        android:textSize="@dimen/second_title_size" />
+
+    <ImageView
+        android:id="@+id/shipping_address_iv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/shipping_address_tv"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="@dimen/wish_empty_margin"
+        android:src="@mipmap/choose_address_kong" />
+
+    <ListView
+        android:id="@+id/shipping_address_lv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/shipping_address_add_rl"
+        android:layout_marginTop="10dp"
+        android:background="@android:color/white"
+        android:divider="#eeeeee"
+        android:dividerHeight="10dp" />
+</RelativeLayout>

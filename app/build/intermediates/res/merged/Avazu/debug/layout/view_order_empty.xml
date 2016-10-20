@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    style="@style/match_parent"
+    android:background="@color/gray"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <TextView
+        android:id="@+id/all_tv_tip"
+        style="@style/match_wrap"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="20dp"
+        android:gravity="center"
+        android:textSize="@dimen/second_title_size"
+        android:text="@string/no_item_in_order"
+        android:textColor="@color/blue_line_image"/>
+
+    <ImageView
+        style="@style/wrap_content"
+        android:layout_above="@id/all_tv_tip"
+        android:layout_centerHorizontal="true"
+        android:src="@mipmap/order_kong"/>
+
+    <Button
+        android:id="@+id/go_shopping"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_marginLeft="@dimen/btn_right_left"
+        android:layout_marginRight="@dimen/btn_right_left"
+        android:background="@drawable/button_01_selector"
+        android:padding="@dimen/product_margin_box_03"
+        android:minHeight="0dp"
+        android:text="@string/go_shopping"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="@dimen/wish_empty_margin_shopping"
+        android:textAllCaps="false"
+        android:textColor="@color/blue_line_image"
+        android:textSize="@dimen/tip_text_size"/>
+</RelativeLayout>

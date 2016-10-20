@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:paddingTop="@dimen/product_margin_box_01"
+    android:paddingBottom="@dimen/product_margin_box_02">
+
+    <RatingBar
+        android:id="@+id/reviews_rb_rate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        style="@style/smallbar"
+        android:numStars="5"
+        android:rating="5" />
+
+    <TextView
+        android:id="@+id/reviews_tv_content"
+        android:layout_below="@id/reviews_rb_rate"
+        android:layout_alignLeft="@id/reviews_rb_rate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="This is good product, i like it very much ! I never found some problems with using."
+        android:textColor="@color/product_name"
+        android:textSize="@dimen/third_title_size"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/reviews_tv_name"
+        android:layout_below="@id/reviews_tv_content"
+        android:layout_alignLeft="@id/reviews_rb_rate"
+        android:textColor="@color/product_old_price"
+        android:text="James Bonder"
+        android:textSize="@dimen/tip_text_size"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@id/reviews_tv_name"
+        android:layout_alignParentRight="true"
+        android:text="Dec 01,2015"
+        android:textColor="@color/product_old_price"
+        android:textSize="@dimen/tip_text_size"/>
+
+
+</RelativeLayout>

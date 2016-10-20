@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/tools"
+    xmlns:slider="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/cyclic_image_layout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <com.bigkoo.convenientbanner.ConvenientBanner xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/convenientBanner"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:canLoop="true" />
+
+    <!--<com.daimajia.slider.library.SliderLayout-->
+    <!--android:id="@+id/slider"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--slider:auto_cycle="true"-->
+    <!--slider:indicator_visibility="visible"-->
+    <!--slider:pager_animation_span="1000"/>-->
+
+    <!--<com.daimajia.slider.library.Indicators.PagerIndicator-->
+    <!--android:id="@+id/custom_indicator"-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:gravity="center"-->
+    <!--slider:selected_color="#0095BF"-->
+    <!--slider:unselected_color="#aadfdfdf"-->
+    <!--android:paddingBottom="10dp"-->
+    <!--slider:shape="oval"-->
+    <!--slider:selected_padding_left="5dp"-->
+    <!--slider:selected_padding_right="5dp"-->
+    <!--slider:unselected_padding_left="5dp"-->
+    <!--slider:unselected_padding_right="8dp"-->
+    <!--android:layout_centerHorizontal="true"-->
+    <!--android:layout_alignParentBottom="true"-->
+    <!--slider:selected_width="8dp"-->
+    <!--slider:selected_height="8dp"-->
+    <!--slider:unselected_width="8dp"-->
+    <!--slider:unselected_height="8dp"-->
+    <!--android:layout_marginBottom="20dp"/>-->
+
+    <!--<com.wf.irulu.common.view.HorizontalViewPager
+        android:id="@+id/main_pager"
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/sendout_imageheight" />
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:orientation="vertical">
+
+        &lt;!&ndash; 装点的容器 &ndash;&gt;
+        <LinearLayout
+            android:id="@+id/point_container_ll"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginBottom="8dp"
+            android:orientation="horizontal"/>
+    </LinearLayout>-->
+</RelativeLayout>

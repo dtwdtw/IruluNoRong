@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/white"
+                android:paddingBottom="@dimen/reviews_title_padding"
+                android:paddingLeft="@dimen/reviews_rating_padding"
+                android:paddingRight="@dimen/reviews_rating_padding"
+                android:paddingTop="@dimen/reviews_title_padding">
+
+    <TextView
+        android:id="@+id/reviews_tv_rate"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:textColor="@color/product_title"
+
+        android:layout_centerHorizontal="true"
+        android:gravity="center_vertical"
+        android:paddingTop="3dp"
+
+        android:textSize="@dimen/third_title_size"/>
+
+
+
+
+
+    <RatingBar
+        android:id="@+id/reviews_rb_rate"
+        style="@style/bigbar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/reviews_tv_rate"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/product_margin_box_02"
+        android:numStars="5"
+        android:rating="5"/>
+
+    <TextView
+        android:id="@+id/reviews_tv_total"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/product_old_price"
+        android:layout_below="@id/reviews_rb_rate"
+        android:layout_centerHorizontal="true"
+        android:textSize="@dimen/tip_text_size"/>
+
+
+    <TableLayout
+        android:id="@+id/reviews_tl_ratting"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_below="@id/reviews_tv_total"
+        android:layout_marginTop="@dimen/product_margin_box_01">
+
+        <TableRow
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <RatingBar
+                style="@style/smallbar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:numStars="5"
+                android:layout_weight="0"
+                android:rating="5"/>
+
+            <ProgressBar
+                android:id="@+id/reviews_pb_five_percent"
+                style="?android:attr/progressBarStyleHorizontal"
+                android:layout_width="wrap_content"
+                android:layout_height="@dimen/reviews_progress_height_13"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:isIndicator="true"
+                android:layout_weight="1"
+                android:progressDrawable="@drawable/reviews_progress_percent" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="0"
+                android:id="@+id/reviews_tv_five_num"/>
+
+        </TableRow>
+        <TableRow
+            android:orientation="horizontal"
+            android:layout_marginTop="@dimen/product_margin_box_03"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <RatingBar
+                style="@style/smallbar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:numStars="5"
+                android:layout_weight="0"
+                android:rating="4"/>
+
+            <ProgressBar
+                android:id="@+id/reviews_pb_four_percent"
+                style="?android:attr/progressBarStyleHorizontal"
+                android:layout_width="wrap_content"
+                android:layout_height="@dimen/reviews_progress_height_13"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:isIndicator="true"
+                android:layout_weight="1"
+                android:progressDrawable="@drawable/reviews_progress_percent" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="0"
+                android:id="@+id/reviews_tv_four_num"/>
+
+        </TableRow>
+        <TableRow
+            android:orientation="horizontal"
+            android:layout_marginTop="@dimen/product_margin_box_03"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <RatingBar
+                style="@style/smallbar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:numStars="5"
+                android:layout_weight="0"
+                android:rating="3"/>
+
+            <ProgressBar
+                android:id="@+id/reviews_pb_three_percent"
+                style="?android:attr/progressBarStyleHorizontal"
+                android:layout_width="wrap_content"
+                android:layout_height="@dimen/reviews_progress_height_13"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:isIndicator="true"
+                android:layout_weight="1"
+                android:progressDrawable="@drawable/reviews_progress_percent" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="0"
+                android:id="@+id/reviews_tv_three_num"/>
+
+        </TableRow>
+        <TableRow
+            android:orientation="horizontal"
+            android:layout_marginTop="@dimen/product_margin_box_03"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <RatingBar
+                style="@style/smallbar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:numStars="5"
+                android:layout_weight="0"
+                android:rating="2"/>
+
+            <ProgressBar
+                android:id="@+id/reviews_pb_two_percent"
+                style="?android:attr/progressBarStyleHorizontal"
+                android:layout_width="wrap_content"
+                android:layout_height="@dimen/reviews_progress_height_13"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:isIndicator="true"
+                android:layout_weight="1"
+                android:progressDrawable="@drawable/reviews_progress_percent" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="0"
+                android:id="@+id/reviews_tv_two_num"/>
+
+        </TableRow>
+        <TableRow
+            android:orientation="horizontal"
+            android:layout_marginTop="@dimen/product_margin_box_03"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <RatingBar
+                style="@style/smallbar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:numStars="5"
+                android:layout_weight="0"
+                android:rating="1"/>
+
+            <ProgressBar
+                android:id="@+id/reviews_pb_one_percent"
+                style="?android:attr/progressBarStyleHorizontal"
+                android:layout_width="wrap_content"
+                android:layout_height="@dimen/reviews_progress_height_13"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:isIndicator="true"
+                android:layout_weight="1"
+                android:progressDrawable="@drawable/reviews_progress_percent" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="0"
+                android:id="@+id/reviews_tv_one_num"/>
+
+        </TableRow>
+
+    </TableLayout>
+
+</RelativeLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/gray"></View>
+</LinearLayout>

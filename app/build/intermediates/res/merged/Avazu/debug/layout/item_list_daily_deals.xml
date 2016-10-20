@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:background="@drawable/gray_border_shape"
+        android:paddingBottom="10dp"
+        android:paddingRight="10dp">
+
+        <ImageView
+            android:id="@+id/item_daily_deals_iv_ico"
+            android:layout_width="135dp"
+            android:layout_height="135dp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="15dp"
+            android:src="@mipmap/notify_image_xiaotu" />
+
+        <TextView
+            android:id="@+id/item_daily_deals_tv_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@id/item_daily_deals_iv_ico"
+            android:layout_marginLeft="10dp"
+            android:layout_toRightOf="@id/item_daily_deals_iv_ico"
+            android:maxLines="3"
+            android:ellipsize="end"
+            android:textSize="15sp" />
+
+
+        <TextView
+            android:id="@+id/item_daily_deals_tv_price_old"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/item_daily_deals_tv_price_now"
+            android:layout_alignLeft="@+id/item_daily_deals_tv_price_now"
+            android:layout_alignStart="@+id/item_daily_deals_tv_price_now"
+            android:textColor="@color/black_30" />
+
+        <TextView
+            android:id="@+id/item_daily_deals_tv_price_now"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/item_daily_deals_iv_ico"
+            android:layout_marginLeft="10dp"
+            android:layout_toRightOf="@id/item_daily_deals_iv_ico"
+            android:textColor="@color/orange"
+            android:layout_marginBottom="10dp"
+            android:textSize="18sp" />
+
+        <ImageView
+            android:id="@+id/item_daily_deals_iv_wish"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_alignBottom="@+id/item_daily_deals_tv_price_now"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginEnd="10dp"
+            android:layout_marginRight="10dp"
+           />
+
+        <TextView
+            android:padding="2dp"
+            android:id="@+id/item_daily_deals_tv_biaoqian"
+            android:layout_width="30dp"
+            android:layout_height="45dp"
+            android:gravity="center_horizontal"
+            android:textColor="@color/white"
+            android:textSize="12sp" />
+    </RelativeLayout>
+</RelativeLayout>

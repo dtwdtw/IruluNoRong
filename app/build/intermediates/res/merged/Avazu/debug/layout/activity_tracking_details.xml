@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <include layout="@layout/common_simple_title"></include>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        android:padding="10dp">
+
+        <ImageView
+            android:id="@+id/tracking_details_product_pic_iv"
+            android:layout_width="120px"
+            android:layout_height="120px"
+            android:src="@mipmap/bg_picutre_show"
+            android:visibility="gone" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="120px"
+            android:layout_marginLeft="10px"
+            android:orientation="vertical"
+            android:gravity="center_vertical">
+
+            <TextView
+                android:id="@+id/tracking_details_express_name_tv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="UPS"
+                android:textColor="#666666"
+                android:textSize="@dimen/about_iru_text_size" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="12px"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Tracking ID:"
+                    android:textColor="#9f9f9f"
+                    android:textSize="@dimen/setting_right_text_size" />
+
+                <TextView
+                    android:id="@+id/tracking_details_id_tv"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="36px"
+                    android:textColor="#666666"
+                    android:textSize="@dimen/about_iru_text_size" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/change_password_height"
+        android:layout_marginTop="10dp"
+        android:background="@color/white"
+        android:gravity="center_vertical"
+        android:paddingLeft="20dp"
+        android:textSize="@dimen/setting_text_size"
+        android:text="Tracking Details"
+        android:textColor="#666666" />
+
+    <View style="@style/HorizontalLine8" />
+
+    <ListView
+        android:id="@+id/tracking_details_lv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:divider="@null"
+        android:listSelector="#00000000"
+        android:paddingLeft="50px"
+        android:paddingRight="50px"
+        android:paddingTop="66px"
+        android:scrollbars="none" />
+
+</LinearLayout>

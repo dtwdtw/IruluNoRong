@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/nonetli"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/nonettitle"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:id="@+id/result_rl_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="@dimen/search_text_padding"
+            android:paddingRight="@dimen/search_text_padding"
+            android:paddingTop="@dimen/search_text_padding">
+
+            <ImageView
+                android:id="@+id/result_iv_back"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true"
+                android:src="@drawable/ic_back_last_selector" />
+
+            <com.wf.irulu.common.view.ClearEditText
+                android:id="@+id/result_cet_keyword"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_alignBottom="@id/result_iv_back"
+                android:layout_alignTop="@id/result_iv_back"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="@dimen/product_margin_box_03"
+                android:layout_toRightOf="@id/result_iv_back"
+                android:drawablePadding="@dimen/review_reply_padding"
+                android:focusable="true"
+                android:focusableInTouchMode="true"
+                android:textColor="@color/product_name"
+                android:textColorHint="@color/product_old_price"
+                android:textSize="@dimen/third_title_size" />
+
+        </RelativeLayout>
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="@dimen/title_horizontal_line_height"
+            android:layout_below="@id/result_rl_title"
+            android:background="@drawable/gradient_shape" />
+
+        <LinearLayout
+            android:id="@+id/result_ll_pattern"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/result_rl_title"
+            android:layout_marginTop="@dimen/title_horizontal_line_height"
+            android:background="@color/white"
+            android:clickable="true"
+            android:orientation="horizontal"
+            android:weightSum="3">
+
+            <TextView
+                android:id="@+id/result_tv_match"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:padding="@dimen/product_margin_box_02"
+                android:text="@string/searchresult_match" />
+
+            <LinearLayout
+                android:id="@+id/result_ll_price"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center">
+
+                <TextView
+                    android:id="@+id/result_tv_price"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:drawablePadding="@dimen/product_margin_box_02"
+                    android:drawableRight="@mipmap/search_arrow_03"
+                    android:gravity="center"
+                    android:padding="@dimen/product_margin_box_02"
+                    android:text="@string/searchresult_price" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/result_ll_order"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center">
+
+                <TextView
+                    android:id="@+id/result_tv_order"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:drawablePadding="@dimen/product_margin_box_02"
+                    android:drawableRight="@mipmap/search_arrow_bottom"
+                    android:gravity="center"
+                    android:padding="@dimen/product_margin_box_02"
+                    android:text="@string/searchresult_order" />
+
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+    <include layout="@layout/no_data_no_title_page" />
+
+</LinearLayout>

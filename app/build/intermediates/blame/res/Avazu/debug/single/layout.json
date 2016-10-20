@@ -1,0 +1,2010 @@
+[
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/activity_payment_layout.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/activity_payment_layout.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/item_search_recent.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/item_search_recent.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/activity_add_new_address.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/activity_add_new_address.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/notification_version_update.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/notification_version_update.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/item_shipment_restricted_header_layout.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/item_shipment_restricted_header_layout.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/orders_splite_show.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/orders_splite_show.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/activity_login.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/fragment_unpaid.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/fragment_unpaid.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/item_comment_img_write.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/item_comment_img_write.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/messenger_button_send_blue_large.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/layout/messenger_button_send_blue_large.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/item_shopping_cart_edit.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/item_shopping_cart_edit.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/notification_template_media.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/item_grid_newarrivals.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/item_grid_newarrivals.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/library_slidingmenu_menu_layout.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/library_slidingmenu_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/activity_category_phone.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/activity_category_phone.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/pull_to_refresh_header.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/pull_to_refresh_header.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/view_radiobutton_productdetail.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/view_radiobutton_productdetail.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/activity_customer_revices.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/activity_customer_revices.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/item_params_radiobutton.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/item_params_radiobutton.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/activity_main.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/item_choose_reviews_view.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/item_choose_reviews_view.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/fragment_home_events_layout.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/fragment_home_events_layout.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/dgts__activity_pin_code.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.9.1/res/layout/dgts__activity_pin_code.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/dgts__activity_phone_number.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.9.1/res/layout/dgts__activity_phone_number.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/activity_orders.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/activity_orders.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/item_message_support_receivetext.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/item_message_support_receivetext.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/item_customer_review.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/item_customer_review.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/item_search_suggest.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/item_search_suggest.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/new_arrivals_item.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/new_arrivals_item.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/item_product_params.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/item_product_params.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/view_suggest_empty.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/view_suggest_empty.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/order_item2.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/order_item2.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/item_customer_review.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/item_customer_review.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/activity_show_photos_layout.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/activity_show_photos_layout.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/activity_about_irulu.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/activity_about_irulu.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/no_data_no_title_page.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/no_data_no_title_page.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/activity_welcome.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/activity_welcome.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/com_facebook_tooltip_bubble.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/layout/com_facebook_tooltip_bubble.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/row_local_imagelist_layout.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/row_local_imagelist_layout.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/slider_layout.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/IruluNoRong/AndroidImageSlider/unspecified/res/layout/slider_layout.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/dialog_unregister.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/dialog_unregister.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/title_main_layout.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/title_main_layout.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/item_params_radiobutton.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/item_params_radiobutton.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/row_local_select_imageview_layout.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/row_local_select_imageview_layout.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/activity_shipping_address.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/activity_shipping_address.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/include_viewpager.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.bigkoo/convenientbanner/2.0.5/res/layout/include_viewpager.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/activity_my_reviews.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/activity_my_reviews.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/dialog_version_update.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/dialog_version_update.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/dgts__activity_phone_number.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.9.1/res/layout/dgts__activity_phone_number.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/popupwindow_country_alert.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/popupwindow_country_alert.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/item_search_hot.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/item_search_hot.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/messenger_button_send_blue_round.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/layout/messenger_button_send_blue_round.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/activity_pay_success_pending.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/activity_pay_success_pending.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/library_slidingmenu_menu_layout.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/library_slidingmenu_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/activity_show_photos.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/activity_show_photos.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/common_simple_title.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/common_simple_title.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/row_choose_imageview_layout.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/row_choose_imageview_layout.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/dialog_wipe_cache.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/dialog_wipe_cache.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/activity_payment_layout.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/activity_payment_layout.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/activity_order_confirmation.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/activity_order_confirmation.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/tw__composer_view.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-composer/1.0.1/res/layout/tw__composer_view.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/activity_new_arrivals.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/activity_new_arrivals.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/messenger_button_send_blue_small.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/layout/messenger_button_send_blue_small.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/row_local_select_imageview_layout.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/row_local_select_imageview_layout.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/messenger_button_send_white_small.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/layout/messenger_button_send_white_small.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/notification_version_update.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/notification_version_update.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/activity_account.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/activity_account.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/activity_write_review.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/activity_write_review.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/activity_order_message.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/activity_order_message.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/loading_simple_waiting.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/loading_simple_waiting.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/item_grid_recommend.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/item_grid_recommend.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/tw__tweet.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.7.0/res/layout/tw__tweet.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/activity_local_iamgelist_layout.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/activity_local_iamgelist_layout.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/notification_template_media.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/activity_wish.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/activity_wish.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/activity_change_password.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/activity_change_password.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/order_item_base.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/order_item_base.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/view_split_gray.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/view_split_gray.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/activity_contact_us_success.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/activity_contact_us_success.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/row_choose_imageview_layout.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/row_choose_imageview_layout.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/fragment_home_loading.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/fragment_home_loading.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/activity_feedback.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/activity_feedback.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/tw__action_bar.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.7.0/res/layout/tw__action_bar.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/item_tracking_details.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/item_tracking_details.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/activity_home_webview_layout.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/activity_home_webview_layout.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/tw__app_card.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-composer/1.0.1/res/layout/tw__app_card.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/searchnonetlayout.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/searchnonetlayout.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/view_split_gray.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/view_split_gray.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/dialog_advertising.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/dialog_advertising.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/dialog_shipment_restricted.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/dialog_shipment_restricted.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/tw__tweet_compact.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.7.0/res/layout/tw__tweet_compact.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/fragment_no_net_conn_layout.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/fragment_no_net_conn_layout.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/tw__activity_share_email.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.6.1/res/layout/tw__activity_share_email.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/activity_contact_us.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/activity_contact_us.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/order_footer_layout.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/order_footer_layout.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/notification_media_cancel_action.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/activity_login.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/activity_category_smart_device.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/activity_category_smart_device.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/com_facebook_tooltip_bubble.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/layout/com_facebook_tooltip_bubble.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/activity_product_detail.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/activity_product_detail.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/fragment_menu.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/fragment_menu.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/order_item0.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/order_item0.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/activity_show_photos.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/activity_show_photos.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/catalogitem.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/catalogitem.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/fragment_home_new_release_layout.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/fragment_home_new_release_layout.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/view_message_empty.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/view_message_empty.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/no_data_no_title_page.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/no_data_no_title_page.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/activity_shuffling_figure.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/activity_shuffling_figure.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/activity_order_confirmation.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/activity_order_confirmation.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/item_params_button.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/item_params_button.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/item_category_home_lv.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/item_category_home_lv.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/item_message_support_timetext.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/item_message_support_timetext.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/view_suggest_empty.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/view_suggest_empty.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/item_sold_out_adapter.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/item_sold_out_adapter.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/item_sold_out_header_layout.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/item_sold_out_header_layout.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/item_message_support_receiveimage.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/item_message_support_receiveimage.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/dgts__activity_failure.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.9.1/res/layout/dgts__activity_failure.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/render_type_default.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/irulu1.2/AndroidImageSlider/unspecified/res/layout/render_type_default.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/fragment_content.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/fragment_content.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/dialog_choose_layout.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/dialog_choose_layout.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/activity_discount_webview.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/activity_discount_webview.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/view_params_title.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/view_params_title.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/item_message.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/item_message.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/activity_about_irulu.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/activity_about_irulu.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/com_facebook_login_fragment.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/layout/com_facebook_login_fragment.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/no_data_simple_title_page.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/no_data_simple_title_page.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/item_shopping_cart_edit.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/item_shopping_cart_edit.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/fragment_all.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/fragment_all.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/lv_item_order_confirm.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/lv_item_order_confirm.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/fragment_home_layout.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/fragment_home_layout.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/loading_multiple_waiting.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/loading_multiple_waiting.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/activity_shipment_restricted.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/activity_shipment_restricted.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/item_no_network_conn.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/item_no_network_conn.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/item_detail_product.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/item_detail_product.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/item_new_release.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/item_new_release.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/item_country_lv.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/item_country_lv.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/item_grid_newarrivals.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/item_grid_newarrivals.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/item_new_release.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/item_new_release.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/order_item1.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/order_item1.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/item_list_daily_deals.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/item_list_daily_deals.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/activity_contact_us_success.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/activity_contact_us_success.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/item_category_sd_rl.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/item_category_sd_rl.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/activity_product_detail.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/activity_product_detail.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/item_state_lv.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/item_state_lv.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/tw__activity_oauth.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.6.1/res/layout/tw__activity_oauth.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/com_facebook_login_fragment.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/layout/com_facebook_login_fragment.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/activity_category.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/activity_category.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/new_arrivals_item.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/new_arrivals_item.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/item_shuffling_figure.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/item_shuffling_figure.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/activity_orders.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/activity_orders.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/common_multiple_title.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/common_multiple_title.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/activity_select_to_review.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/activity_select_to_review.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/item_order_product.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/item_order_product.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/activity_wish.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/activity_wish.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/activity_daily_deals.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/activity_daily_deals.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/item_product_customer_love.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/item_product_customer_love.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/discoverfragment1_3_0.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/discoverfragment1_3_0.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/activity_home_webview_layout.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/activity_home_webview_layout.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/activity_order_detail.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/activity_order_detail.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/item_message_support_sendtext.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/item_message_support_sendtext.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/activity_advertising_info.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/activity_advertising_info.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/activity_category_smart_device.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/activity_category_smart_device.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/fragment_unpaid.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/fragment_unpaid.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/item_grid_recommend.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/item_grid_recommend.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/activity_change_password.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/activity_change_password.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/render_type_text.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/irulu1.2/AndroidImageSlider/unspecified/res/layout/render_type_text.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/notification_template_lines.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/activity_message.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/activity_message.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/item_product_customer_love.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/item_product_customer_love.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/messenger_button_send_white_small.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/layout/messenger_button_send_white_small.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/activity_new_arrivals.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/activity_new_arrivals.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/item_no_network_conn.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/item_no_network_conn.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/dgts__activity_contacts.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.9.1/res/layout/dgts__activity_contacts.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/view_params_title.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/view_params_title.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/item_shipping_address.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/item_shipping_address.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/dialog_version_update.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/dialog_version_update.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/activity_customer_revices.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/activity_customer_revices.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/activity_local_iamgelist_layout.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/activity_local_iamgelist_layout.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/activity_profile.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/activity_profile.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/activity_category_phone.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/activity_category_phone.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/item_grid_special_offers.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/item_grid_special_offers.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/tw__composer_view.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-composer/1.0.1/res/layout/tw__composer_view.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/catalogitem.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/catalogitem.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/fragment_daily_deals.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/fragment_daily_deals.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/dgts__country_row.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.9.1/res/layout/dgts__country_row.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/order_footer_layout.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/order_footer_layout.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/dialog_advertising.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/dialog_advertising.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/item_order_list.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/item_order_list.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/order_item2.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/order_item2.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/render_type_text.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/IruluNoRong/AndroidImageSlider/unspecified/res/layout/render_type_text.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/item_params_button.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/item_params_button.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/item_order_product.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/item_order_product.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/activity_my_coupon.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/activity_my_coupon.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/notification_template_lines.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/slider_layout.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/irulu1.2/AndroidImageSlider/unspecified/res/layout/slider_layout.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/fragment_shipped.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/fragment_shipped.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/dialog_share_product.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/dialog_share_product.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/notification_media_action.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/view_search_list_empty.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/view_search_list_empty.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/fragment_daily_deals.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/fragment_daily_deals.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/activity_state.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/activity_state.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/activity_feedback.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/activity_feedback.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/fragment_all.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/fragment_all.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/activity_comment_photos.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/activity_comment_photos.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/activity_album_layout.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/activity_album_layout.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/item_refund_details_lv.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/item_refund_details_lv.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/activity_shipping_address.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/activity_shipping_address.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/view_cart_empty.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/view_cart_empty.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/activity_advertising_info.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/activity_advertising_info.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/dialog_share_product.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/dialog_share_product.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/view_empty_wish.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/view_empty_wish.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/tw__app_card.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-composer/1.0.1/res/layout/tw__app_card.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/fragment_shipped.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/fragment_shipped.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/item_state_lv.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/item_state_lv.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/view_swipe_option.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/view_swipe_option.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/activity_search.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/activity_search.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/row_common_image_pager_layout.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/row_common_image_pager_layout.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/dialog_feedback.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/dialog_feedback.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/activity_select_to_review.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/activity_select_to_review.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/dgts__activity_contacts.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.9.1/res/layout/dgts__activity_contacts.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/item_select_to_review.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/item_select_to_review.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/item_category_home_lv.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/item_category_home_lv.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/item_message_support_receiveimage.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/item_message_support_receiveimage.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/item_refund_details_lv.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/item_refund_details_lv.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/messenger_button_send_blue_small.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/layout/messenger_button_send_blue_small.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/dialog_profile_choose_photo.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/dialog_profile_choose_photo.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/view_empty_wish.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/view_empty_wish.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/notification_media_action.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/activity_product_description.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/activity_product_description.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/item_shipment_restricted_adapter.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/item_shipment_restricted_adapter.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/order_item0.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/order_item0.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/item_grid_special_offers.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/item_grid_special_offers.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/item_product_params.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/item_product_params.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/item_search_suggest.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/item_search_suggest.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/item_category_smart_device_lv.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/item_category_smart_device_lv.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/activity_webpay.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/activity_webpay.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/fragment_home_new_release_layout.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/fragment_home_new_release_layout.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/item_discount_message_largermap.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/item_discount_message_largermap.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/item_list_daily_deals.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/item_list_daily_deals.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/tw__activity_share_email.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.6.1/res/layout/tw__activity_share_email.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/dialog_progress_loading.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/dialog_progress_loading.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/searchnonetlayout.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/searchnonetlayout.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/aasdfas.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/aasdfas.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/tw__activity_composer.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-composer/1.0.1/res/layout/tw__activity_composer.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/common_multiple_title.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/common_multiple_title.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/item_shipping_address.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/item_shipping_address.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/messenger_button_send_white_round.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/layout/messenger_button_send_white_round.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/common_simple_title.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/common_simple_title.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/item_country_lv.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/item_country_lv.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/activity_deep_link.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/activity_deep_link.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/messenger_button_send_blue_round.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/layout/messenger_button_send_blue_round.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/dialog_params_product.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/dialog_params_product.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/order_item_base.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/order_item_base.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/pull_to_refresh_header_horizontal.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/activity_shopping_cart_edit_layout.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/activity_shopping_cart_edit_layout.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/dgts__activity_confirmation.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.9.1/res/layout/dgts__activity_confirmation.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/activity_write_comment_show_photos.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/activity_write_comment_show_photos.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/activity_chat.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/activity_chat.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/dgts__activity_failure.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.9.1/res/layout/dgts__activity_failure.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/activity_terms_service.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/activity_terms_service.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/activity_my_reviews.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/activity_my_reviews.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/activity_my_coupon.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/activity_my_coupon.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/item_wish_list.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/item_wish_list.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/activity_comment_photos.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/activity_comment_photos.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/item_order_message.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/item_order_message.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/item_detail_image_show.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/item_detail_image_show.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/view_sliding_menu_main.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/view_sliding_menu_main.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/tw__activity_oauth.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.6.1/res/layout/tw__activity_oauth.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/dialog_shipment_restricted.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/dialog_shipment_restricted.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/dialog_profile_user_name.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/dialog_profile_user_name.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/com_facebook_activity_layout.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/layout/com_facebook_activity_layout.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/view_message_empty.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/view_message_empty.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/dialog_sign_out.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/dialog_sign_out.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/activity_account.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/activity_account.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/item_discount_message_largermap.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/item_discount_message_largermap.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/activity_search_result.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/activity_search_result.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/activity_privacy_policy.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/activity_privacy_policy.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/base_fragment.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/base_fragment.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/fragment_menu.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/fragment_menu.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/activity_add_new_address.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/activity_add_new_address.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/fragment_content.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/fragment_content.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/view_product_options.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/view_product_options.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/activity_pay_success_pending.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/activity_pay_success_pending.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/dialog_profile_choose_photo.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/dialog_profile_choose_photo.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/item_select_to_review.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/item_select_to_review.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/loading_multiple_waiting.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/loading_multiple_waiting.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/activity_profile.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/activity_profile.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/item_wish_list.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/item_wish_list.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/activity_forgot_password.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/activity_forgot_password.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/com_facebook_activity_layout.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/layout/com_facebook_activity_layout.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/activity_daily_deals.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/activity_daily_deals.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/tw__tweet_compact.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.7.0/res/layout/tw__tweet_compact.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/discoverfragment1_3_0.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/discoverfragment1_3_0.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/activity_tracking_details.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/activity_tracking_details.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/no_data_multiple_title_page.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/no_data_multiple_title_page.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/activity_order_detail.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/activity_order_detail.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/item_category_smart_device_lv.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/item_category_smart_device_lv.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/dialog_progress_loading.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/dialog_progress_loading.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/activity_message.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/activity_message.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/view_product_options.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/view_product_options.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/dialog_sign_out.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/dialog_sign_out.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/activity_welcome.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/activity_welcome.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/activity_album_layout.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/activity_album_layout.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/activity_refrence.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/activity_refrence.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/activity_main.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/order_item3.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/order_item3.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/item_choose_reviews_view.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/item_choose_reviews_view.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/view_address_empty.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/view_address_empty.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/activity_terms_service.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/activity_terms_service.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/item_order_message.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/item_order_message.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/item_category_phone_lv.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/item_category_phone_lv.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/activity_search_result.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/activity_search_result.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/abc_search_view.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/loading_no_title_waitting.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/loading_no_title_waitting.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/messenger_button_send_white_large.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/layout/messenger_button_send_white_large.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/item_message_support_receivetext.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/item_message_support_receivetext.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/abc_search_view.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/layout_loading_dialog.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/layout_loading_dialog.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/dgts__activity_confirmation.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.9.1/res/layout/dgts__activity_confirmation.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/dialog_choose_pic_layout.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/dialog_choose_pic_layout.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/activity_discount_message.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/activity_discount_message.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/dialog_choose_pic_layout.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/dialog_choose_pic_layout.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/activity_privacy_policy.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/activity_privacy_policy.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/item_reviews_comment.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/item_reviews_comment.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/messenger_button_send_white_round.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/layout/messenger_button_send_white_round.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/activity_refund_details.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/activity_refund_details.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/activity_deep_link.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/activity_deep_link.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/item_message_support_sendimage.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/item_message_support_sendimage.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/view_address_empty.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/view_address_empty.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/layout_loading_dialog.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/layout_loading_dialog.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/notification_template_big_media.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/item_category_sd_rl.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/item_category_sd_rl.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/view_product_description_detail.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/view_product_description_detail.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/item_message_support_sendimage.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/item_message_support_sendimage.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/item_detail_image_show.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/item_detail_image_show.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/pull_to_refresh_header_vertical.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/pull_to_refresh_header_vertical.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/activity_webpay.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/activity_webpay.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/dialog_wipe_cache.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/dialog_wipe_cache.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/activity_choose_address.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/activity_choose_address.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/activity_product_description.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/activity_product_description.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/row_common_image_pager_layout.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/row_common_image_pager_layout.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/activity_discount_message.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/activity_discount_message.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/item_choose_address.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/item_choose_address.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/no_data_simple_title_page.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/no_data_simple_title_page.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/activity_forgot_password.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/activity_forgot_password.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/view_product_gift_detail.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/view_product_gift_detail.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/item_most_popular_gridview.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/item_most_popular_gridview.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/include_viewpager.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.bigkoo/convenientbanner/2.0.5/res/layout/include_viewpager.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/item_message_support_timetext.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/item_message_support_timetext.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/loading_simple_waiting.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/loading_simple_waiting.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/activity_state.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/activity_state.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/item_add_on_gift.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/item_add_on_gift.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/item_comment_img_write.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/item_comment_img_write.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/activity_order_message.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/activity_order_message.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/orders_splite_show.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/orders_splite_show.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/fragment_home_layout.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/fragment_home_layout.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/item_discount_message_thumbnails.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/item_discount_message_thumbnails.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/activity_write_comment_show_photos.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/activity_write_comment_show_photos.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/dialog_profile_user_name.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/dialog_profile_user_name.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/item_order_list.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/item_order_list.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/dgts__country_row.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.9.1/res/layout/dgts__country_row.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/dialog_choose_layout.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/dialog_choose_layout.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/notification_media_cancel_action.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/base_fragment.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/base_fragment.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/item_search_recent.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/item_search_recent.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/tw__tweet.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.7.0/res/layout/tw__tweet.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/popupwindow_country_alert.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/popupwindow_country_alert.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/view_product_gift_detail.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/view_product_gift_detail.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/view_product_description_detail.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/view_product_description_detail.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/item_discount_message_thumbnails.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/item_discount_message_thumbnails.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/item_reviews_comment.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/item_reviews_comment.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/item_search_hot.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/item_search_hot.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/item_choose_address.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/item_choose_address.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/activity_show_photos_layout.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/activity_show_photos_layout.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/activity_shopping_cart_edit_layout.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/activity_shopping_cart_edit_layout.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/activity_refund_details.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/activity_refund_details.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/order_item1.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/order_item1.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/dgts__state_button.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.9.1/res/layout/dgts__state_button.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/tw__activity_composer.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-composer/1.0.1/res/layout/tw__activity_composer.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/view_reviews_title.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/view_reviews_title.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/no_data_multiple_title_page.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/no_data_multiple_title_page.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/activity_shipment_restricted.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/activity_shipment_restricted.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/dialog_params_product.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/dialog_params_product.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/tw__action_bar.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.7.0/res/layout/tw__action_bar.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/view_swipe_option.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/view_swipe_option.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/pull_to_refresh_header_horizontal.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/item_shipment_restricted_adapter.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/item_shipment_restricted_adapter.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/indicator_layout.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/IruluNoRong/AndroidImageSlider/unspecified/res/layout/indicator_layout.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/activity_setting.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/activity_setting.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/indicator_layout.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/irulu1.2/AndroidImageSlider/unspecified/res/layout/indicator_layout.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/order_item3.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/order_item3.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/notification_template_big_media.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/activity_setting.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/activity_setting.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/loading_no_title_waitting.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/loading_no_title_waitting.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/messenger_button_send_blue_large.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/layout/messenger_button_send_blue_large.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/activity_choose_address.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/activity_choose_address.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/activity_country.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/activity_country.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/view_search_list_empty.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/view_search_list_empty.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/activity_refrence.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/activity_refrence.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/activity_write_review.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/activity_write_review.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/activity_chat.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/activity_chat.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/activity_contact_us.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/activity_contact_us.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/activity_country.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/activity_country.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/item_detail_product.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/item_detail_product.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/aasdfas.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/aasdfas.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/dialog_unregister.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/dialog_unregister.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/activity_category.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/activity_category.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/view_order_empty.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/view_order_empty.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/item_sold_out_header_layout.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/item_sold_out_header_layout.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/item_tracking_details.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/item_tracking_details.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/dgts__activity_pin_code.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.9.1/res/layout/dgts__activity_pin_code.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/activity_discount_webview.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/activity_discount_webview.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/pull_to_refresh_header_vertical.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/pull_to_refresh_header_vertical.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/item_category_phone_lv.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/item_category_phone_lv.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/item_message.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/item_message.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/view_cart_empty.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/view_cart_empty.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/view_reviews_title.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/view_reviews_title.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/lv_item_order_confirm.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/lv_item_order_confirm.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/item_add_on_gift.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/item_add_on_gift.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/view_sliding_menu_main.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/view_sliding_menu_main.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/pull_to_refresh_header.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/pull_to_refresh_header.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/activity_tracking_details.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/activity_tracking_details.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/item_sold_out_adapter.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/item_sold_out_adapter.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/item_message_support_sendtext.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/item_message_support_sendtext.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/row_local_imagelist_layout.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/row_local_imagelist_layout.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/item_most_popular_gridview.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/item_most_popular_gridview.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/activity_shuffling_figure.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/activity_shuffling_figure.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/item_shuffling_figure.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/item_shuffling_figure.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/render_type_default.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/IruluNoRong/AndroidImageSlider/unspecified/res/layout/render_type_default.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/item_shipment_restricted_header_layout.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/item_shipment_restricted_header_layout.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/view_order_empty.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/view_order_empty.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/fragment_home_events_layout.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/fragment_home_events_layout.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/dgts__state_button.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.9.1/res/layout/dgts__state_button.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/fragment_no_net_conn_layout.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/fragment_no_net_conn_layout.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/activity_search.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/activity_search.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/view_radiobutton_productdetail.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/view_radiobutton_productdetail.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/fragment_home_loading.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/fragment_home_loading.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/layout/dialog_feedback.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/layout/dialog_feedback.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/messenger_button_send_white_large.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/layout/messenger_button_send_white_large.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/title_main_layout.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/layout/title_main_layout.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/select_dialog_item_material.xml"
+    }
+]

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/dialog_radius_bg"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/change_password_height"
+        android:layout_gravity="center_vertical">
+
+        <TextView
+            android:id="@+id/choose_common_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:textSize="@dimen/about_iru_text_size"
+            android:layout_marginLeft="10dp"
+            android:textColor="#2d2d2d"
+            android:gravity="center_vertical"/>
+
+        <ImageView
+            android:id="@+id/cancel_choose"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="10dp"
+            android:layout_alignParentRight="true"
+            android:src="@mipmap/cart_delete_icon_normal" />
+    </RelativeLayout>
+
+    <View
+        style="@style/HorizontalLine8" />
+
+    <ListView
+        android:id="@+id/choose_common_lv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:divider="@null">
+    </ListView>
+
+</LinearLayout>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical">
+
+    <View
+        android:id="@+id/item_state_lv_line_v"
+        android:layout_width="match_parent"
+        android:layout_height="10dp"/>
+
+    <TextView
+        android:id="@+id/item_state_lv_letter"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@color/white"
+        android:gravity="center_vertical"
+        android:paddingLeft="10dp"
+        android:textSize="20sp"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/white"
+        android:orientation="vertical">
+
+        <View
+            android:id="@+id/item_state_title_line"
+            style="@style/HorizontalLine8"
+            android:layout_marginRight="30dp"
+            android:visibility="gone"/>
+
+        <View
+            android:id="@+id/item_state_item_line"
+            style="@style/HorizontalLine8"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="30dp"
+            android:visibility="gone"/>
+    </LinearLayout>
+
+    <RelativeLayout
+        android:id="@+id/item_state_lv_rl"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/change_password_height"
+        android:background="@color/white"
+        android:clickable="true">
+
+
+        <TextView
+            android:id="@+id/item_state_lv_name_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:layout_marginLeft="20dp"
+            />
+
+        <ImageView
+            android:id="@+id/item_state_lv_select_iv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="40dp"
+            android:src="@mipmap/leftnemu_selected"
+            android:visibility="gone"/>
+    </RelativeLayout>
+</LinearLayout>

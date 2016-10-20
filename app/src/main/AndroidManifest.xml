@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="com.wf.irulu"
+          android:versionCode="15"
+          android:versionName="@string/version_name">
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="21"/>
+    <!-- 照相机权限 -->
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS"/>
+    <uses-permission android:name="android.permission.CAMERA"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.GET_TASKS"/>
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_MOCK_LOCATION"/>
+    <!-- 获取机型信息权限, 获取用户设备的IMEI，通过IMEI和mac来唯一的标识用户。 -->
+    <uses-permission android:name="android.permission.READ_PHONE_STATE"/>
+    <uses-permission android:name="android.permission.INTERACT_ACROSS_USERS_FULL"/>
+    <!-- 获取用户设备的mac地址，在平板设备上，无法通过imei标示设备，我们会将mac地址作为用户的唯一标识 -->
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+    <!-- 清理缓存的权限 -->
+    <uses-permission android:name="android.permission.CLEAR_APP_CACHE"/>
+    <uses-permission android:name="android.permission.GET_PACKAGE_SIZE"/>
+
+    <!-- 查看网络状态,检测联网方式，区分用户设备使用的是2G、3G或是WiFi -->
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <!-- 录音 -->
+    <uses-permission android:name="android.permission.RECORD_AUDIO"/>
+    <!-- 控制振动器 -->
+    <uses-permission android:name="android.permission.VIBRATE"/>
+    <!-- 防止设备休眠 -->
+    <uses-permission android:name="android.permission.WAKE_LOCK"/>
+    <uses-permission android:name="android.permission.WRITE_SETTINGS"/>
+    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS"/>
+    <!-- 分享 -->
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.MANAGE_ACCOUNTS"/>
+    <!-- 广播接收的权限 -->
+    <uses-permission android:name="android.permission.GET_ACCOUNTS"/>
+    <!--<uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>-->
+    <uses-permission android:name="android.permission.MANAGE_DOCUMENTS"/>
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW"/>
+
+    <supports-screens
+        android:anyDensity="true"
+        android:largeScreens="true"
+        android:normalScreens="true"
+        android:resizeable="true"
+        android:smallScreens="true"/>
+
+    <application
+        android:name=".IruluApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppBaseTheme">
+
+        <!-- 渠道号 -->
+        <meta-data
+            android:name="UMENG_CHANNEL"
+            android:value="${CATEGORY}"/>
+
+        <!-- 友盟的APPKEY -->
+        <meta-data
+            android:name="UMENG_APPKEY"
+            android:value="55e5032567e58efe150055fa"/>
+
+        <!-- 融云生产环境 -->
+        <meta-data
+            android:name="RONG_CLOUD_APP_KEY"
+            android:value="e5t4ouvptx2qa"/>
+
+        <!-- facebook -->
+        <meta-data
+            android:name="com.facebook.sdk.ApplicationId"
+            android:value="@string/facebook_app_id"/>
+        <meta-data
+            android:name="io.fabric.ApiKey"
+            android:value="u7TUcPKeGLGIxUdS0DqBof2ns"/>
+
+        <!-- <receiver android:name="com.appsflyer.MultipleInstallBroadcastReceiver" android:exported="true"> -->
+        <!-- <intent-filter> -->
+        <!-- <action android:name="com.android.vending.INSTALL_REFERRER" /> -->
+        <!-- </intent-filter> -->
+        <!-- </receiver> -->
+        <receiver android:name="com.appsflyer.AppsFlyerLib">
+            <intent-filter>
+                <action android:name="android.intent.action.PACKAGE_REMOVED"/>
+
+                <data android:scheme="package"/>
+            </intent-filter>
+        </receiver>
+
+        <service
+            android:name="io.rong.imlib.ipc.RongService"
+            android:process=":ipc"/>
+        <service android:name="io.rong.imlib.ReConnectService"/>
+
+        <receiver android:name="io.rong.imlib.ConnectChangeReceiver"/>
+        <receiver android:name="io.rong.imlib.ipc.PushMessageReceiver">
+            <intent-filter>
+                <action android:name="io.rong.push.message"/>
+            </intent-filter>
+        </receiver>
+        <receiver
+            android:name="io.rong.imlib.HeartbeatReceiver"
+            android:process=":ipc"/>
+
+        <service
+            android:name="io.rong.push.PushService"
+            android:process="io.rong.push">
+
+            <!-- Waring: The name of the push process can't be changed!!! -->
+            <intent-filter>
+                <category android:name="android.intent.category.DEFAULT"/>
+
+                <action android:name="io.rong.push"/>
+            </intent-filter>
+        </service>
+        <service
+            android:name="io.rong.push.CommandService"
+            android:process="io.rong.push">
+
+            <!-- Waring: The name of the push process can't be changed!!! -->
+            <intent-filter>
+                <category android:name="android.intent.category.DEFAULT"/>
+
+                <action android:name="io.rong.command"/>
+            </intent-filter>
+        </service>
+
+        <receiver
+            android:name="io.rong.push.PushReceiver"
+            android:process="io.rong.push">
+
+            <!-- Waring: The name of the push process can't be changed!!! -->
+            <intent-filter>
+                <action android:name="io.rong.imlib.action.push.heartbeat"/>
+            </intent-filter>
+            <!--<intent-filter>-->
+                <!--<action android:name="android.net.conn.CONNECTIVITY_CHANGE"/>-->
+            <!--</intent-filter>-->
+            <!--<intent-filter>-->
+                <!--<action android:name="android.intent.action.BOOT_COMPLETED"/>-->
+            <!--</intent-filter>-->
+            <intent-filter>
+                <action android:name="android.intent.action.USER_PRESENT"/>
+                <action android:name="android.intent.action.ACTION_POWER_CONNECTED"/>
+                <action android:name="android.intent.action.ACTION_POWER_DISCONNECTED"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.PACKAGE_REMOVED"/>
+
+                <data android:scheme="package"/>
+            </intent-filter>
+        </receiver>
+        <!-- end -->
+        <!-- 融云 -->
+
+
+        <!-- paypal支付 start -->
+        <service
+            android:name="com.paypal.android.sdk.payments.PayPalService"
+            android:exported="false"/>
+
+        <activity
+            android:name="com.paypal.android.sdk.payments.PaymentActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name="com.paypal.android.sdk.payments.LoginActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name="com.paypal.android.sdk.payments.PaymentMethodActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name="com.paypal.android.sdk.payments.PaymentConfirmActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name="com.paypal.android.sdk.payments.PayPalFuturePaymentActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name="com.paypal.android.sdk.payments.FuturePaymentConsentActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name="com.paypal.android.sdk.payments.FuturePaymentInfoActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name="com.paypal.android.sdk.payments.PayPalProfileSharingActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name="com.paypal.android.sdk.payments.ProfileSharingConsentActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name="io.card.payment.CardIOActivity"
+            android:configChanges="keyboardHidden|orientation"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name="io.card.payment.DataEntryActivity"
+            android:screenOrientation="portrait"/>
+        <!-- paypal支付 end -->
+
+
+        <!-- facebook -->
+        <activity
+            android:name="com.facebook.FacebookActivity"
+            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"/>
+
+        <provider
+            android:name="com.facebook.FacebookContentProvider"
+            android:authorities="com.facebook.app.FacebookContentProvider376713215858387"
+            android:exported="true"/>
+
+        <!-- facebook -->
+
+        <activity
+            android:name="com.mob.tools.MobUIShell"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"
+            android:windowSoftInputMode="stateHidden|adjustResize">
+            <intent-filter>
+                <data android:scheme="tencent100371282"/>
+
+                <action android:name="android.intent.action.VIEW"/>
+
+                <category android:name="android.intent.category.BROWSABLE"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+
+        <!-- google 分析 start -->
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version"/>
+        <!--
+         Optionally, register AnalyticsReceiver and AnalyticsService to support background
+         dispatching on non-Google Play devices
+        -->
+        <receiver
+            android:name="com.google.android.gms.analytics.AnalyticsReceiver"
+            android:enabled="true">
+            <intent-filter>
+                <action android:name="com.google.android.gms.analytics.ANALYTICS_DISPATCH"/>
+            </intent-filter>
+        </receiver>
+
+        <service
+            android:name="com.google.android.gms.analytics.AnalyticsService"
+            android:enabled="true"
+            android:exported="false"/>
+
+        <!--
+             Optionally, register CampaignTrackingReceiver and CampaignTrackingService to enable
+             installation campaign reporting
+        -->
+        <receiver
+            android:name="com.google.android.gms.analytics.CampaignTrackingReceiver"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="com.android.vending.INSTALL_REFERRER"/>
+            </intent-filter>
+        </receiver>
+
+        <activity
+            android:name=".module.payment.activity.WebPaymentActivity"
+            android:screenOrientation="portrait"/>
+
+        <service android:name="com.google.android.gms.analytics.CampaignTrackingService"/>
+
+        <!-- google 分析 end -->
+
+        <activity
+            android:name=".MainActivity"
+            android:screenOrientation="portrait"
+            android:configChanges="orientation|keyboardHidden|screenSize|screenLayout"
+            android:theme="@style/page_welcome">
+
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".framework.HomeActivity"
+            android:hardwareAccelerated="true"
+            android:label="@string/app_name"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait">
+
+            <!-- android:theme="@android:style/Theme.NoTitleBar.Fullscreen" -->
+            <!-- android:screenOrientation="portrait" 保持屏幕为竖屏 -->
+        </activity>
+        <activity
+            android:name=".RefrenceActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".module.product.activity.ProductDetailActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".module.product.activity.ProductDescriptionActivity"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".module.product.activity.ShowPhotosActivity"
+            android:launchMode="singleTop"
+            android:process=":picture"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".module.comment.activity.CustomerReviewsActivity"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".module.comment.activity.AlbumActivity"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".module.comment.activity.LocalImageListActivity"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".module.product.activity.WishActivity"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".module.aas.activity.LoginActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".module.aas.activity.AccountActivity"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"/>
+        <activity
+            android:name=".module.aas.activity.ForgotPasswordActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".module.setting.activity.SettingActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".module.setting.activity.ChangePasswordActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".module.setting.activity.FeedBackActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".module.setting.activity.AboutIruluActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".module.setting.activity.TermsServiceActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".module.setting.activity.PrivacyPolicyActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".module.user.activity.ProfileActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".module.user.activity.ShippingAddressActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".module.user.activity.AddNewAddressActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".module.user.activity.StateActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".module.user.activity.CountryActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".module.shoppingcart.activity.ShoppingCartEditActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"/>
+        <!-- order -->
+        <activity
+            android:name=".module.order.activity.TrackingDetailsActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".module.order.activity.RefundDetailsActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".module.product.activity.SearchActivity"
+            android:label="@string/title_activity_search"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateVisible|adjustResize"/>
+        <activity
+            android:name=".module.product.activity.SearchResultActivity"
+            android:label="@string/title_activity_search_result"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateAlwaysHidden"/>
+        <activity
+            android:name=".module.payment.activity.OrderConfirmationActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".module.payment.activity.ChooseAddressActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".module.order.activity.OrdersActivity"
+            android:label="@string/title_activity_orders"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".module.comment.activity.MyReviewsActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".module.comment.activity.CommentPhotosActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".module.comment.activity.ShowPhotosActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".module.comment.activity.WriteCommentShowPhotosActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".module.order.activity.SelectToReivewActivity"
+            android:label="@string/title_activity_select_to_review"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".module.order.activity.WriteReviewActivity"
+            android:label="@string/title_activity_write_review"
+
+            android:screenOrientation="portrait" />
+
+        <activity android:name=".module.product.activity.DailyDealsActivity"
+            android:screenOrientation="portrait">
+
+        </activity>
+
+        <!-- 分类start -->
+        <activity
+            android:name=".module.category.activity.CategoryActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".module.category.activity.CategoryPhoneActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".module.category.activity.CategorySmartDeviceActivity"
+            android:screenOrientation="portrait"/>
+        <!-- 分类结束 -->
+
+        <activity
+            android:name=".module.payment.activity.PaymentMyMethodActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".module.payment.activity.PaySuccessOrPayPendingActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".module.order.activity.OrderDetailActivity"
+            android:label="@string/title_activity_order_detail"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".module.contact.activity.ContactUsActivity"
+            android:label="@string/title_activity_contact_us"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".module.contact.activity.ContactUsSuccessActivity"
+            android:label="@string/title_activity_contact_us_success"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".module.mycoupon.activity.MyCouponActivity"
+            android:label="@string/title_activity_my_coupon"
+            android:screenOrientation="portrait"/>
+        <!-- 聊天消息Activity -->
+        <activity
+            android:name=".module.message.activity.MessageActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden|adjustResize"/>
+        <!-- 聊天消息Activity -->
+        <activity
+            android:name=".module.message.activity.ChatMessageActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateHidden|adjustResize"/>
+        <!-- 订单消息Activity -->
+        <activity
+            android:name=".module.message.activity.OrderMessageActivity"
+            android:screenOrientation="portrait"/>
+        <!-- 折扣消息Activity -->
+        <activity
+            android:name=".module.message.activity.DiscountMessageActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".module.message.activity.DiscountWebViewActivity"
+            android:screenOrientation="portrait"/>
+        <!-- 消息中的查看大图 -->
+        <activity android:name=".module.message.activity.ShowMessagePhotosActivity"/>
+        <activity
+            android:name=".module.advertising.activity.AdvertisingInfoActivity"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen">
+        </activity>
+        <!-- twitter -->
+        <activity
+            android:name="com.twitter.sdk.android.core.identity.OAuthActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/android:Theme.Light.NoTitleBar.Fullscreen"/>
+        <activity
+            android:name=".module.home.activity.ShufflingFigureActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".module.home.activity.HomeWebViewActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".DeepLinkActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/page_welcome">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW"/>
+
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.BROWSABLE"/>
+                <!-- Accepts URIs that begin with "http://www.example.com/gizmos” -->
+                <data
+                    android:host="facebook"
+                    android:scheme="openirulu"/>
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="AppsFlyerDevKey"
+            android:value="HNRpkgD9imdPZWXTrv3Rca"/>
+
+        <!--
+  Service to asynchronously fetch a location address using a Geocoder. Setting the
+  android:exported attribute to "false" stops other apps from starting this
+  service, even when using an explicit intent.
+        -->
+        <activity android:name=".module.homenew1_3_0.EventActivity.EventActivity"/>
+        <service
+            android:name=".module.services.FetchAddressIntentService"
+            android:exported="false"/>
+
+        <activity
+            android:name=".module.newArrivals.NewArrivalsActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait">
+        </activity>
+    </application>
+
+</manifest>

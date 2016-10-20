@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+    <include
+        android:id="@+id/state_layout"
+        layout="@layout/common_simple_title" />
+
+    <View
+        android:id="@+id/horizontal_line"
+        style="@style/HorizontalLineGray5dp"
+        android:layout_below="@id/state_layout" />
+
+    <ListView
+        android:id="@+id/state_lv"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/horizontal_line"
+        android:divider="@null"
+        android:scrollbars="none" />
+
+    <com.wf.irulu.common.view.AssortView
+        android:layout_marginTop="20dp"
+        android:id="@+id/country_av"
+        android:layout_width="30dp"
+        android:layout_height="match_parent"
+        android:layout_alignParentRight="true"
+        android:layout_below="@id/state_layout"
+        android:layout_marginBottom="20dp"
+        android:background="#00ffffff" />
+</RelativeLayout>

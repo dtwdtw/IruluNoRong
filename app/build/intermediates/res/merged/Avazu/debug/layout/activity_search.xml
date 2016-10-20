@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@color/white"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:id="@+id/search_rl_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="@dimen/product_margin_box_03"
+        android:paddingBottom="@dimen/product_margin_box_03"
+        android:paddingLeft="@dimen/product_margin_box_01"
+        android:paddingRight="@dimen/product_margin_box_02">
+
+        <TextView
+            android:id="@+id/search_tv_cancel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:padding="@dimen/product_margin_box_03"
+            android:text="@string/cancel"
+            android:textColor="@color/blue_line_image"
+            android:textSize="@dimen/tip_text_size"/>
+
+        <com.wf.irulu.common.view.ClearEditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@id/search_tv_cancel"
+            android:layout_alignBottom="@id/search_tv_cancel"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:id="@+id/search_cet_keyword"
+            android:layout_marginRight="@dimen/product_margin_box_02"
+            android:hint="@string/search"
+            android:selectAllOnFocus="false"
+            android:drawablePadding="@dimen/review_reply_padding"
+            android:gravity="center_vertical|left"
+            android:textColorHint="@color/product_old_price"
+            android:textSize="@dimen/third_title_size"
+            android:textColor="@color/product_name"
+            android:paddingRight="@dimen/search_text_padding"
+            android:paddingLeft="@dimen/search_text_padding"
+            android:scrollHorizontally="true"
+            android:layout_toLeftOf="@id/search_tv_cancel"/>
+
+    </RelativeLayout>
+
+    <View
+        android:layout_below="@id/search_rl_title"
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/title_horizontal_line_height"
+        android:background="@drawable/gradient_shape" />
+
+    <RelativeLayout
+        android:background="@color/white"
+        android:layout_marginTop="@dimen/title_horizontal_line_height"
+        android:id="@+id/search_rl_content"
+        android:layout_below="@id/search_rl_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <include
+            android:id="@+id/search_v_hot"
+            layout="@layout/view_suggest_empty" />
+
+        <ListView
+            android:id="@+id/search_lv_suggest"
+            android:layout_width="match_parent"
+            android:visibility="gone"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="@dimen/search_hot_height"
+            android:layout_height="wrap_content"></ListView>
+
+    </RelativeLayout>
+
+    <View
+        android:layout_below="@id/search_rl_content"
+        style="@style/splite_block_gray"/>
+
+    <TextView
+        android:id="@+id/search_tv_recent"
+        android:layout_marginTop="@dimen/product_margin_box_03"
+        android:padding="@dimen/product_margin_box_02"
+        android:layout_below="@id/search_rl_content"
+        android:background="@drawable/bottom_box_gray_special"
+        android:textColor="@color/product_title"
+        android:textSize="@dimen/third_title_size"
+        android:text="@string/recent_search"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <ListView
+        android:layout_below="@id/search_tv_recent"
+        android:id="@+id/search_lv_recent"
+        android:divider="@null"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"></ListView>
+
+</RelativeLayout>

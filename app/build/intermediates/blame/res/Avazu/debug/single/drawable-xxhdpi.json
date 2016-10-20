@@ -1,0 +1,290 @@
+[
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable-xxhdpi/tw__ic_logo_default.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.6.1/res/drawable-xxhdpi/tw__ic_logo_default.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable-xxhdpi/messenger_bubble_large_white.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/drawable-xxhdpi/messenger_bubble_large_white.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable-xxhdpi/com_facebook_button_send_icon.png",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/drawable-xxhdpi/com_facebook_button_send_icon.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable-xxhdpi/dgts__ic_success.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.9.1/res/drawable-xxhdpi/dgts__ic_success.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable-xxhdpi/tw__action_heart_on_default.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.7.0/res/drawable-xxhdpi/tw__action_heart_on_default.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable-xxhdpi/messenger_bubble_small_blue.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/drawable-xxhdpi/messenger_bubble_small_blue.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable-xxhdpi/com_facebook_button_icon.png",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/drawable-xxhdpi/com_facebook_button_icon.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable-xxhdpi/common_full_open_on_phone.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/res/drawable-xxhdpi/common_full_open_on_phone.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable-xxhdpi/tw__ic_retweet_light.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.7.0/res/drawable-xxhdpi/tw__ic_retweet_light.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable-xxhdpi/tw__composer_logo_blue.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-composer/1.0.1/res/drawable-xxhdpi/tw__composer_logo_blue.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable-xxhdpi/tw__share_email_header.png",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.6.1/res/drawable-xxhdpi/tw__share_email_header.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable-xxhdpi/dgts__login_header.png",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.9.1/res/drawable-xxhdpi/dgts__login_header.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable-xxhdpi/dgts__addressbook_header.png",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.9.1/res/drawable-xxhdpi/dgts__addressbook_header.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable-xxhdpi/tw__ic_retweet_light.png",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.7.0/res/drawable-xxhdpi/tw__ic_retweet_light.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable-xxhdpi/dgts__login_header.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.9.1/res/drawable-xxhdpi/dgts__login_header.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable-xxhdpi/facebook.9.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/drawable-xxhdpi/facebook.9.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable-xxhdpi/tw__ic_tweet_photo_error_dark.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.7.0/res/drawable-xxhdpi/tw__ic_tweet_photo_error_dark.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable-xxhdpi/tw__ic_tweet_photo_error_light.png",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.7.0/res/drawable-xxhdpi/tw__ic_tweet_photo_error_light.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable-xxhdpi/twittericon.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/drawable-xxhdpi/twittericon.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable-xxhdpi/dgts__addressbook_header.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.9.1/res/drawable-xxhdpi/dgts__addressbook_header.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable-xxhdpi/tw__ic_inline_share.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.7.0/res/drawable-xxhdpi/tw__ic_inline_share.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable-xxhdpi/tw__ic_logo_white.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.7.0/res/drawable-xxhdpi/tw__ic_logo_white.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable-xxhdpi/tw__action_heart_off_default.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.7.0/res/drawable-xxhdpi/tw__action_heart_off_default.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable-xxhdpi/welcome_bt.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/drawable-xxhdpi/welcome_bt.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable-xxhdpi/dgts__logo.png",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.9.1/res/drawable-xxhdpi/dgts__logo.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable-xxhdpi/messenger_bubble_large_blue.png",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/drawable-xxhdpi/messenger_bubble_large_blue.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable-xxhdpi/twittericon.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/drawable-xxhdpi/twittericon.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable-xxhdpi/facebookicon.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/drawable-xxhdpi/facebookicon.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable-xxhdpi/dgts__logo_name.png",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.9.1/res/drawable-xxhdpi/dgts__logo_name.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable-xxhdpi/com_facebook_button_send_icon.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/drawable-xxhdpi/com_facebook_button_send_icon.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable-xxhdpi/tw__ic_retweet_dark.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.7.0/res/drawable-xxhdpi/tw__ic_retweet_dark.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable-xxhdpi/tw__action_heart_off_default.png",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.7.0/res/drawable-xxhdpi/tw__action_heart_off_default.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable-xxhdpi/tw__ic_tweet_verified.png",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.7.0/res/drawable-xxhdpi/tw__ic_tweet_verified.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable-xxhdpi/dgts__ic_success.png",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.9.1/res/drawable-xxhdpi/dgts__ic_success.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable-xxhdpi/messenger_bubble_large_blue.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/drawable-xxhdpi/messenger_bubble_large_blue.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable-xxhdpi/messenger_button_send_round_shadow.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/drawable-xxhdpi/messenger_button_send_round_shadow.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable-xxhdpi/tw__ic_retweet_dark.png",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.7.0/res/drawable-xxhdpi/tw__ic_retweet_dark.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable-xxhdpi/tw__composer_close.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-composer/1.0.1/res/drawable-xxhdpi/tw__composer_close.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable-xxhdpi/tw__ic_inline_share.png",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.7.0/res/drawable-xxhdpi/tw__ic_inline_share.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable-xxhdpi/dgts__logo_name.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.9.1/res/drawable-xxhdpi/dgts__logo_name.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable-xxhdpi/messenger_bubble_small_white.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/drawable-xxhdpi/messenger_bubble_small_white.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable-xxhdpi/tw__ic_tweet_verified.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.7.0/res/drawable-xxhdpi/tw__ic_tweet_verified.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable-xxhdpi/dgts__spinner_dark.png",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.9.1/res/drawable-xxhdpi/dgts__spinner_dark.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable-xxhdpi/dgts__spinner_dark.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.9.1/res/drawable-xxhdpi/dgts__spinner_dark.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable-xxhdpi/dgts__spinner_light.png",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.9.1/res/drawable-xxhdpi/dgts__spinner_light.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable-xxhdpi/tw__ic_logo_blue.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.7.0/res/drawable-xxhdpi/tw__ic_logo_blue.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable-xxhdpi/messenger_bubble_large_white.png",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/drawable-xxhdpi/messenger_bubble_large_white.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable-xxhdpi/tw__composer_logo_white.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-composer/1.0.1/res/drawable-xxhdpi/tw__composer_logo_white.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable-xxhdpi/tw__ic_logo_white.png",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.7.0/res/drawable-xxhdpi/tw__ic_logo_white.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable-xxhdpi/tw__composer_close.png",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-composer/1.0.1/res/drawable-xxhdpi/tw__composer_close.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable-xxhdpi/dgts__logo.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.9.1/res/drawable-xxhdpi/dgts__logo.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable-xxhdpi/welcome_bt.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/drawable-xxhdpi/welcome_bt.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable-xxhdpi/com_facebook_button_icon.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/drawable-xxhdpi/com_facebook_button_icon.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable-xxhdpi/facebook.9.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/drawable-xxhdpi/facebook.9.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable-xxhdpi/tw__ic_logo_blue.png",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.7.0/res/drawable-xxhdpi/tw__ic_logo_blue.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable-xxhdpi/com_facebook_button_like_icon_selected.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/drawable-xxhdpi/com_facebook_button_like_icon_selected.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable-xxhdpi/twitterback.9.png",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/drawable-xxhdpi/twitterback.9.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable-xxhdpi/facebookicon.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/drawable-xxhdpi/facebookicon.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable-xxhdpi/dgts__spinner_light.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.9.1/res/drawable-xxhdpi/dgts__spinner_light.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable-xxhdpi/messenger_button_send_round_shadow.png",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/drawable-xxhdpi/messenger_button_send_round_shadow.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable-xxhdpi/common_full_open_on_phone.png",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.3.0/res/drawable-xxhdpi/common_full_open_on_phone.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable-xxhdpi/tw__ic_tweet_photo_error_light.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.7.0/res/drawable-xxhdpi/tw__ic_tweet_photo_error_light.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable-xxhdpi/twitterback.9.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/drawable-xxhdpi/twitterback.9.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable-xxhdpi/tw__action_heart_on_default.png",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.7.0/res/drawable-xxhdpi/tw__action_heart_on_default.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable-xxhdpi/tw__ic_logo_default.png",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.6.1/res/drawable-xxhdpi/tw__ic_logo_default.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable-xxhdpi/tw__composer_logo_white.png",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-composer/1.0.1/res/drawable-xxhdpi/tw__composer_logo_white.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable-xxhdpi/messenger_bubble_small_blue.png",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/drawable-xxhdpi/messenger_bubble_small_blue.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable-xxhdpi/tw__ic_tweet_photo_error_dark.png",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.7.0/res/drawable-xxhdpi/tw__ic_tweet_photo_error_dark.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable-xxhdpi/tw__share_email_header.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.6.1/res/drawable-xxhdpi/tw__share_email_header.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable-xxhdpi/messenger_bubble_small_white.png",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/drawable-xxhdpi/messenger_bubble_small_white.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable-xxhdpi/tw__composer_logo_blue.png",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-composer/1.0.1/res/drawable-xxhdpi/tw__composer_logo_blue.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable-xxhdpi/com_facebook_button_like_icon_selected.png",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/drawable-xxhdpi/com_facebook_button_like_icon_selected.png"
+    }
+]

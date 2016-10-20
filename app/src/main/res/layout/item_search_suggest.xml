@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingRight="@dimen/product_margin_box_02"
+	android:paddingBottom="@dimen/product_margin_box_03"
+	android:paddingTop="@dimen/product_margin_box_03">
+
+	<ImageView
+		android:id="@+id/suggest_iv_go"
+		style="@style/wrap_content"
+		android:layout_alignParentRight="true"
+		android:layout_centerVertical="true"
+		android:src="@mipmap/arrow_right_icon"/>
+
+	<TextView
+	    style="@style/match_wrap"
+	    android:id="@+id/suggest_tv_content"
+		android:layout_toLeftOf="@id/suggest_iv_go"
+		android:layout_alignParentLeft="true"
+		android:ellipsize="end"
+		android:maxLines="1"
+		android:textColor="@color/product_name"
+		android:lines="1"
+	    android:layout_marginRight="@dimen/product_margin_box_02"
+	    android:gravity="top"
+	    android:textSize="@dimen/third_title_size"/>
+
+
+</RelativeLayout>

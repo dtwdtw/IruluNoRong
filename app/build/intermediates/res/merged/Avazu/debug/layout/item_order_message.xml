@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="@color/gray"
+              android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/oder_message_time"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="10dp"
+        android:layout_marginTop="25dp"
+        android:text="12:11"
+        android:textSize="@dimen/setting_right_text_size"
+        android:textColor="@color/product_old_price" />
+
+    <LinearLayout
+        android:id="@+id/oder_message_detail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:background="@drawable/message_discountmessage_messagebg_normal"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/oder_message_title"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dp"
+            android:text="Order message"
+            android:textSize="@dimen/about_iru_text_size"
+            android:textColor="@color/black_name" />
+
+        <TextView
+            android:id="@+id/oder_message_content"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="15dp"
+            android:layout_marginLeft="10dp"
+            android:text="Your order 12345678912234556 has bean shipped. The shipping number is 123456789987456"
+            android:textSize="@dimen/message_discount_item_content_text_size"
+            android:textColor="@color/order_detail_title" />
+
+        <View
+            style="@style/HorizontalLine_px"
+            android:layout_marginTop="15dp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:gravity="right"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:text="Detail"
+                android:textSize="@dimen/setting_right_text_size"
+                android:textColor="#666666" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@mipmap/icon_arrow" />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black">
+
+    <include layout="@layout/common_multiple_title" />
+
+    <com.wf.irulu.common.view.MutipleTouchViewPager
+        android:id="@+id/write_comment_show_photos_vp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerInParent="true" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:background="#00ffffff">
+
+        <ImageView
+            android:id="@+id/show_picture_back_iv"
+            android:layout_width="32dp"
+            android:layout_height="32dp"
+            android:layout_centerVertical="true"
+            android:clickable="true"
+            android:src="@drawable/ic_back_last_selector" />
+
+        <ImageView
+            android:id="@+id/show_picture_delete_iv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="10dp"
+            android:clickable="true"
+            android:src="@drawable/show_big_picture_selector" />
+
+
+    </RelativeLayout>
+
+
+    <LinearLayout
+        android:id="@+id/write_comment_point_ll"
+        android:layout_width="wrap_content"
+        android:layout_height="60dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="10dp"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" />
+
+
+</RelativeLayout>

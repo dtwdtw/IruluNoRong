@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:background="@color/white"
+    android:layout_height="match_parent">
+
+    <include
+        android:id="@+id/about_irulu_layout"
+        layout="@layout/common_simple_title" />
+
+    <ImageView
+        android:id="@+id/about_iv"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="40dp"
+        android:layout_below="@id/about_irulu_layout"
+        android:src="@mipmap/ic_launcher" />
+
+    <TextView
+        android:id="@+id/about_tv1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/about_iv"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:text="iRULU"
+        android:textColor="#6db5f8"
+        android:textSize="@dimen/setting_text_size"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/about_tv2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/about_tv1"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        android:text="@string/versionv"
+        android:textColor="#000000"
+        android:textSize="@dimen/about_iru_text_size" />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/about_tv2"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="25dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginTop="20dp"
+        android:lineSpacingExtra="6dp"
+        android:text="iRULU is the consumer electronics division of USA111 Inc, located groveport, Ohio. iRULU designs and manufacturers electronics with features and functionality that rival the big brands without the big brand price tag."
+        android:textColor="#666666"
+        android:textSize="@dimen/setting_right_text_size" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="20dp"
+        android:text="© 2016 iRULU Store. All Rights Reserved."
+        android:textColor="#666666"
+        android:textSize="@dimen/setting_right_text_size" />
+
+</RelativeLayout>

@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="@color/white"
+              android:orientation="vertical">
+
+    <include
+        layout="@layout/common_simple_title"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/success_img"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="26dp"
+            android:layout_gravity="center"
+            android:src="@mipmap/pay_success_to_pay_icon"/>
+
+        <TextView
+            android:id="@+id/success_txt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/success_img"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="22dp"
+            android:text="Succeed to pay"
+            android:textColor="#FF9743"
+            android:layout_gravity="center"
+            android:textSize="22sp"/>
+
+        <TextView
+            android:id="@+id/pending_txt1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/success_txt"
+            android:layout_marginTop="10dp"
+            android:layout_gravity="center"
+            android:visibility="gone"
+            android:text="Your payment is currently pending for appoval."
+            android:textColor="#FF821D"
+            android:textSize="16sp"/>
+        <TextView
+            android:id="@+id/pending_txt2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/pending_txt1"
+            android:text="We will send you a confirmation email after it"
+            android:visibility="gone"
+            android:layout_gravity="center"
+            android:textColor="#FF821D"
+            android:textSize="16sp"/>
+        <TextView
+            android:id="@+id/pending_txt3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/pending_txt1"
+            android:text="was approved."
+            android:layout_marginBottom="10dp"
+            android:visibility="gone"
+            android:layout_gravity="center"
+            android:textColor="#FF821D"
+            android:textSize="16sp"/>
+
+    </LinearLayout>
+
+    <View
+        style="@style/HorizontalLine_dip"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginBottom="20dp"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="10dp"
+        android:orientation="vertical">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp">
+
+                <TextView
+                    android:id="@+id/pay_success_payment_txt"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="#808080"
+                    android:text="Pending payment:"/>
+
+                <TextView
+                    android:id="@+id/pay_success_pending_payment"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:layout_toRightOf="@id/pay_success_payment_txt"
+                    android:textSize="15sp"
+                    android:textColor="@color/product_new_price"/>
+
+                <TextView
+                    android:id="@+id/pay_success_order_txt"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="15dp"
+                    android:layout_below="@id/pay_success_payment_txt"
+                    android:textColor="#808080"
+                    android:text="Order ID:"/>
+
+                <TextView
+                    android:id="@+id/pay_success_order_id"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/product_name"
+                    android:layout_marginTop="15dp"
+                    android:layout_alignLeft="@id/pay_success_pending_payment"
+                    android:layout_below="@id/pay_success_pending_payment"
+                    android:textSize="14sp"/>
+
+                <TextView
+                    android:id="@+id/pay_success_transaction_txt"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="15dp"
+                    android:layout_below="@id/pay_success_order_txt"
+                    android:textColor="#808080"
+                    android:text="Transaction ID:"/>
+
+                <TextView
+                    android:id="@+id/pay_success_transaction_id"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/product_name"
+                    android:layout_marginTop="15dp"
+                    android:layout_alignLeft="@id/pay_success_order_id"
+                    android:layout_below="@id/pay_success_order_id"
+                    android:textSize="14sp"/>
+
+            </RelativeLayout>
+        <!--<TableLayout
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:layout_marginTop="20dp">
+             <TableRow android:layout_marginBottom="10dp">
+
+                 <TextView
+                     android:layout_width="wrap_content"
+                     android:layout_height="wrap_content"
+                     android:gravity="right"
+                     android:textColor="#808080"
+                     android:text="Pending payment:"/>
+
+                 <TextView
+                     android:id="@+id/pay_success_actual_payment"
+                     android:layout_width="wrap_content"
+                     android:layout_height="wrap_content"
+                     android:layout_marginLeft="15dp"
+                     android:text="$ 189.00"
+                     android:textSize="15sp"
+                     android:textColor="@color/product_new_price"/>
+             </TableRow>
+
+             <TableRow android:layout_marginBottom="10dp">
+
+                 <TextView
+                     android:layout_width="wrap_content"
+                     android:layout_height="wrap_content"
+                     android:gravity="right"
+                     android:textColor="#808080"
+                     android:text="Order ID is:"/>
+
+                 <TextView
+                     android:id="@+id/pay_success_order_id"
+                     android:layout_width="wrap_content"
+                     android:layout_height="wrap_content"
+                     android:layout_marginLeft="15dp"
+                     android:textColor="@color/product_name"
+                     android:textSize="14sp"
+                     android:text="4561321284"/>
+             </TableRow>
+         </TableLayout>-->
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:orientation="horizontal">
+
+            <Button
+                android:layout_width="0dp"
+                android:layout_height="30dp"
+                android:layout_weight="18"
+                android:background="@drawable/button_01_selector"
+                android:gravity="center"
+                android:onClick="orderDetails"
+                android:text="View order details "
+                android:textAllCaps="false"
+                android:textColor="@color/blue_line_image"
+                android:textSize="12sp"/>
+
+            <LinearLayout
+                style="@style/wrap_content"
+                android:layout_weight="1">
+            </LinearLayout>
+
+            <Button
+                android:layout_width="0dp"
+                android:layout_height="30dp"
+                android:layout_weight="18"
+                android:background="@drawable/button_01_selector"
+                android:gravity="center"
+                android:onClick="goToShoping"
+                android:text="Continue shopping"
+                android:textColor="@color/blue_line_image"
+                android:textAllCaps="false"
+                android:textSize="12sp"/>
+        </LinearLayout>
+    </LinearLayout>
+
+    <!--这里是“也许你喜欢”，当服务器返回有字段是就把gone去掉-->
+    <FrameLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:visibility="gone">
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="10dp"
+            android:background="@color/divider_gray"/>
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:text="Maybe you like"
+            android:textStyle="bold"/>
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="1dp"
+            android:layout_marginTop="10dp"
+            android:background="@color/gray"/>
+
+        <com.wf.irulu.common.view.HorizontialListView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+        </com.wf.irulu.common.view.HorizontialListView>
+    </FrameLayout>
+</LinearLayout>

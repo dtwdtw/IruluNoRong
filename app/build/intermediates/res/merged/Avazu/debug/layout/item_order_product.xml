@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@android:color/white">
+
+    <ImageView
+        android:id="@+id/order_iv_img"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_marginLeft="10dp"
+        android:layout_centerVertical="true" />
+
+    <TextView
+        android:id="@+id/order_tv_name"
+        style="@style/match_wrap"
+        android:lines="2"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="17dp"
+        android:layout_toRightOf="@id/order_iv_img"
+        android:text="iRULU 5.0 Inch Quad-Core Smartphone Victory" />
+
+    <TextView
+        android:id="@+id/order_tv_price"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:layout_toRightOf="@id/order_iv_img"
+        android:layout_below="@id/order_tv_name"
+        android:layout_marginBottom="20dp"
+        android:singleLine="true"
+        android:text="$ 303.45"
+        android:textColor="@color/price_red"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/order_tv_total"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/order_tv_price"
+        android:layout_below="@id/order_tv_name"
+        android:layout_marginBottom="20dp"
+        android:layout_marginLeft="10dp"
+        android:text="X1"
+        android:singleLine="true"
+        android:textColor="@color/amount_product_gray"
+        android:textSize="14sp" />
+
+</RelativeLayout>

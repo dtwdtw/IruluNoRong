@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+<com.wf.irulu.common.view.pulltorefresh.PullToRefreshListView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ptr="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/product_gv"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:divider="@null"
+    ptr:ptrAnimationStyle="flip"
+    ptr:ptrDrawable="@mipmap/default_ptr_flip" />-->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:background="@color/background">
+
+    <com.wf.irulu.common.view.xrecyclerview.XRecyclerView
+        android:id="@+id/recyclerview_layout"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"/>
+
+    <!--<android.support.design.widget.FloatingActionButton
+        android:id="@+id/return_top_fab"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        app:rippleColor="@android:color/transparent"
+        android:background="@android:color/transparent"
+        android:layout_margin="20dp"
+        android:src="@mipmap/back_to_top_icon"
+        />-->
+
+    <ImageView
+        android:id="@+id/back_to_top_fab"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_margin="16dp"
+        android:background="@android:color/transparent"
+        android:src="@mipmap/back_to_top_icon"
+        android:visibility="gone"/>
+
+</RelativeLayout>

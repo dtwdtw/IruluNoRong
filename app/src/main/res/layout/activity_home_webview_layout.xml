@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/title_height"
+        android:background="@color/white">
+
+        <ImageView
+            android:id="@+id/title_back"
+            android:layout_width="@dimen/title_arrow_width_height"
+            android:layout_height="@dimen/title_arrow_width_height"
+            android:layout_centerVertical="true"
+            android:background="@drawable/ic_back_last_selector" />
+
+
+        <TextView
+            android:id="@+id/title_center_txt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:background="@drawable/drawer_selector"
+            android:gravity="center"
+            android:textColor="@color/title_text_color"
+            android:textSize="@dimen/title_text_size" />
+
+        <ImageView
+            android:id="@+id/title_cancel"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:visibility="gone"
+            android:padding="10dp"
+            android:src="@drawable/params_cancle_selector" />
+    </RelativeLayout>
+
+    <View
+        android:id="@+id/common_multiple_title_line"
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/title_horizontal_line_height"
+        android:background="@drawable/gradient_shape" />
+
+    <ProgressBar
+        android:id="@+id/web_pb_bar"
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_width="match_parent"
+        android:layout_height="4dp" />
+
+    <WebView
+        android:id="@+id/home_wb"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+</LinearLayout>

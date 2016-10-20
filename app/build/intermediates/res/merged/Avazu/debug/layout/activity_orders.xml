@@ -1,0 +1,81 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:tools="http://schemas.android.com/tools"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="@color/white"
+              android:orientation="vertical">
+
+    <include
+        layout="@layout/common_simple_title"/>
+
+    <RadioGroup
+        android:id="@+id/orders_rg_tabs"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+            <RadioButton
+                android:id="@+id/orders_rb_all"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:background="@drawable/order_bottom_line_selector"
+                android:button="@null"
+                android:layout_weight="1.0"
+                android:paddingBottom="@dimen/product_margin_box_02"
+                android:paddingTop="@dimen/product_margin_box_02"
+                android:paddingLeft="@dimen/search_text_padding"
+                android:paddingRight="@dimen/search_text_padding"
+                android:gravity="center"
+                android:text="@string/all_orders"
+                android:textColor="@color/params_color_selector"
+                android:textSize="@dimen/tip_text_size"/>
+
+
+            <RadioButton
+                android:layout_weight="1.0"
+                android:id="@+id/orders_rb_unpaid"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:background="@drawable/order_bottom_line_selector"
+                android:button="@null"
+                android:gravity="center"
+                android:checked="true"
+                android:paddingBottom="@dimen/product_margin_box_02"
+                android:paddingTop="@dimen/product_margin_box_02"
+                android:paddingLeft="@dimen/search_text_padding"
+                android:paddingRight="@dimen/search_text_padding"
+                android:text="@string/unpaid"
+                android:textColor="@color/params_color_selector"
+                android:textSize="@dimen/tip_text_size"/>
+
+            <RadioButton
+                android:id="@+id/orders_rb_shipped"
+                android:layout_weight="1.0"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:background="@drawable/order_bottom_line_selector"
+                android:paddingBottom="@dimen/product_margin_box_02"
+                android:paddingTop="@dimen/product_margin_box_02"
+                android:paddingLeft="@dimen/search_text_padding"
+                android:paddingRight="@dimen/search_text_padding"
+                android:button="@null"
+                android:gravity="center"
+                android:text="@string/shipped"
+                android:textColor="@color/params_color_selector"
+                android:textSize="@dimen/tip_text_size"/>
+    </RadioGroup>
+
+    <View
+        style="@style/HorizontalLineGray5dp"/>
+
+    <com.wf.irulu.common.view.NoScrollViewPager
+        android:id="@+id/orders_nsvp_page"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1.0"
+        android:background="@color/white">
+    </com.wf.irulu.common.view.NoScrollViewPager>
+
+</LinearLayout>

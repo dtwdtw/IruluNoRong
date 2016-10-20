@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="wrap_content"
+    android:background="@drawable/shape_rectangle_background"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/share_to"
+        android:textColor="#2d2d2d"
+        android:textAllCaps="false"
+        android:textSize="@dimen/dialog_title_text_size"
+        android:id="@+id/share_bt_cancle"
+        android:background="@drawable/bottom_box_gray_special"
+        android:padding="@dimen/product_margin_box_02"/>
+
+    <RadioGroup
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/share_bt_cancle"
+        android:id="@+id/share_rg_platform"
+        android:gravity="center_vertical"
+        android:layout_marginLeft="@dimen/product_margin_box_01"
+        android:padding="@dimen/product_margin_box_02"
+        android:orientation="vertical">
+
+        <RadioButton
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/facebook_share"
+            android:gravity="left|center_vertical"
+            android:layout_marginLeft="@dimen/product_margin_box_02"
+            android:layout_marginRight="@dimen/product_margin_box_02"
+            android:textSize="@dimen/about_iru_text_size"
+            android:textColor="@color/product_name"
+            android:drawablePadding="@dimen/product_margin_box_01"
+            android:button="@null"
+            android:drawableLeft="@mipmap/login_logo_facebook"/>
+
+        <View
+            android:layout_marginTop="@dimen/product_margin_box_02"
+            android:layout_marginBottom="@dimen/product_margin_box_02"
+            android:layout_marginLeft="@dimen/product_margin_box_02"
+            style="@style/splite_gray"/>
+
+        <RadioButton
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/twitter_share"
+            android:layout_marginLeft="@dimen/product_margin_box_02"
+            android:layout_marginRight="@dimen/product_margin_box_02"
+            android:textColor="@color/product_name"
+            android:drawablePadding="@dimen/product_margin_box_01"
+            android:gravity="left|center_vertical"
+            android:button="@null"
+            android:textSize="@dimen/about_iru_text_size"
+            android:drawableLeft="@mipmap/login_logo_twitter"/>
+
+    </RadioGroup>
+
+</LinearLayout>

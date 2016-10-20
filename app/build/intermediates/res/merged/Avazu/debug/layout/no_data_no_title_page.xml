@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="100dp"
+        android:id="@+id/no_data_iv_tip"
+        android:src="@mipmap/no_data_show"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/no_data_iv_tip"
+        android:textSize="@dimen/first_title_size"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:id="@+id/no_data_tv_title"
+        android:textColor="@color/productdetail_price_new"
+        android:text="@string/oh_no"/>
+
+    <TextView
+        android:id="@+id/no_data_tv_tip"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/connections__offline"
+        android:layout_below="@id/no_data_tv_title"
+        android:textColor="@color/blue_line_image"
+        android:textSize="@dimen/first_title_size"
+        android:layout_marginTop="@dimen/product_margin_box_01"
+        android:layout_marginRight="30dp"
+        android:layout_marginLeft="30dp"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/button_01_selector"
+        android:textColor="@color/blue_line_image"
+        android:textAllCaps="false"
+        android:layout_marginLeft="35dp"
+        android:layout_marginRight="35dp"
+        android:layout_alignParentBottom="true"
+        android:minHeight="0dp"
+        android:id="@+id/no_data_bt_again"
+        android:padding="@dimen/product_margin_box_02"
+        android:layout_marginBottom="50dp"
+        android:text="@string/try_again"/>
+
+</RelativeLayout>

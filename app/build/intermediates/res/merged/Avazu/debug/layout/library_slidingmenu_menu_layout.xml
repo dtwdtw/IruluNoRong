@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:imagecontrol="http://schemas.android.com/apk/res-auto"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/menu_bg_deep_blue"
+    >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <!-- 头像与姓名 -->
+            <RelativeLayout
+                android:id="@+id/head_layout"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/nav_header_height"
+                android:background="@mipmap/leftnemu_background"
+
+                >
+
+                <com.wf.irulu.common.view.RoundImageView
+                    android:id="@+id/head_img"
+                    android:layout_width="@dimen/sidebar_head_img_width_height"
+                    android:layout_height="@dimen/sidebar_head_img_width_height"
+                    android:layout_centerInParent="true"
+                    android:src="@mipmap/headpic"
+                    imagecontrol:border_inside_color="#fffffe"
+                    imagecontrol:border_outside_color="#ffffff"
+                    imagecontrol:border_thickness="2dp"/>
+
+                <TextView
+                    android:id="@+id/name_txt"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/head_img"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="@dimen/nav_header_vertical_spacing"
+                    android:singleLine="true"
+                    android:text="Sign in"
+                    android:textColor="@color/sidebar_text_color"
+                    android:textSize="@dimen/sidebar_head_name_text_size"/>
+            </RelativeLayout>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:visibility="visible">
+
+                <RelativeLayout
+                    android:id="@+id/category_layout"
+                    android:layout_width="fill_parent"
+                    android:layout_height="@dimen/sidebar_item_height_01"
+                    android:paddingTop="@dimen/sidebar_item_padding_01"
+                    android:background="@color/white"
+                    android:clickable="true"
+                    android:gravity="center_vertical"
+                    android:paddingLeft="@dimen/sidebar_icon_paddingLeft">
+
+                    <ImageView
+                        android:id="@+id/category_img"
+                        android:layout_width="@dimen/sidebar_icon_width_height"
+                        android:layout_height="@dimen/sidebar_icon_width_height"
+                        android:layout_centerVertical="true"
+                        android:src="@mipmap/sidebar_icon_shop_by_category"/>
+
+                    <TextView
+                        android:id="@+id/category_txt"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:layout_marginLeft="@dimen/sidebar_text_marginLeft"
+                        android:layout_toRightOf="@id/category_img"
+                        android:gravity="center"
+                        android:text="Shop by Category"
+                        android:textColor="@color/sidebar_text_color"
+                        android:textSize="@dimen/sidebar_text_size"/>
+
+                </RelativeLayout>
+
+
+                <!-- 我的订单 -->
+
+                <RelativeLayout
+                    android:id="@+id/myorder_layout"
+                    android:layout_width="fill_parent"
+                    android:layout_height="@dimen/sidebar_item_heigh"
+                    android:background="@color/menu_icon_bg"
+                    android:clickable="true"
+                    android:gravity="center_vertical"
+                    android:paddingLeft="@dimen/sidebar_icon_paddingLeft">
+
+                    <ImageView
+                        android:id="@+id/myorder_img"
+                        android:layout_width="@dimen/sidebar_icon_width_height"
+                        android:layout_height="@dimen/sidebar_icon_width_height"
+                        android:layout_centerVertical="true"
+                        android:gravity="center"
+                        android:src="@mipmap/sidebar_icon_my_orders"/>
+
+                    <TextView
+                        android:id="@+id/myorder_txt"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:layout_marginLeft="@dimen/sidebar_text_marginLeft"
+                        android:layout_toRightOf="@id/myorder_img"
+                        android:gravity="center"
+                        android:text="My Order"
+                        android:textColor="@color/sidebar_text_color"
+                        android:textSize="@dimen/sidebar_text_size"/>
+
+                    <TextView
+                        android:id="@+id/myorder_unread_txt"
+                        android:layout_width="@dimen/sidebar_unread_num_width"
+                        android:layout_height="@dimen/sidebar_unread_num_height"
+                        android:layout_centerVertical="true"
+                        android:layout_marginLeft="@dimen/sidebar_unread_num_margin_left"
+                        android:layout_toRightOf="@id/myorder_txt"
+                        android:background="@mipmap/message_unread"
+                        android:gravity="center"
+                        android:textColor="@color/white"
+                        android:textSize="@dimen/shopping_cart_num"
+                        android:visibility="gone"
+                        />
+
+                </RelativeLayout>
+
+
+                <!-- 我的优惠券 -->
+                <RelativeLayout
+                    android:id="@+id/mycoupon_layout"
+                    android:layout_width="fill_parent"
+                    android:layout_height="@dimen/sidebar_item_heigh"
+                    android:background="@color/menu_icon_bg"
+                    android:clickable="true"
+
+                    android:gravity="center_vertical"
+                    android:paddingLeft="@dimen/sidebar_icon_paddingLeft">
+
+                    <ImageView
+                        android:id="@+id/mycoupon_img"
+                        android:layout_width="@dimen/sidebar_icon_width_height"
+                        android:layout_height="@dimen/sidebar_icon_width_height"
+                        android:layout_centerVertical="true"
+                        android:gravity="center"
+                        android:src="@mipmap/sidebar_icon_my_coupon"/>
+
+                    <TextView
+                        android:id="@+id/mycoupon_txt"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:layout_marginLeft="@dimen/sidebar_text_marginLeft"
+                        android:layout_toRightOf="@id/mycoupon_img"
+                        android:gravity="center"
+                        android:text="My Coupon"
+                        android:textColor="@color/sidebar_text_color"
+                        android:textSize="@dimen/sidebar_text_size"/>
+
+
+                </RelativeLayout>
+
+
+                <!-- 我的购物车 -->
+
+                <RelativeLayout
+                    android:id="@+id/shoppingcart_layout"
+                    android:layout_width="fill_parent"
+                    android:layout_height="@dimen/sidebar_item_heigh"
+                    android:layout_centerVertical="true"
+                    android:background="@color/menu_icon_bg"
+                    android:clickable="true"
+                    android:gravity="center_vertical"
+                    android:paddingLeft="@dimen/sidebar_icon_paddingLeft">
+
+                    <ImageView
+                        android:id="@+id/shoppingcart_img"
+                        android:layout_width="@dimen/sidebar_icon_width_height"
+                        android:layout_height="@dimen/sidebar_icon_width_height"
+                        android:layout_centerVertical="true"
+                        android:gravity="center"
+                        android:src="@mipmap/sidebar_icon_shopping_cart"/>
+
+                    <TextView
+                        android:id="@+id/shoppingcart_txt"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:layout_marginLeft="@dimen/sidebar_text_marginLeft"
+                        android:layout_toRightOf="@id/shoppingcart_img"
+                        android:gravity="center"
+                        android:text="Shopping Cart"
+                        android:textColor="@color/sidebar_text_color"
+                        android:textSize="@dimen/sidebar_text_size"/>
+
+                    <TextView
+                        android:id="@+id/shoppingcart_unread_txt"
+                        android:layout_width="@dimen/sidebar_unread_num_width"
+                        android:layout_height="@dimen/sidebar_unread_num_height"
+                        android:layout_centerVertical="true"
+                        android:layout_marginLeft="@dimen/sidebar_unread_num_margin_left"
+                        android:layout_toRightOf="@id/shoppingcart_txt"
+                        android:background="@mipmap/message_unread"
+                        android:gravity="center"
+                        android:textColor="@color/white"
+                        android:textSize="@dimen/shopping_cart_num"
+                        android:visibility="gone"/>
+
+
+                </RelativeLayout>
+
+
+                <!-- 我的收藏 -->
+
+                <RelativeLayout
+                    android:id="@+id/wishlist_layout"
+                    android:layout_width="fill_parent"
+                    android:layout_height="@dimen/sidebar_item_heigh"
+                    android:background="@color/menu_icon_bg"
+                    android:clickable="true"
+                    android:gravity="center_vertical"
+                    android:paddingLeft="@dimen/sidebar_icon_paddingLeft">
+
+                    <ImageView
+                        android:id="@+id/wishlist_img"
+                        android:layout_width="@dimen/sidebar_icon_width_height"
+                        android:layout_height="@dimen/sidebar_icon_width_height"
+                        android:layout_centerVertical="true"
+                        android:gravity="center"
+                        android:src="@mipmap/sidebar_icon_wish_list"/>
+
+                    <TextView
+                        android:id="@+id/wishlist_txt"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:layout_marginLeft="@dimen/sidebar_text_marginLeft"
+                        android:layout_toRightOf="@id/wishlist_img"
+                        android:gravity="center"
+                        android:text="Wish List"
+                        android:textColor="@color/sidebar_text_color"
+                        android:textSize="@dimen/sidebar_text_size"/>
+
+                    <TextView
+                        android:id="@+id/wishlist_unread_txt"
+                        android:layout_width="@dimen/sidebar_unread_num_width"
+                        android:layout_height="@dimen/sidebar_unread_num_height"
+                        android:layout_centerVertical="true"
+                        android:layout_marginLeft="@dimen/sidebar_unread_num_margin_left"
+                        android:layout_toRightOf="@id/wishlist_txt"
+                        android:background="@mipmap/message_unread"
+                        android:gravity="center"
+                        android:textColor="@color/white"
+                        android:textSize="@dimen/shopping_cart_num"
+
+                        android:visibility="gone"/>
+
+
+                </RelativeLayout>
+
+
+                <!-- 通知 -->
+
+                <RelativeLayout
+                    android:id="@+id/massage_layout"
+                    android:layout_width="fill_parent"
+                    android:layout_height="@dimen/sidebar_item_heigh"
+                    android:background="@color/menu_icon_bg"
+                    android:clickable="true"
+                    android:gravity="center_vertical"
+                    android:paddingLeft="@dimen/sidebar_icon_paddingLeft">
+
+                    <ImageView
+                        android:id="@+id/massage_img"
+                        android:layout_width="@dimen/sidebar_icon_width_height"
+                        android:layout_height="@dimen/sidebar_icon_width_height"
+                        android:layout_centerVertical="true"
+                        android:gravity="center"
+                        android:src="@mipmap/sidebar_icon_messages"/>
+
+                    <TextView
+                        android:id="@+id/massage_txt"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:layout_marginLeft="@dimen/sidebar_text_marginLeft"
+                        android:layout_toRightOf="@id/massage_img"
+                        android:gravity="center"
+                        android:text="Message"
+                        android:textColor="@color/sidebar_text_color"
+                        android:textSize="@dimen/sidebar_text_size"/>
+
+                    <TextView
+                        android:id="@+id/massage_unread_txt"
+                        android:layout_width="@dimen/sidebar_unread_num_width"
+                        android:layout_height="@dimen/sidebar_unread_num_height"
+                        android:layout_centerVertical="true"
+                        android:layout_marginLeft="@dimen/sidebar_unread_num_margin_left"
+                        android:layout_toRightOf="@id/massage_txt"
+                        android:background="@mipmap/message_unread"
+                        android:gravity="center"
+                        android:textColor="@color/white"
+                        android:textSize="@dimen/shopping_cart_num"
+                        android:visibility="gone"/>
+
+
+                </RelativeLayout>
+
+                <View
+                    android:layout_width="fill_parent"
+                    android:layout_height="5dp"
+                    android:background="#f8f8f8"/>
+
+                <!-- 客户支持 -->
+
+                <RelativeLayout
+                    android:id="@+id/customer_layout"
+                    android:layout_width="fill_parent"
+                    android:layout_height="@dimen/sidebar_item_heigh"
+                    android:layout_marginTop="@dimen/search_text_padding"
+                    android:background="@color/menu_icon_bg"
+                    android:clickable="true"
+                    android:gravity="center_vertical"
+                    android:paddingLeft="@dimen/sidebar_icon_paddingLeft">
+
+                    <ImageView
+                        android:id="@+id/Customer_img"
+                        android:layout_width="@dimen/sidebar_icon_width_height"
+                        android:layout_height="@dimen/sidebar_icon_width_height"
+                        android:layout_centerVertical="true"
+                        android:gravity="center"
+                        android:src="@mipmap/sidebar_icon_customer_support"/>
+
+                    <TextView
+                        android:id="@+id/Customer_txt"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:layout_marginLeft="@dimen/sidebar_text_marginLeft"
+                        android:layout_toRightOf="@id/Customer_img"
+                        android:gravity="center"
+                        android:text="Contact Us"
+                        android:textColor="@color/sidebar_text_color"
+                        android:textSize="@dimen/sidebar_text_size"/>
+
+
+                </RelativeLayout>
+
+
+                <!-- 邀请好友 -->
+                <RelativeLayout
+                    android:id="@+id/friend_layout"
+                    android:layout_width="fill_parent"
+                    android:layout_height="@dimen/sidebar_item_heigh"
+                    android:background="@color/menu_icon_bg"
+                    android:clickable="true"
+                    android:gravity="center_vertical"
+                    android:paddingLeft="@dimen/sidebar_icon_paddingLeft">
+
+                    <ImageView
+                        android:id="@+id/friend_img"
+                        android:layout_width="@dimen/sidebar_icon_width_height"
+                        android:layout_height="@dimen/sidebar_icon_width_height"
+                        android:layout_centerVertical="true"
+                        android:gravity="center"
+                        android:src="@mipmap/sidebar_icon_invite_friends"/>
+
+                    <TextView
+                        android:id="@+id/Friend_txt"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:layout_marginLeft="@dimen/sidebar_text_marginLeft"
+                        android:layout_toRightOf="@id/friend_img"
+                        android:gravity="center"
+                        android:text="Invite Friends"
+                        android:textColor="@color/sidebar_text_color"
+                        android:textSize="@dimen/sidebar_text_size"/>
+
+
+                </RelativeLayout>
+
+
+                <!-- 设置 -->
+
+                <RelativeLayout
+                    android:id="@+id/setting_layout"
+                    android:layout_width="fill_parent"
+                    android:layout_height="@dimen/sidebar_item_heigh"
+                    android:background="@color/menu_icon_bg"
+                    android:clickable="true"
+                    android:gravity="center_vertical"
+                    android:paddingLeft="@dimen/sidebar_icon_paddingLeft">
+
+                    <ImageView
+                        android:id="@+id/setting_img"
+                        android:layout_width="@dimen/sidebar_icon_width_height"
+                        android:layout_height="@dimen/sidebar_icon_width_height"
+                        android:layout_centerVertical="true"
+                        android:gravity="center"
+                        android:src="@mipmap/sidebar_icon_setting"/>
+
+                    <TextView
+                        android:id="@+id/setting_txt"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_centerVertical="true"
+                        android:layout_marginLeft="@dimen/sidebar_text_marginLeft"
+                        android:layout_toRightOf="@id/setting_img"
+                        android:gravity="center"
+                        android:text="Setting"
+                        android:textColor="@color/sidebar_text_color"
+                        android:textSize="@dimen/sidebar_text_size"/>
+
+
+                </RelativeLayout>
+
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <com.wf.irulu.common.view.MatchParentImageView
+            android:layout_width="@dimen/menu_vertical_width"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+            android:background="@drawable/menu_shade"
+            />
+    </RelativeLayout>
+</ScrollView>

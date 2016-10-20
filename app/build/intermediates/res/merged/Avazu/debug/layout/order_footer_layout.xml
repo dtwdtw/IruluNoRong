@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@android:color/white" >
+
+    <View
+        android:id="@+id/split_v_block"
+        android:layout_width="match_parent"
+        android:layout_height="10dp"
+        android:background="@color/gray" />
+
+    <TableLayout
+        android:id="@+id/order_tl"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_below="@id/split_v_block"
+        android:layout_marginRight="35dp" >
+
+        <TableRow
+            android:layout_marginTop="12dp"
+            android:layout_marginBottom="11dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="right"
+                android:text="Items Total:"
+                android:textColor="#9F9F9F"
+                android:textSize="12sp" />
+
+            <TextView
+                android:id="@+id/product_tv_pricetotal"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:textColor="@color/product_new_price"
+                android:textSize="15sp" />
+        </TableRow>
+
+        <TableRow android:layout_marginBottom="11dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="right"
+                android:text="Shipping:"
+                android:textColor="#9F9F9F"
+                android:textSize="12sp" />
+
+            <TextView
+                android:id="@+id/item_shipping_item"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:textColor="@color/product_new_price"
+                android:textSize="15sp" />
+        </TableRow>
+
+        <TableRow android:layout_marginBottom="11dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="right"
+                android:text="Promotional Savings:"
+                android:textColor="#9F9F9F"
+                android:textSize="12sp" />
+
+            <TextView
+                android:id="@+id/order_promotional_savings_item"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:textColor="@color/product_new_price"
+                android:textSize="15sp" />
+        </TableRow>
+    </TableLayout>
+
+    <!--<View
+        android:id="@+id/order_view"
+        android:layout_width="fill_parent"
+        android:layout_height="1dp"
+        android:layout_below="@id/order_tl"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:background="@color/gray" />-->
+
+    <!--<TableLayout
+        android:id="@+id/order_toal_tl"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_below="@id/order_view"
+        android:layout_marginBottom="10dp"
+        android:layout_marginRight="18dp"
+        android:layout_marginTop="10dp" >
+
+        <TableRow>
+
+            <TextView
+                style="@style/title_size_color"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="right"
+                android:text="Order Total:"
+                android:textStyle="bold"/>
+
+            <TextView
+                android:id="@+id/order_total_item"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:textColor="#FF6293"
+                android:textStyle="bold" />
+        </TableRow>
+    </TableLayout>-->
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="10dp"
+        android:layout_below="@id/order_tl"
+        android:layout_alignParentBottom="true"
+        android:background="@color/gray" />
+
+</RelativeLayout>

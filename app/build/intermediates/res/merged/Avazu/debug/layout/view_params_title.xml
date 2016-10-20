@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:app="http://schemas.android.com/apk/res-auto"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/white">
+
+    <TextView
+        android:id="@+id/params_tv_qty"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/qty"
+        android:textColor="@color/product_title"
+        android:textSize="@dimen/second_title_size"/>
+
+    <com.wf.irulu.common.view.ClickButton
+        android:id="@+id/params_iv_dec"
+        android:layout_width="@dimen/cart_button_width"
+        android:layout_height="35dp"
+        android:layout_below="@id/params_tv_qty"
+        android:layout_marginTop="@dimen/product_margin_box_01"
+        app:clickedDrawable="@mipmap/cart_reduce_button_press"
+        app:disableDrawble="@mipmap/cart_reduce_button_press"
+        app:normalDrawable="@mipmap/cart_reduce_button_normal"/>
+
+
+
+    <EditText
+        android:id="@+id/params_et_num"
+        android:layout_width="@dimen/cart_num_width"
+        android:layout_height="35dp"
+        android:layout_alignBottom="@id/params_iv_dec"
+        android:layout_toRightOf="@id/params_iv_dec"
+       android:background="@drawable/shape_rectangle_background"
+        android:gravity="center"
+        android:inputType="number"
+        android:maxLength="3"
+        android:textColor="@color/product_name"/>
+
+    <View
+        android:layout_width="80dp"
+        android:layout_height="1px"
+        android:layout_alignTop="@id/params_et_num"
+        android:layout_toRightOf="@id/params_iv_dec"
+        android:background="@color/gray"></View>
+
+    <View
+        android:layout_width="80dp"
+        android:layout_height="1px"
+        android:layout_alignBottom="@id/params_et_num"
+        android:layout_toRightOf="@id/params_iv_dec"
+        android:background="@color/gray"></View>
+
+    <com.wf.irulu.common.view.ClickButton
+        android:id="@+id/params_iv_add"
+        android:layout_width="@dimen/cart_button_width"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@id/params_iv_dec"
+        android:layout_alignTop="@id/params_iv_dec"
+        android:layout_toRightOf="@id/params_et_num"
+        app:clickedDrawable="@mipmap/cart_increase_button_press"
+        app:disableDrawble="@mipmap/cart_increase_button_press"
+        app:normalDrawable="@mipmap/cart_increase_button_normal"/>
+
+
+</RelativeLayout>

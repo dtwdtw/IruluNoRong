@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:paddingBottom="@dimen/product_margin_box_02"
+                android:paddingTop="@dimen/product_margin_box_02">
+
+    <ImageView
+        android:id="@+id/product_iv_image"
+        android:layout_width="@dimen/order_product_image"
+        android:layout_height="@dimen/order_product_image"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="@dimen/product_margin_box_01"
+        android:src="@mipmap/notify_image_xiaotu"/>
+
+    <TextView
+        android:id="@+id/product_tv_name"
+        android:layout_toRightOf="@id/product_iv_image"
+        android:layout_marginLeft="@dimen/product_margin_box_02"
+        android:lines="2"
+        android:ellipsize="end"
+        android:textColor="@color/product_name"
+        android:textSize="@dimen/tip_text_size"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <TextView
+        android:id="@+id/product_tv_sku"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:lines="1"
+        android:textSize="@dimen/tip_text_size"
+        android:textColor="@color/product_old_price"
+        android:layout_below="@id/product_tv_name"
+        android:layout_alignLeft="@id/product_tv_name"/>
+
+    <TextView
+        android:id="@+id/product_tv_price"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@id/product_tv_name"
+        android:layout_below="@id/product_tv_sku"
+        android:textColor="@color/product_new_price"
+        android:textSize="@dimen/third_title_size"/>
+
+    <TextView
+        android:id="@+id/product_tv_count"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/tip_text_size"
+        android:textColor="@color/product_old_price"
+        android:layout_toRightOf="@id/product_tv_price"
+        android:layout_marginLeft="@dimen/product_margin_box_02"
+        android:layout_alignBottom="@id/product_tv_price"/>
+
+</RelativeLayout>

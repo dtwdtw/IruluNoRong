@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+                android:visibility="gone"
+                android:background="@color/gray"
+              android:padding="@dimen/search_text_padding">
+
+    <TextView
+        android:text="@string/search_empty_tip"
+        android:textColor="@color/product_old_price"
+        android:textSize="@dimen/tip_text_size"
+        android:id="@+id/search_tv_content"
+        android:layout_centerInParent="true"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+    <TextView
+        android:text="@string/search_empty_title"
+        android:textColor="@color/blue_line_image"
+        android:textSize="@dimen/third_title_size"
+        android:layout_centerHorizontal="true"
+        android:gravity="center"
+        android:layout_marginBottom="@dimen/product_margin_box_01"
+        android:id="@+id/search_tv_title"
+        android:layout_above="@id/search_tv_content"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <ImageView
+        android:text="@string/search_empty_tip"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/search_iv_image"
+        android:src="@mipmap/search_kong"
+        android:layout_marginBottom="@dimen/reviews_title_padding"
+        android:layout_above="@id/search_tv_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+</RelativeLayout>

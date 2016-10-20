@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/AndroidImageSlider/build/intermediates/res/merged/debug/drawable-v23/abc_control_background_material.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/AndroidImageSlider/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-v23/abc_control_background_material.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/AndroidImageSlider/build/intermediates/res/merged/debug/drawable-v23/abc_control_background_material.xml",
+        "source": "/Users/dtw/IruluNoRong/AndroidImageSlider/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-v23/abc_control_background_material.xml"
+    }
+]

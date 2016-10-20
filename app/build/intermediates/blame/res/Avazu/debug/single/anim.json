@@ -1,0 +1,202 @@
+[
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/anim/dialog_panel_out.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/anim/dialog_panel_out.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/anim/slide_out_to_bottom.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/anim/slide_out_to_bottom.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/anim/dialog_panel_in.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/anim/dialog_panel_in.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/anim/out_from_down.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/anim/out_from_down.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/anim/slide_in_from_top.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/anim/slide_in_from_top.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/anim/abc_fade_out.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/anim/slide_in_from_top.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/anim/slide_in_from_top.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/anim/in_from_down.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/anim/in_from_down.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/anim/activity_close.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/anim/activity_close.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/anim/translateanimation.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/anim/translateanimation.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/anim/slide_out_to_top.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/anim/slide_out_to_top.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/anim/slide_in_from_bottom.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/anim/slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/anim/addtocartfly.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/anim/addtocartfly.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/anim/popup_photoselect_slide_out.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/anim/popup_photoselect_slide_out.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/anim/popup_photoselect_slide_in.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/anim/popup_photoselect_slide_in.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/anim/acitvity_open.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/anim/acitvity_open.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/anim/abc_fade_out.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/anim/translateanimation.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/anim/translateanimation.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/anim/dialog_panel_in.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/anim/dialog_panel_in.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/anim/dialog_waiting_anim.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/anim/dialog_waiting_anim.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/anim/slide_in_from_bottom.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/anim/slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/anim/addtocartfly.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/anim/addtocartfly.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/anim/popup_photoselect_slide_in.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/anim/popup_photoselect_slide_in.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/anim/abc_fade_in.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/anim/dialog_waiting_anim.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/anim/dialog_waiting_anim.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/anim/activity_close.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/anim/activity_close.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/anim/slide_out_to_top.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/anim/slide_out_to_top.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/anim/in_from_down.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/anim/in_from_down.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/anim/abc_fade_in.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/anim/slide_out_to_bottom.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/anim/slide_out_to_bottom.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/anim/popup_photoselect_slide_out.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/anim/popup_photoselect_slide_out.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/anim/acitvity_open.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/anim/acitvity_open.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/anim/dialog_panel_out.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/anim/dialog_panel_out.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/anim/out_from_down.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/anim/out_from_down.xml"
+    }
+]

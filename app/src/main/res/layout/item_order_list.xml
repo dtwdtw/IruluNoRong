@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical"
+              android:background="@color/white">
+
+    <RelativeLayout
+        android:background="@drawable/bottom_box_gray_special"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:lines="1"
+            android:id="@+id/order_tv_time"
+            android:layout_alignParentLeft="true"
+            android:textColor="@color/product_old_price"
+            android:textSize="@dimen/tip_text_size"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:lines="1"
+            android:id="@+id/order_tv_statu"
+            android:layout_alignParentRight="true"
+            android:textColor="@color/blue_line_image"
+            android:textSize="@dimen/tip_text_size"/>
+
+    </RelativeLayout>
+
+    <View style="@style/splite_gray"/>
+
+    <com.wf.irulu.common.view.NoScrollGridView
+        android:layout_weight="1"
+        style="@style/match_parent"
+        android:numColumns="1"
+        android:verticalSpacing="1dp"
+        android:layout_marginLeft="@dimen/product_margin_box_02"
+        android:layout_marginRight="@dimen/product_margin_box_02"
+        android:background="@color/splite_gray"
+        android:id="@+id/orders_nsgv_product"></com.wf.irulu.common.view.NoScrollGridView>
+
+    <View style="@style/splite_gray"/>
+
+
+</LinearLayout>

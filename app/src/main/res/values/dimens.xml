@@ -1,0 +1,264 @@
+<resources>
+   <!--字体大小-->
+    <dimen name="textsize_thirty">30sp</dimen>
+    <dimen name="textsize_eleven">11sp</dimen>
+    
+    
+    
+    
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="actionbar_dimen">56dp</dimen>
+    <dimen name="navdrawer_width">260dp</dimen>
+    <dimen name="actionbar_arrows">60dp</dimen>
+    <dimen name="ldrawer_drawableSize">50dp</dimen>
+    <dimen name="ldrawer_barSize">18dp</dimen>
+    <dimen name="ldrawer_topBottomBarArrowSize">11dp</dimen>
+    <dimen name="ldrawer_thickness">2dp</dimen>
+    <dimen name="ldrawer_gapBetweenBars">3dp</dimen>
+    <dimen name="ldrawer_middleBarArrowSize">16dp</dimen>
+    <dimen name="image_height">60dp</dimen>
+    <dimen name="header_height">60dp</dimen>
+    <dimen name="footer_height">90dp</dimen>
+    <dimen name="write_comment_image">100dp</dimen>
+    <dimen name="footer_padding">10dp</dimen>
+    <dimen name="classify_font_size">14sp</dimen>
+    <dimen name="button_size">35dp</dimen>
+    <dimen name="button_width">250dp</dimen>
+    <dimen name="button_height">50dp</dimen>
+    <dimen name="view_stripe_height">40dp</dimen>
+    <!--页面加载的宽和高-->
+    <dimen name="pageLoadDialog_min_WidthHeight">60dp</dimen>
+    <!--页面加载进度的转圈的大小-->
+    <dimen name="pageLoadDialog_circles">30dp</dimen>
+    <!--侧滑滑出来的宽度-->
+    <dimen name="swipe_menu_width">70dp</dimen>
+
+    <!-- title start-->
+    <!--Title的高度-->
+    <dimen name="title_height">45dp</dimen>
+    <!--Title上的箭头距离左边的距离-->
+    <dimen name="title_arrow_marginLeft">5dp</dimen>
+    <!--Title上的IRULU图片的宽-->
+    <dimen name="title_img_width">66dp</dimen>
+    <!--Title上的IRULU图片的高-->
+    <dimen name="title_img_height">16dp</dimen>
+    <!--Title上的购物车数量距离左边的距离-->
+    <dimen name="title_shopping_num_marginLeft">8dp</dimen>
+    <!--Title上的购物车数量的宽高-->
+    <dimen name="title_shopping_num_img_width_height">18dp</dimen>
+    <!--Title上的箭头的宽和高-->
+    <dimen name="title_arrow_width_height">36dp</dimen>
+    <!--Title上的购物车的宽和高-->
+    <dimen name="title_shoppingcart_width_height">32dp</dimen>
+    <!--Title上的搜索的宽和高-->
+    <dimen name="title_search_width_height">32dp</dimen>
+    <dimen name="title_text_size">17sp</dimen>
+    <!--Title下面的那一条横线-->
+    <dimen name="title_horizontal_line_height">1dp</dimen>
+    <!-- 购物车距离右边的长度 -->
+    <dimen name="title_shopping_margin">10dp</dimen>
+    <!--设置购物车礼物说明距离顶部和下部边的距离-->
+    <dimen name="shopping_cart_gift_top_bottom_Margin">2dp</dimen>
+    <!--设置购物车礼物说明距离左边的距离-->
+    <dimen name="shopping_cart_gift_leftMargin">70dp</dimen>
+    <!--设置购物车礼物说明距离右边的距离-->
+    <dimen name="shopping_cart_gift_rightMargin">20dp</dimen>
+    <!-- title end-->
+
+    <!--侧栏 start-->
+    <!--侧栏头像图片的宽高-->
+    <dimen name="sidebar_head_img_width_height">60dp</dimen>
+    <!--侧栏头像名称字体的大小-->
+    <dimen name="sidebar_head_name_text_size">17sp</dimen>
+    <!--侧栏头像距离上下左边的距离 start-->
+    <dimen name="sidebar_head_margin_bottom">15dp</dimen>
+    <dimen name="sidebar_head_margin_left">31dp</dimen>
+    <dimen name="sidebar_head_margin_top">18dp</dimen>
+    <!--侧栏头像距离上下左边的距离 end-->
+    <!--侧栏头像名称距离头像的左边的距离-->
+    <dimen name="sidebar_head_name_margin_left">10dp</dimen>
+    <!--侧栏左侧的图标的宽高-->
+    <dimen name="sidebar_icon_width_height">20dp</dimen>
+    <!--侧栏中的数量距离左边的距离-->
+    <dimen name="sidebar_unread_num_margin_left">10dp</dimen>
+    <!--侧栏中的数量的宽度-->
+    <dimen name="sidebar_unread_num_width">23dp</dimen>
+    <!--侧栏中的数量的高度-->
+    <dimen name="sidebar_unread_num_height">17dp</dimen>
+    <!--侧栏的图标距离左边的距离-->
+    <dimen name="sidebar_icon_paddingLeft">47dp</dimen>
+    <!--侧栏每个选项的高度-->
+    <dimen name="sidebar_item_heigh">45dp</dimen>
+ <!--45+45/4-->
+ <dimen name="sidebar_item_height_01">56dp</dimen>
+    <dimen name="sidebar_item_padding_01">11dp</dimen>
+    <!--侧栏文字距离左边图标的距离-->
+    <dimen name="sidebar_text_marginLeft">14dp</dimen>
+    <!--侧栏文字的字体大小-->
+    <dimen name="sidebar_text_size">14dp</dimen>
+    <!--侧栏右侧箭头距离右侧的距离-->
+    <dimen name="sidebar_arrow_marginLeft">12dp</dimen>
+    <!--侧栏右侧箭头的宽高-->
+    <dimen name="sidebar_arrow_width_heigh">24dp</dimen>
+    <!--侧栏 end-->
+
+    <!-- PullToRefresh的配置 start -->
+    <dimen name="indicator_right_padding">10dp</dimen>
+    <dimen name="indicator_corner_radius">12dp</dimen>
+    <dimen name="indicator_internal_padding">4dp</dimen>
+    <dimen name="header_footer_left_right_padding">60dp</dimen>
+    <dimen name="header_footer_top_bottom_padding">12dp</dimen>
+    <!-- PullToRefresh的配置 end -->
+
+    <!--主页 start-->
+    <dimen name="split_blue_line">1dp</dimen>
+    <!--首页商品item距离底部的距离-->
+    <dimen name="home_margin_bottom">5dp</dimen>
+    <dimen name="home_margin_top">5dp</dimen>
+    <dimen name="home_margin_left">15dp</dimen>
+    <!--首页加入wishList的图标距离右边的距离-->
+    <dimen name="home_margin_right">10dp</dimen>
+    <!--首页WishList图标的宽高-->
+    <dimen name="home_wishlist_width_heigh">32dp</dimen>
+    <!--主页图片的宽高-->
+    <dimen name="home_img_width_height">130dp</dimen>
+    <!--主页图片距离左边或右边的距离-->
+    <dimen name="home_img_margin_left_right">15dp</dimen>
+    <!--主页图片距离上边的距离-->
+    <dimen name="home_img_margin_top">10dp</dimen>
+    <!--首页标签距离左边的距离-->
+    <dimen name="home_biaoqian_text_margin_left">2dp</dimen>
+    <!--首页每个商品间的间距-->
+    <dimen name="home_item_product_Spacing">5dp</dimen>
+    <!--  首页产品图片 -->
+    <dimen name="home_product_image_margin">15dp</dimen>
+    <dimen name="home_product_item_margin">5dp</dimen>
+    <dimen name="home_biaoqian_width">35dp</dimen>
+    <dimen name="home_biaoqian_height">19dp</dimen>
+    <!--首页标签字体的大小-->
+    <dimen name="home_biaoqian_text_size">12sp</dimen>
+    <dimen name="home_biaoqian_margin_top">12sp</dimen>
+    <dimen name="home_biaoqian_margin_left">10sp</dimen>
+    <dimen name="home_sliding_tab_height">45dp</dimen>
+    <dimen name="home_sliding_tab_text_size">16sp</dimen>
+    <dimen name="home_psts_indicator_height">2dp</dimen>
+    <dimen name="home_psts_tab_padding_left_right">10dp</dimen>
+    <dimen name="home_psts_underline_height">2dp</dimen>
+    <!--主页中商品项之间的间隙的距离-->
+    <dimen name="home_product_item_right_left">1dp</dimen>
+    <dimen name="home_product_item_top">2dp</dimen>
+    <!--主页 end-->
+
+    <dimen name="first_title_size">20sp</dimen>
+    <dimen name="newtitle">13dp</dimen>
+    <dimen name="second_title_size">18sp</dimen>
+    <dimen name="third_title_size">16sp</dimen>
+    <dimen name="tip_text_size">14sp</dimen>
+    <dimen name="order_title">12sp</dimen>
+    <dimen name="shopping_cart_num">10sp</dimen>
+    <dimen name="old_price_size">11sp</dimen>
+    <dimen name="new_price_size">15sp</dimen>
+    <dimen name="histartsear_size">20sp</dimen>
+    <dimen name="slidebar_size">16sp</dimen>
+    <dimen name="sendout_imageheight">175dp</dimen>
+    <dimen name="slidebar_height">45dp</dimen>
+    <!-- TEXT SIZE -->
+
+    <!--融云消息 start-->
+    <dimen name="message_margin_top_bottom">10dp</dimen>
+    <!--消息的布局左边的距离-->
+    <dimen name="message_margin_left">15dp</dimen>
+    <!--消息的头像的宽高-->
+    <dimen name="message_head_img_width_height">50dp</dimen>
+    <!--消息的文本布局距离头像的左边距-->
+    <dimen name="message_text_layout_margin_left">10dp</dimen>
+    <!--消息的文本距离上边的距离-->
+    <dimen name="message_text_margin_top">10dp</dimen>
+    <dimen name="message_text_size">12sp</dimen>
+    <dimen name="message_discount_item_text_size">14sp</dimen>
+    <dimen name="message_discount_item_content_text_size">13sp</dimen>
+    <!--每个消息距离四周的距离-->
+    <dimen name="message_discount_item_margin">10dp</dimen>
+    <!--每个消息里的内容(文字，图片)的上下之间的距离-->
+    <dimen name="message_discount_item_content_margin">10dp</dimen>
+    <dimen name="message_item_text_size">11sp</dimen>
+    <!--融云消息 end-->
+
+    <dimen name="product_margin_box_01">15dp</dimen>
+    <dimen name="new_product_margin">5dp</dimen>
+    <dimen name="product_margin_box_02">10dp</dimen>
+    <dimen name="new_margin">5dp</dimen>
+    <dimen name="product_margin_box_03">7.5dp</dimen>
+
+    <!-- 猜你喜欢-->
+    <dimen name="product_image_love">100dp</dimen>
+    <dimen name="custmoer_like">130dp</dimen>
+
+    <!-- 购物车产品图片 -->
+    <dimen name="shoppingcart_image">90dp</dimen>
+    <!-- 订单 -->
+    <dimen name="order_product_image">60dp</dimen>
+    <!-- 分类图片大小 -->
+    <dimen name="classify_product_image">105dp</dimen>
+    <dimen name="search_text_padding">5dp</dimen>
+    <dimen name="reviews_title_padding">25dp</dimen>
+    <dimen name="reviews_rating_padding">20dp</dimen>
+    <dimen name="review_reply_padding">3dp</dimen>
+    <dimen name="wish_empty_margin">35dp</dimen>
+    <dimen name="wish_empty_margin_shopping">50dp</dimen>
+    <dimen name="search_hot_height">30dp</dimen>
+
+    <dimen name="tab_order_height">45dp</dimen>
+
+    <!--  ######setting====start###### -->
+    <dimen name="setting_item_height">45dp</dimen>
+    <dimen name="setting_text_size">16sp</dimen>
+    <dimen name="setting_right_text_size">12sp</dimen>
+    <dimen name="dialog_title_text_size">20sp</dimen>
+    <dimen name="about_iru_text_size">14sp</dimen>
+    <dimen name="cart_price_text_size">16sp</dimen>
+    <dimen name="change_password_height">40dp</dimen>
+    <dimen name="setting_wipe_cache_height">50dp</dimen>
+    <!-- #####setting====end#######-->
+    <!-- ######user====start####### -->
+    <dimen name="user_logo_height">50dp</dimen>
+    <dimen name="user_logo_width">100dp</dimen>
+    <dimen name="user_forgot_password_height">210dp</dimen>
+    <dimen name="btn_right_left">28dp</dimen>
+    <dimen name="add_new_btn">110dp</dimen>
+    <dimen name="my_reviews_height">70dp</dimen>
+
+
+    <!-- ######user====end####### -->
+
+    <dimen name="reviews_progress_height_13">13dp</dimen>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="textandiconmargin">50dp</dimen>
+      <!--new arrivals 折扣价格  原价 控件的padding-->
+    <dimen name="padding_current_price">2dp</dimen>
+    <dimen name="padding_original_price">2dp</dimen>
+    <dimen name="padding_check_out">10dp</dimen>
+    <dimen name="padding_normal">2dp</dimen>
+     <!--购物车加减以及数量框的大小-->
+    <dimen name="cart_button_width">48dp</dimen>
+    <dimen name="cart_button_height">40dp</dimen>
+    <dimen name="cart_num_width">80dp</dimen>
+
+<!--侧边栏 上部内边距-->
+ <dimen name="menu_top_padding">30dp</dimen>
+ <dimen name="menu_vertical_width">10dp</dimen>
+
+ <dimen name="nav_header_vertical_spacing">10dp</dimen>
+ <dimen name="nav_header_height">160dp</dimen>
+
+
+    
+
+
+
+
+
+</resources>

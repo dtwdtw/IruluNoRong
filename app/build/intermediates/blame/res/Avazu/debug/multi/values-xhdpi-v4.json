@@ -1,0 +1,50 @@
+[
+    {
+        "outputFile": "/Users/dtw/IruluNoRong/app/build/intermediates/incremental/mergeAvazuDebugResources/merged.dir/values-xhdpi-v4/values-xhdpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 54,
+                    "endOffset": 105
+                },
+                "from": {
+                    "file": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.6.1/res/values-xhdpi/values-xhdpi.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 236,
+                        "endColumn": 54,
+                        "endOffset": 286
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/incremental/mergeAvazuDebugResources/merged.dir/values-xhdpi-v4/values-xhdpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 54,
+                    "endOffset": 105
+                },
+                "from": {
+                    "file": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.6.1/res/values-xhdpi/values-xhdpi.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 236,
+                        "endColumn": 54,
+                        "endOffset": 286
+                    }
+                }
+            }
+        ]
+    }
+]

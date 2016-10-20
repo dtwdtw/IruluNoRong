@@ -1,0 +1,30 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="@color/splite_gray"
+              android:orientation="vertical" >
+
+    <!--<com.wf.irulu.common.view.pulltorefresh.PullToRefreshListView-->
+        <!--xmlns:ptr="http://schemas.android.com/apk/res-auto"-->
+        <!--android:id="@+id/shipped_ptrlv_orders"-->
+        <!--style="@style/match_parent"-->
+        <!--android:background="@color/gray"-->
+        <!--android:divider="@color/gray"-->
+        <!--android:dividerHeight="10dp"-->
+        <!--android:scrollbars="none"-->
+        <!--android:layout_marginTop="-10dp"-->
+        <!--android:headerDividersEnabled="false"-->
+        <!--android:footerDividersEnabled="false"-->
+        <!--ptr:ptrDrawable="@drawable/animation"/>-->
+
+    <com.wf.irulu.common.view.xrecyclerview.XRecyclerView
+        android:id="@+id/shipped_ptrlv_orders"
+        style="@style/match_parent"
+        android:background="@color/gray"></com.wf.irulu.common.view.xrecyclerview.XRecyclerView>
+
+
+    <include
+        android:id="@+id/shipped_v_empty"
+        layout="@layout/view_order_empty"/>
+
+</LinearLayout>

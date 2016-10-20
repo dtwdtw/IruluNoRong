@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <include
+        android:id="@+id/title_layout"
+        layout="@layout/common_simple_title"/>
+
+    <RelativeLayout
+        android:id="@+id/button_layot"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:background="@android:color/white"
+        android:layout_alignParentBottom="true">
+
+        <Button
+            android:id="@+id/shipment_restricted_remove"
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:textColor="@color/blue_line_image"
+            android:textSize="@dimen/second_title_size"
+            android:layout_centerInParent="true"
+            android:layout_marginLeft="@dimen/wish_empty_margin"
+            android:layout_marginRight="@dimen/wish_empty_margin"
+            android:textAllCaps="false"
+            android:text="Remove All"
+            android:background="@drawable/button_01_selector"/>
+    </RelativeLayout>
+
+    <ListView
+        android:id="@+id/shipment_restricted_lv"
+        android:layout_below="@id/title_layout"
+        android:layout_above="@id/button_layot"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    </ListView>
+
+
+</RelativeLayout>

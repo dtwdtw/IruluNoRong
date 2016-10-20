@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#55cccccc"
+    android:orientation="vertical">
+
+    <include
+        android:id="@+id/add_layout"
+        layout="@layout/common_simple_title" />
+
+    <View style="@style/HorizontalLineGray5dp" />
+
+    <RelativeLayout
+        android:id="@+id/choose_address_add"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="@android:color/white"
+        android:clickable="true">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:text="Add a New Address" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="5dp"
+            android:src="@mipmap/icon_arrow" />
+    </RelativeLayout>
+
+    <ListView
+        android:id="@+id/choose_address"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:background="@android:color/white"
+        android:divider="#55cccccc"
+        android:dividerHeight="10dp"/>
+
+    <include
+        android:id="@+id/address_empty_layout"
+        layout="@layout/view_address_empty" />
+
+</LinearLayout>

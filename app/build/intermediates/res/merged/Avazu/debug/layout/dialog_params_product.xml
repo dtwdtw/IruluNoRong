@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:app="http://schemas.android.com/apk/res-auto"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@color/white">
+
+
+    <RelativeLayout
+        android:id="@+id/params_rl_product"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/product_margin_box_01"
+        android:layout_marginRight="@dimen/product_margin_box_01"
+        android:background="@drawable/bottom_top_box_split"
+        android:paddingBottom="@dimen/product_margin_box_01"
+        android:paddingTop="@dimen/product_margin_box_02">
+
+        <ImageView
+            android:id="@+id/params_iv_image"
+            android:layout_width="@dimen/shoppingcart_image"
+            android:layout_height="@dimen/shoppingcart_image"
+            android:layout_alignParentTop="true"
+            android:layout_marginRight="@dimen/product_margin_box_02"
+            android:src="@mipmap/notify_image_xiaotu"/>
+
+        <ImageView
+            android:id="@+id/params_iv_cancel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:src="@drawable/params_cancle_selector"/>
+
+        <TextView
+            android:id="@+id/params_tv_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_toLeftOf="@id/params_iv_cancel"
+            android:layout_toRightOf="@id/params_iv_image"
+            android:ellipsize="end"
+            android:maxLines="2"/>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@id/params_tv_name"
+            android:layout_below="@id/params_tv_name"
+            android:layout_marginTop="@dimen/product_margin_box_01"
+            android:layout_toRightOf="@id/params_iv_image"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/params_tv_newprice"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:lines="1"
+                android:textColor="@color/productdetail_price_new"
+                android:textSize="@dimen/first_title_size"/>
+
+            <TextView
+                android:id="@+id/params_tv_stock"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="right"
+                android:lines="1"
+                android:textColor="@color/params_gray"/>
+        </LinearLayout>
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/rl_bottom"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true">
+
+        <com.wf.irulu.common.view.ClickButton
+            android:id="@+id/params_continue"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/details_continue"
+            android:textAllCaps="false"
+            android:textColor="@color/product_option_buynow_text"
+            android:textSize="@dimen/third_title_size"
+            app:clickedDrawable="@color/bt_blue_clicked_01"
+            app:disableDrawble="@color/bt_blue_clicked_01"
+            app:normalDrawable="@color/bt_blue_normal01"/>
+
+        <include
+            android:id="@+id/product_options"
+            layout="@layout/view_product_options"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            />
+    </RelativeLayout>
+
+    <ScrollView
+        android:id="@+id/params_scrollview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/rl_bottom"
+        android:layout_below="@id/params_rl_product"
+        android:fillViewport="true">
+
+        <LinearLayout
+            android:id="@+id/params_ll_detail"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:padding="@dimen/product_margin_box_01">
+
+            <include
+                layout="@layout/view_params_title"/>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</RelativeLayout>

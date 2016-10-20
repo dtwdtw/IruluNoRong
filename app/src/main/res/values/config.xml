@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 手机号码的最大长度 -->
+    <integer name="config_phone_max_length">11</integer>
+    <!-- 昵称的最大长度 -->
+    <integer name="config_nickname_max_length">32</integer>
+    <!-- 个性签名最大长度 -->
+    <integer name="config_signature_max_length">32</integer>
+
+    <!-- 密码的最小长度 -->
+    <integer name="config_password_min_length">6</integer>
+    <!-- 密码的最大长度 -->
+    <integer name="config_password_max_length">18</integer>
+    
+
+</resources>

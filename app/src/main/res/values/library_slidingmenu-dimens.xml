@@ -1,0 +1,7 @@
+<resources>
+
+    <dimen name="slidingmenu_offset">90dp</dimen>
+    
+    <dimen name="slidingcontent_determinedrag_offset">100dp</dimen>
+    
+</resources>

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/dtw/irulu/irulu1.2/app/src/main/shaders"/></dataSet><dataSet config="Avazu"><source path="/Users/dtw/irulu/irulu1.2/app/src/Avazu/shaders"/></dataSet><dataSet config="debug"><source path="/Users/dtw/irulu/irulu1.2/app/src/debug/shaders"/></dataSet><dataSet config="AvazuDebug"><source path="/Users/dtw/irulu/irulu1.2/app/src/AvazuDebug/shaders"/></dataSet></merger>

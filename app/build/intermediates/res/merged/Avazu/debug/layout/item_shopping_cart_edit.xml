@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:app="http://schemas.android.com/apk/res-auto"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="@android:color/white"
+              android:descendantFocusability="beforeDescendants"
+              android:orientation="vertical">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <!--商品图片-->
+        <FrameLayout
+            android:layout_width="90dp"
+            android:layout_height="90dp"
+            android:layout_margin="15dp">
+
+            <ImageView
+                android:id="@+id/shopping_image"
+                android:layout_width="90dp"
+                android:layout_height="90dp"
+                android:scaleType="centerInside"
+                android:src="@mipmap/notify_image_xiaotu"/>
+
+            <TextView
+                android:id="@+id/sold_out_tag"
+                android:layout_width="90dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="bottom|center"
+                android:background="#5B5A5B"
+                android:gravity="center"
+                android:text="Sold Out"
+                android:textColor="@android:color/white"
+                android:visibility="gone"/>
+        </FrameLayout>
+
+        <LinearLayout
+            android:id="@+id/shopping_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="15dp"
+            android:layout_marginRight="15dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/shopping_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:ellipsize="end"
+                android:lines="2"
+                android:maxLines="2"
+                android:text="IRULU 5.0 Inch Quad-Core Smartphone Victory"
+                android:textColor="@color/product_name"
+                android:textSize="12sp"/>
+
+            <TextView
+                android:id="@+id/shopping_productSku"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:maxLines="2"
+                android:text="White,16GB"
+                android:textColor="@color/product_old_price"
+                android:textSize="11sp"/>
+
+            <TextView
+                android:id="@+id/shopping_price"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:textColor="@color/price_text_yellow"
+                android:textSize="@dimen/cart_price_text_size"/>
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:gravity="center_vertical">
+
+
+                <com.wf.irulu.common.view.ClickButton
+                    android:id="@+id/shopping_reduce"
+                    android:layout_width="@dimen/cart_button_width"
+                    android:layout_height="35dp"
+                    android:gravity="center"
+                    android:imeOptions="actionDone"
+                    app:clickedDrawable="@mipmap/cart_reduce_button_press"
+                    app:disableDrawble="@mipmap/cart_reduce_button_press"
+                    app:normalDrawable="@mipmap/cart_reduce_button_normal"/>
+                <EditText
+                    android:background="@null"
+                    android:id="@+id/shopping_quantity"
+                    android:layout_width="@dimen/cart_num_width"
+                    android:layout_height="35dp"
+                    android:layout_toRightOf="@id/shopping_reduce"
+                    android:gravity="center"
+                    android:imeOptions="actionDone"
+                    android:inputType="number"
+                    android:maxLength="3"
+                    android:singleLine="true"
+                    android:textColor="@android:color/black"/>
+                <View
+                    android:layout_width="80dp"
+                    android:layout_height="1px"
+                    android:background="@color/gray"
+                    android:layout_alignLeft="@id/shopping_quantity"
+                    android:layout_alignTop="@id/shopping_quantity"></View>
+                <View
+                    android:layout_width="80dp"
+                    android:layout_height="1px"
+                    android:background="@color/gray"
+                    android:layout_alignLeft="@id/shopping_quantity"
+                    android:layout_alignBottom="@id/shopping_quantity"></View>
+
+                <com.wf.irulu.common.view.ClickButton
+                    android:id="@+id/shopping_increase"
+                    android:layout_width="@dimen/cart_button_width"
+                    android:layout_height="35dp"
+                    android:layout_toRightOf="@id/shopping_quantity"
+                    android:gravity="center"
+                    app:clickedDrawable="@mipmap/cart_increase_button_press"
+                    app:disableDrawble="@mipmap/cart_increase_button_press"
+                    app:normalDrawable="@mipmap/cart_increase_button_normal"/>
+
+
+                <ImageView
+                    android:id="@+id/wishlist_icon_iv"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:scaleType="centerInside"
+                    android:src="@mipmap/wishlist_icon_normal"/>
+
+
+            </RelativeLayout>
+
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <View
+        android:id="@+id/horizontal_line_gray"
+        style="@style/HorizontalLineGray"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:visibility="gone"/>
+
+    <com.wf.irulu.common.view.NoScrollListView
+        android:id="@+id/shopping_no_scroll_lv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"
+        android:layout_marginLeft="13dp"
+        android:layout_marginRight="13dp"
+        android:layout_marginTop="5dp"
+        android:background="@drawable/cart_add_on_gift"
+        android:divider="@null"
+        android:listSelector="@android:color/transparent"
+        android:visibility="gone"/>
+</LinearLayout>

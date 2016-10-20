@@ -1,0 +1,946 @@
+[
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/tw__btn_composer_tweet.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-composer/1.0.1/res/drawable/tw__btn_composer_tweet.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/button_01_selector.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/drawable/button_01_selector.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/btn_menu_side_selector.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/drawable/btn_menu_side_selector.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/gradient_no_stoke.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/drawable/gradient_no_stoke.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/tw__login_btn_default_light.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.6.1/res/drawable/tw__login_btn_default_light.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/messenger_button_blue_bg_selector.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/drawable/messenger_button_blue_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/indicator_bg_top.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/drawable/indicator_bg_top.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/background_tab.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/drawable/background_tab.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/abc_ratingbar_full_material.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/order_splite_bottom.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/drawable/order_splite_bottom.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/com_facebook_button_login_silver_background.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/drawable/com_facebook_button_login_silver_background.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/progress_medium_holo.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/drawable/progress_medium_holo.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/indicator_corner_bg.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/irulu1.2/AndroidImageSlider/unspecified/res/drawable/indicator_corner_bg.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/dgts__digits_btn_default.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.9.1/res/drawable/dgts__digits_btn_default.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/icon_message_selector.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/drawable/icon_message_selector.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/background_tab.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/drawable/background_tab.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/ic_page_indicator.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/drawable/ic_page_indicator.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/bottom_stoke.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/drawable/bottom_stoke.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/btn_gb_selector.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/drawable/btn_gb_selector.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/tw__bg_tweet.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.7.0/res/drawable/tw__bg_tweet.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/animation.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/drawable/animation.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/show_big_picture_selector.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/drawable/show_big_picture_selector.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/tw__app_info_layout_border.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-composer/1.0.1/res/drawable/tw__app_info_layout_border.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/rect_gray.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/drawable/rect_gray.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/loading_circle.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/drawable/loading_circle.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/shape_gray_solid_rectangle.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/drawable/shape_gray_solid_rectangle.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/tw__login_btn_pressed.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.6.1/res/drawable/tw__login_btn_pressed.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/detail_more_selector.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/drawable/detail_more_selector.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/dgts__digits_btn_pressed.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.9.1/res/drawable/dgts__digits_btn_pressed.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/corners_bg_shape.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/drawable/corners_bg_shape.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/tw__bg_tweet_compact.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.7.0/res/drawable/tw__bg_tweet_compact.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/tw__login_btn_text_color_light.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.6.1/res/drawable/tw__login_btn_text_color_light.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/com_facebook_button_like_background.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/drawable/com_facebook_button_like_background.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/star_command_smallest.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/drawable/star_command_smallest.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/indicator_bg_bottom.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/drawable/indicator_bg_bottom.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/dgts__digits_btn_pressed.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.9.1/res/drawable/dgts__digits_btn_pressed.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/tw__share_action.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.7.0/res/drawable/tw__share_action.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/loading_for_waitting.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/drawable/loading_for_waitting.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/shape_rectangle_background.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/drawable/shape_rectangle_background.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/image_box_background.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/drawable/image_box_background.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/show_big_picture_selector.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/drawable/show_big_picture_selector.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/messenger_button_white_bg_round.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/drawable/messenger_button_white_bg_round.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/loading_circle.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/drawable/loading_circle.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/dgts__digits_btn_default.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.9.1/res/drawable/dgts__digits_btn_default.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/drawer_selector.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/drawable/drawer_selector.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/btn_navigation_bar_search_button.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/drawable/btn_navigation_bar_search_button.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/gray_btn.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/drawable/gray_btn.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/cart_delete_selector.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/drawable/cart_delete_selector.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/star_command_small.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/drawable/star_command_small.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/button_01_selector.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/drawable/button_01_selector.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/progressbar_version_update.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/drawable/progressbar_version_update.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/abc_ratingbar_full_material.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/bottom_box_gray.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/drawable/bottom_box_gray.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/message_pic_selector.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/drawable/message_pic_selector.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/com_facebook_button_background.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/drawable/com_facebook_button_background.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/progressbar_version_update.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/drawable/progressbar_version_update.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/wish_delete_selector.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/drawable/wish_delete_selector.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/tw__login_btn_light.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.6.1/res/drawable/tw__login_btn_light.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/rect_gray.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/drawable/rect_gray.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/page_refrence_selector.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/drawable/page_refrence_selector.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/icon_message_selector.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/drawable/icon_message_selector.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/tw__transparent.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.6.1/res/drawable/tw__transparent.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/tw__like_action.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.7.0/res/drawable/tw__like_action.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/ic_page_indicator_focused.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/drawable/ic_page_indicator_focused.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/params_cancle_selector.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/drawable/params_cancle_selector.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/reviews_progress_percent.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/drawable/reviews_progress_percent.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/bottom_box_gray_deep.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/drawable/bottom_box_gray_deep.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/star_command_smallest.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/drawable/star_command_smallest.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/messenger_button_blue_bg_round.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/drawable/messenger_button_blue_bg_round.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/page_show_selector.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/drawable/page_show_selector.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/progress_light.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.9.1/res/drawable/progress_light.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/product_option_addcart.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/drawable/product_option_addcart.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/shape_circle_pic.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/drawable/shape_circle_pic.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/category_phone_popular_bg_selector.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/drawable/category_phone_popular_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/dgts__digits_btn.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.9.1/res/drawable/dgts__digits_btn.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/rect_blue.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/drawable/rect_blue.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/params_cancle_selector.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/drawable/params_cancle_selector.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/star_command_small.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/drawable/star_command_small.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/category_phone_popular_bg_selector.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/drawable/category_phone_popular_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/shape_rectangle_background.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/drawable/shape_rectangle_background.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/drawer_selector.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/drawable/drawer_selector.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/tw__login_btn.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.6.1/res/drawable/tw__login_btn.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/image_box_background.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/drawable/image_box_background.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/top_box_gray.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/drawable/top_box_gray.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/ic_back_last_selector.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/drawable/ic_back_last_selector.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/add_wish_selector.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/drawable/add_wish_selector.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/progress_medium_holo.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/drawable/progress_medium_holo.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/abc_btn_check_material.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/shape_gray_solid_rectangle.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/drawable/shape_gray_solid_rectangle.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/ic_page_indicator.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/drawable/ic_page_indicator.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/gradient_no_stoke.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/drawable/gradient_no_stoke.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/product_option_addcart.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/drawable/product_option_addcart.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/order_bottom_none.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/drawable/order_bottom_none.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/messenger_button_blue_bg_round.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/drawable/messenger_button_blue_bg_round.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/bottom_box_gray_special.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/drawable/bottom_box_gray_special.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/list_item_divider.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/drawable/list_item_divider.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/abc_btn_check_material.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/tw__login_btn.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.6.1/res/drawable/tw__login_btn.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/star_command_big.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/drawable/star_command_big.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/order_splite_bottom.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/drawable/order_splite_bottom.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/order_bottom_blue.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/drawable/order_bottom_blue.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/abc_dialog_material_background_light.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/rect_blue.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/drawable/rect_blue.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/page_refrence_selector.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/drawable/page_refrence_selector.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/tw__share_action.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.7.0/res/drawable/tw__share_action.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/messenger_button_white_bg_selector.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/drawable/messenger_button_white_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/tw__login_btn_disabled.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.6.1/res/drawable/tw__login_btn_disabled.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/tw__login_btn_default.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.6.1/res/drawable/tw__login_btn_default.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/corners_bg_shape.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/drawable/corners_bg_shape.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/btn_gb_selector.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/drawable/btn_gb_selector.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/messenger_button_white_bg_round.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/drawable/messenger_button_white_bg_round.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/com_facebook_button_background.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/drawable/com_facebook_button_background.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/bg_loading_dialog_shape.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/drawable/bg_loading_dialog_shape.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/gray_border_shape.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/drawable/gray_border_shape.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/tw__transparent.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.6.1/res/drawable/tw__transparent.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/tw__app_info_layout_border.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-composer/1.0.1/res/drawable/tw__app_info_layout_border.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/top_box_gray.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/drawable/top_box_gray.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/tw__bg_tweet_compact.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.7.0/res/drawable/tw__bg_tweet_compact.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/page_show_selector.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/drawable/page_show_selector.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/detail_more_selector.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/drawable/detail_more_selector.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/wish_delete_selector.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/drawable/wish_delete_selector.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/tw__login_btn_text_color_light.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.6.1/res/drawable/tw__login_btn_text_color_light.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/tw__login_btn_pressed.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.6.1/res/drawable/tw__login_btn_pressed.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/indicator_bg_bottom.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/drawable/indicator_bg_bottom.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/tw__install_button_border.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-composer/1.0.1/res/drawable/tw__install_button_border.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/abc_dialog_material_background_light.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/indicator_corner_bg.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/IruluNoRong/AndroidImageSlider/unspecified/res/drawable/indicator_corner_bg.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/gradient_shape.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/drawable/gradient_shape.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/radius_bg.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/drawable/radius_bg.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/star_command_big.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/drawable/star_command_big.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/tw__login_btn_default.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.6.1/res/drawable/tw__login_btn_default.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/gray_btn.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/drawable/gray_btn.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/indicator_bg_top.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/drawable/indicator_bg_top.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/ic_page_indicator_focused.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/drawable/ic_page_indicator_focused.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/dialog_radius_bg.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/drawable/dialog_radius_bg.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/abc_edit_text_material.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/dgts__digits_btn.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.9.1/res/drawable/dgts__digits_btn.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/abc_dialog_material_background_dark.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/abc_edit_text_material.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/shape_circle_pic.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/drawable/shape_circle_pic.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/detail_share_selector.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/drawable/detail_share_selector.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/order_bottom_blue.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/drawable/order_bottom_blue.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/bottom_top_box_split.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/drawable/bottom_top_box_split.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/gray_border_shape.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/drawable/gray_border_shape.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/tw__login_btn_default_light.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.6.1/res/drawable/tw__login_btn_default_light.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/com_facebook_button_like_background.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/drawable/com_facebook_button_like_background.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/abc_dialog_material_background_dark.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/progress_light.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.9.1/res/drawable/progress_light.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/ic_back_last_selector.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/drawable/ic_back_last_selector.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/dialog_waiting_anim.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/drawable/dialog_waiting_anim.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/radius_bg.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/drawable/radius_bg.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/button_02_selector.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/drawable/button_02_selector.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/messenger_button_blue_bg_selector.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/drawable/messenger_button_blue_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/progress_dark.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.9.1/res/drawable/progress_dark.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/gift_more_selector.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/drawable/gift_more_selector.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/bg_loading_dialog_shape.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/drawable/bg_loading_dialog_shape.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/messenger_button_white_bg_selector.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/drawable/messenger_button_white_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/dialog_waiting_anim.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/drawable/dialog_waiting_anim.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/dialog_radius_bg.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/drawable/dialog_radius_bg.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/tw__bg_tweet.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.7.0/res/drawable/tw__bg_tweet.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/tw__login_btn_disabled.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.6.1/res/drawable/tw__login_btn_disabled.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/order_bottom_line_selector.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/drawable/order_bottom_line_selector.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/btn_menu_side_selector.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/drawable/btn_menu_side_selector.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/bottom_box_blue.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/drawable/bottom_box_blue.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/gradient_shape.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/drawable/gradient_shape.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/tw__btn_composer_tweet.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-composer/1.0.1/res/drawable/tw__btn_composer_tweet.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/tw__login_btn_pressed_light.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.6.1/res/drawable/tw__login_btn_pressed_light.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/com_facebook_button_send_background.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/drawable/com_facebook_button_send_background.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/btn_navigation_bar_search_button.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/drawable/btn_navigation_bar_search_button.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/bottom_box_gray_special.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/drawable/bottom_box_gray_special.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/gift_more_selector.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/drawable/gift_more_selector.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/bottom_box_blue.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/drawable/bottom_box_blue.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/order_bottom_line_selector.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/drawable/order_bottom_line_selector.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/bottom_stoke.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/drawable/bottom_stoke.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/com_facebook_button_login_silver_background.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/drawable/com_facebook_button_login_silver_background.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/tw__login_btn_pressed_light.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.6.1/res/drawable/tw__login_btn_pressed_light.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/bottom_box_gray.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/drawable/bottom_box_gray.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/order_bottom_none.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/drawable/order_bottom_none.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/com_facebook_button_send_background.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.7.0/res/drawable/com_facebook_button_send_background.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/add_wish_selector.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/drawable/add_wish_selector.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/bottom_box_gray_deep.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/drawable/bottom_box_gray_deep.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/animation.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/drawable/animation.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/cart_delete_selector.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/drawable/cart_delete_selector.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/message_pic_selector.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/drawable/message_pic_selector.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/detail_share_selector.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/drawable/detail_share_selector.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/tw__login_btn_light.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.6.1/res/drawable/tw__login_btn_light.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/button_02_selector.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/drawable/button_02_selector.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/loading_for_waitting.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/src/main/res/drawable/loading_for_waitting.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/list_item_divider.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/drawable/list_item_divider.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/reviews_progress_percent.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/drawable/reviews_progress_percent.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/tw__like_action.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.7.0/res/drawable/tw__like_action.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/bottom_top_box_split.xml",
+        "source": "/Users/dtw/IruluNoRong/app/src/main/res/drawable/bottom_top_box_split.xml"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable/progress_dark.xml",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.9.1/res/drawable/progress_dark.xml"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable/tw__install_button_border.xml",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-composer/1.0.1/res/drawable/tw__install_button_border.xml"
+    }
+]

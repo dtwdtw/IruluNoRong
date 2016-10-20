@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:padding="10dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:text="Choose a photo"
+            android:textColor="#2D2D2D"
+            android:textSize="@dimen/dialog_title_text_size" />
+
+        <ImageView
+            android:id="@+id/profile_choose_photo_iv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:clickable="true"
+            android:src="@mipmap/cart_delete_icon_normal" />
+    </RelativeLayout>
+
+    <View style="@style/HorizontalLine8" />
+
+    <TextView
+        android:id="@+id/profile_choose_photo_take_tv"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginLeft="50dp"
+        android:clickable="true"
+        android:gravity="center_vertical"
+        android:textSize="@dimen/about_iru_text_size"
+        android:text="Take a new photo"
+        android:textColor="#666666" />
+
+    <View
+        style="@style/HorizontalLine8"
+        android:layout_marginLeft="50dp"/>
+
+    <TextView
+        android:id="@+id/profile_choose_photo_choose_tv"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_marginLeft="50dp"
+        android:clickable="true"
+        android:gravity="center_vertical"
+        android:textSize="@dimen/about_iru_text_size"
+        android:text="Choose a photo from your album"
+        android:textColor="#666666" />
+</LinearLayout>

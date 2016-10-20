@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingLeft="@dimen/product_margin_box_02">
+    
+	<ImageView 
+	    style="@style/wrap_content"
+	    android:clickable="true"
+	    android:layout_alignParentLeft="true"
+	    android:layout_marginRight="15dp"
+	    android:layout_centerVertical="true"
+	    android:id="@+id/recent_iv_delete"
+	    android:src="@drawable/cart_delete_selector"/>
+	    
+	<ImageView 
+	    style="@style/wrap_match"
+	    android:layout_alignParentRight="true"
+	    android:id="@+id/recent_iv_go"
+	    android:layout_marginRight="@dimen/product_margin_box_01"
+	    android:layout_centerVertical="true"
+	    android:src="@mipmap/arrow_right_icon"/>
+	    
+	<TextView 
+	    style="@style/match_parent"
+	    android:id="@+id/recent_tv_content"
+	    android:layout_toRightOf="@id/recent_iv_delete"
+	    android:layout_toLeftOf="@id/recent_iv_go"
+		android:layout_centerVertical="true"
+		android:ellipsize="end"
+		android:maxLines="1"
+		android:lines="1"
+	    android:layout_marginRight="10dp"
+		android:paddingTop="@dimen/product_margin_box_03"
+		android:paddingBottom="@dimen/product_margin_box_03"
+	    android:gravity="top"
+	    android:textSize="@dimen/histartsear_size"/>
+
+	<View
+		style="@style/splite_gray"
+		android:layout_alignParentBottom="true"
+		android:layout_alignLeft="@id/recent_tv_content"/>
+	
+</RelativeLayout>

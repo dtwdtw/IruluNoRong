@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/item_rl"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/change_password_height"
+    android:clickable="true" >
+
+	<ImageView 
+	    android:id="@+id/leftnemu_selected"
+	    android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:scaleType="centerCrop"
+        android:layout_marginLeft="10dp"
+        android:drawableRight="@mipmap/leftnemu_selected"
+        android:button="@null"/>
+
+    <TextView
+        android:id="@+id/item_content"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@id/leftnemu_selected"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="12dp"
+        android:textColor="@color/product_name" />
+
+    <View
+        android:id="@+id/item_horizontal_line"
+        style="@style/HorizontalLine_px"
+        android:layout_alignParentBottom="true"
+        android:layout_toRightOf="@id/leftnemu_selected"
+        android:layout_marginLeft="5dp"/>
+
+</RelativeLayout>

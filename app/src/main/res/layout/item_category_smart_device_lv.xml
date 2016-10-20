@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:id="@+id/item_category_sd_rl"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/change_password_height"
+        android:clickable="true"
+        android:paddingLeft="10dp">
+
+        <TextView
+            android:id="@+id/item_category_smart_device_title_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/third_title_size"
+            android:layout_marginLeft="@dimen/home_margin_bottom"
+            android:textColor="#2d2d2d"
+            android:layout_centerVertical="true" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="10dp"
+            android:src="@mipmap/arrow_right_icon" />
+    </RelativeLayout>
+
+    <View style="@style/HorizontalLine8" />
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/item_category_sd_rlv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dp"
+        android:scrollbars="vertical" />
+</LinearLayout>

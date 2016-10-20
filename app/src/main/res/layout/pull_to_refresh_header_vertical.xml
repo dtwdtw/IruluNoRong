@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ptr="http://schemas.android.com/apk/res-auto">
+
+    <FrameLayout
+        android:id="@+id/fl_inner"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="@dimen/header_footer_top_bottom_padding"
+        android:paddingTop="@dimen/header_footer_top_bottom_padding" >
+
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center_horizontal"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/pull_to_refresh_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:singleLine="true"
+                android:textColor="@color/pulltorefresh_blue"
+                android:textAppearance="?android:attr/textAppearance"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/pull_to_refresh_sub_text"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:singleLine="true"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:visibility="gone" />
+        </LinearLayout>
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="left|center_vertical" >
+
+            <ImageView
+                android:id="@+id/pull_to_refresh_image"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+
+            <ProgressBar
+                android:id="@+id/pull_to_refresh_progress"
+                android:layout_width="@dimen/pageLoadDialog_circles"
+                android:layout_height="@dimen/pageLoadDialog_circles"
+                android:layout_gravity="center"
+                android:indeterminate="true"
+                android:indeterminateDrawable="@anim/dialog_waiting_anim"
+                android:visibility="gone" />
+        </FrameLayout>
+    </FrameLayout>
+
+</merge>

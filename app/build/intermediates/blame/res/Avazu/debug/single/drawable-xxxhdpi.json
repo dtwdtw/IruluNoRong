@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable-xxxhdpi/dgts__logo_name.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.9.1/res/drawable-xxxhdpi/dgts__logo_name.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable-xxxhdpi/dgts__addressbook_header.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.9.1/res/drawable-xxxhdpi/dgts__addressbook_header.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable-xxxhdpi/dgts__spinner_light.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.9.1/res/drawable-xxxhdpi/dgts__spinner_light.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable-xxxhdpi/dgts__logo.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.9.1/res/drawable-xxxhdpi/dgts__logo.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable-xxxhdpi/dgts__logo_name.png",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.9.1/res/drawable-xxxhdpi/dgts__logo_name.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable-xxxhdpi/dgts__login_header.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.9.1/res/drawable-xxxhdpi/dgts__login_header.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable-xxxhdpi/dgts__login_header.png",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.9.1/res/drawable-xxxhdpi/dgts__login_header.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable-xxxhdpi/dgts__ic_success.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.9.1/res/drawable-xxxhdpi/dgts__ic_success.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable-xxxhdpi/dgts__addressbook_header.png",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.9.1/res/drawable-xxxhdpi/dgts__addressbook_header.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable-xxxhdpi/dgts__spinner_dark.png",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.9.1/res/drawable-xxxhdpi/dgts__spinner_dark.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable-xxxhdpi/dgts__logo.png",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.9.1/res/drawable-xxxhdpi/dgts__logo.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable-xxxhdpi/dgts__ic_success.png",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.9.1/res/drawable-xxxhdpi/dgts__ic_success.png"
+    },
+    {
+        "merged": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/res/merged/Avazu/debug/drawable-xxxhdpi/dgts__spinner_dark.png",
+        "source": "/Users/dtw/irulu/irulu1.2/app/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.9.1/res/drawable-xxxhdpi/dgts__spinner_dark.png"
+    },
+    {
+        "merged": "/Users/dtw/IruluNoRong/app/build/intermediates/res/merged/Avazu/debug/drawable-xxxhdpi/dgts__spinner_light.png",
+        "source": "/Users/dtw/IruluNoRong/app/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.9.1/res/drawable-xxxhdpi/dgts__spinner_light.png"
+    }
+]
